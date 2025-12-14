@@ -154,15 +154,15 @@
   {
     "title": "True Detective",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5a/True_Detective_Season_1_Poster.jpg",
+    "cover": "https://m.media-amazon.com/images/I/713UqamR4uL._AC_UF894,1000_QL80_.jpg",
     "duration": "4 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=TXwCoNwBSkQ",
+    "trailer": "https://youtu.be/IizEW3BqPwU?si=GUEv5xNkNNqaapNn",
     "plot": "Serie antologica in cui investigatori della polizia svelano oscuri segreti criminali."
   },
   {
     "title": "Suits",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/7/7c/Suits_Season_1_Poster.jpg",
+    "cover": "https://m.media-amazon.com/images/I/71ml6HO4ocL._AC_UF1000,1000_QL80_.jpg",
     "duration": "9 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=85z53bAebsI",
     "plot": "Un brillante ragazzo che non ha finito il college impressiona un famoso avvocato e viene assunto nel suo studio."
@@ -170,55 +170,55 @@
   {
     "title": "The Penguin",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/05/The_Penguin_%28TV_series%29_poster.jpg",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_.jpg",
     "duration": "1 Stagione",
-    "trailer": "https://www.youtube.com/watch?v=sO3tL7Xl94Q",
+    "trailer": "https://youtu.be/wn7y3t5Fc6E?si=b84wcZnBBOraO7Af",
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   },
   {
     "title": "Scream Queens",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/6/67/Scream_Queens_Season_1_Poster.jpg",
+    "cover": "https://m.media-amazon.com/images/I/91NeHI+B9hL._AC_UF894,1000_QL80_.jpg",
     "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=-FtenR69qmk",
+    "trailer": "https://youtu.be/J5b4zNuLhmI?si=oOLnoC2B4gt7QHxG",
     "plot": "Una serie antologica horror-comedy che ruota attorno a un killer misterioso in un campus universitario."
   },
   {
     "title": "Il Gattopardo",
     "category": "Serie TV",
-    "cover": "https://pad.mymovies.it/filmclub/2023/05/013/locandinapg1.jpg",
-    "duration": "TBA",
-    "trailer": "https://www.youtube.com/watch?v=wX-XG-t0oCQ",
+    "cover": "https://pad.mymovies.it/filmclub/2022/05/086/locandinapg2.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://youtu.be/HDdiMrY-SHQ?si=EyKFQ1VQsg3vFsw1",
     "plot": "Adattamento seriale del classico romanzo italiano ambientato in Sicilia durante il Risorgimento."
   },
   {
     "title": "Reacher",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/3/30/Reacher_season_1_poster.jpg",
+    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202502/ftv45-67bd7f935fe41-re0.jpg",
     "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=GSyaZQzdVEs",
+    "trailer": "https://youtu.be/_6iRtXTBIuY?si=ZmBh6RwEL8Yz7JND",
     "plot": "Jack Reacher, ex ufficiale della polizia militare, viene arrestato per un omicidio che non ha commesso."
   },
   {
     "title": "You",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/You_Season_1_Poster.jpg",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_.jpg",
     "duration": "4 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=ga1m0wjz6GQ",
+    "trailer": "https://youtu.be/TYeCEXeqa7o?si=hxddGZm8WaKpwkOd",
     "plot": "Un brillante libraio usa internet e i social media per avvicinarsi alla donna dei suoi sogni, diventando ossessivo."
   },
   {
     "title": "Black Bird",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e3/Black_Bird_TV_Series_poster.jpg",
-    "duration": "Miniserie",
+    "cover": "https://pad.mymovies.it/filmclub/2022/04/001/locandina.jpg",
+    "duration": "1 Stagione",
     "trailer": "https://www.youtube.com/watch?v=aH1FOkJys3Y",
     "plot": "A un condannato viene offerta la libertà se riesce a ottenere una confessione da un presunto serial killer."
   },
   {
     "title": "Dexter",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Dexter_Season_1_DVD_Poster.jpg",
+    "cover": "https://www.antoniogenna.net/doppiaggio/telefilm/dexter.jpg",
     "duration": "8 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=YQeUmSD1c3g",
     "plot": "Un esperto forense della polizia di Miami conduce una doppia vita come vigilante serial killer."
@@ -226,7 +226,7 @@
   {
     "title": "The Last of Us",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/4/46/The_Last_of_Us_Season_1_Poster.jpg",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "1 Stagione",
     "trailer": "https://www.youtube.com/watch?v=uLtkt8BonwM",
     "plot": "In un mondo post-apocalittico, un contrabbandiere deve scortare una ragazzina immune attraverso gli Stati Uniti."
@@ -234,15 +234,15 @@
   {
     "title": "Italia's Got Talent",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/it/9/91/Italia%27s_Got_Talent_logo.png",
+    "cover": "https://faroentertainment.it/app/uploads/2024/01/50x70_Italias_Got_Talent-1.jpg",
     "duration": "Show",
-    "trailer": "https://www.youtube.com/watch?v=M9-sM1_L5qI",
+    "trailer": "https://youtu.be/2NQFi1fEguE?si=CQxtgGo-M4DaE1LE",
     "plot": "Show televisivo dove artisti di ogni tipo si esibiscono per vincere il favore dei giudici."
   },
   {
     "title": "Brooklyn Nine-Nine",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Brooklyn_Nine-Nine_Season_1_Poster.jpg",
+    "cover": "https://m.media-amazon.com/images/I/61HtVcB7oHL._AC_UF1000,1000_QL80_.jpg.jpg",
     "duration": "8 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=sEOuJ4z5aTc",
     "plot": "Le vicende esilaranti di un talentuoso ma immaturo detective della polizia di New York."
@@ -250,7 +250,7 @@
   {
     "title": "Narcos",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/da/Narcos_season_1.png",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_.jpg",
     "duration": "3 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=xl8zdCY-abw",
     "plot": "La storia vera dell'ascesa e della caduta dei cartelli della droga colombiani."
@@ -258,7 +258,7 @@
   {
     "title": "Breaking Bad",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "duration": "5 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
     "plot": "Un professore di chimica malato terminale si trasforma in un signore della droga."
@@ -266,25 +266,25 @@
   {
     "title": "The Vampire Diaries",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Vampire_Diaries_S1_DVD.jpg",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMmNjOWQzYmYtNGYxOS00MjVkLTg1MWUtMTkzMGE0MDgwNzQ5XkEyXkFqcGc@._V1_.jpg",
     "duration": "8 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=BZm9qXOMCnw",
+    "trailer": "https://youtu.be/xSR4dNmJtS0?si=qy7mThHQhlphsoNm",
     "plot": "Le vite, gli amori e i pericoli di due fratelli vampiri in una cittadina della Virginia."
   },
   {
     "title": "Supernatural",
     "category": "Serie TV",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/8/87/Supernatural_Season_1.jpg",
+    "cover": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185113_b_v13_bg.jpg",
     "duration": "15 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=t-775JyzDTk",
     "plot": "Due fratelli viaggiano attraverso l'America cacciando mostri, demoni e altre entità soprannaturali."
   },
   {
-    "title": "IT (Miniserie 1990)",
+    "title": "IT: Welcome to Derry",
     "category": "Serie TV",
-    "cover": "https://pad.mymovies.it/filmclub/2006/05/239/locandina.jpg",
-    "duration": "Miniserie",
-    "trailer": "https://www.youtube.com/watch?v=P_iY9z1pQh8",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://youtu.be/oM6sHtKdW7U?si=q5FCGeN6CdWJjraZ",
     "plot": "Sette ragazzini combattono un mostro mutaforma che terrorizza la loro città, per poi affrontarlo nuovamente da adulti."
   },
 
@@ -302,6 +302,7 @@
   { "title": "Peacemaker (serie tv)", "category": "DCU", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s", "duration": "2 Stagioni", "trailer": "https://youtu.be/zkkTbW3HCd8?si=_wXAgf1zeSGcUS6l", "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla." },
   { "title": "The Batman", "category": "DCU", "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg", "duration": "2h 56m", "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs", "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista." }
 ]
+
 
 
 
