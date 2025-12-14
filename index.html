@@ -10,33 +10,40 @@
         ::-webkit-scrollbar-track { background: #0f172a; }
         ::-webkit-scrollbar-thumb { background: #38bdf8; border-radius: 4px; }
         body { background-color: #0f172a; }
+        /* Animazione per l'accordion */
+        .accordion-content { transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out; max-height: 0; opacity: 0; overflow: hidden; }
+        .accordion-content.open { max-height: 2000px; opacity: 1; }
+        .chevron { transition: transform 0.3s; }
+        .group[data-open="true"] .chevron { transform: rotate(180deg); }
     </style>
 </head>
-<body class="text-slate-200 font-sans antialiased selection:bg-sky-500 selection:text-white">
+<body class="text-slate-200 font-sans antialiased selection:bg-sky-500 selection:text-white pb-20">
 
-    <nav class="sticky top-0 z-40 bg-slate-900/90 backdrop-blur-md border-b border-slate-700 p-4 shadow-xl">
+    <div id="cache-warning" class="bg-yellow-600/20 border-b border-yellow-600/50 text-yellow-200 px-4 py-2 text-center text-sm font-mono cursor-pointer hover:bg-yellow-600/30 transition">
+        ⚠️ Non vedi i film nuovi? Premi <strong>CTRL + SHIFT + R</strong> (o CMD + SHIFT + R su Mac) per forzare l'aggiornamento. <span onclick="this.parentElement.remove()" class="underline ml-2 text-yellow-400">Chiudi</span>
+    </div>
+
+    <nav class="sticky top-0 z-40 bg-slate-900/95 backdrop-blur-md border-b border-slate-700 p-4 shadow-xl">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <h1 class="text-2xl font-bold bg-gradient-to-r from-sky-400 to-indigo-400 bg-clip-text text-transparent">
-                MyWatchlist<span class="text-slate-500 text-sm font-mono ml-2">v1.0</span>
+                MyWatchlist <span class="text-slate-500 text-sm font-mono ml-2">v2.0</span>
             </h1>
-            <a href="https://github.com" target="_blank" class="text-sm text-slate-400 hover:text-white transition">GitHub Repo</a>
+            <div class="text-xs text-slate-400 font-mono hidden sm:block">Total items: <span id="total-count">0</span></div>
         </div>
     </nav>
 
-    <main id="main-container" class="max-w-7xl mx-auto p-6 space-y-16 pb-20 mt-4">
+    <main id="main-container" class="max-w-4xl mx-auto p-4 space-y-4 mt-6">
         </main>
 
-    <div id="movie-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/90 backdrop-blur-sm transition-opacity" onclick="if(event.target===this) closeModal()">
+    <div id="movie-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/95 backdrop-blur-sm transition-opacity" onclick="if(event.target===this) closeModal()">
         <div class="bg-slate-800 rounded-2xl max-w-5xl w-full overflow-hidden shadow-2xl border border-slate-700 relative flex flex-col md:flex-row max-h-[90vh]">
-            <button onclick="closeModal()" class="absolute top-3 right-3 z-10 p-2 bg-black/50 rounded-full text-white hover:bg-red-500 transition">✕</button>
-            
+            <button onclick="closeModal()" class="absolute top-3 right-3 z-10 p-2 bg-black/60 rounded-full text-white hover:bg-red-500 transition">✕</button>
             <div class="w-full md:w-2/3 bg-black aspect-video md:aspect-auto relative">
                 <iframe id="modal-trailer" class="absolute inset-0 w-full h-full" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
-
-            <div class="w-full md:w-1/3 p-6 md:p-8 flex flex-col overflow-y-auto">
+            <div class="w-full md:w-1/3 p-6 md:p-8 flex flex-col overflow-y-auto bg-slate-800">
                 <span id="modal-category" class="text-xs font-bold text-sky-400 uppercase tracking-widest mb-2"></span>
-                <h2 id="modal-title" class="text-3xl font-extrabold text-white leading-tight mb-2"></h2>
+                <h2 id="modal-title" class="text-2xl md:text-3xl font-extrabold text-white leading-tight mb-2"></h2>
                 <div class="flex items-center space-x-2 text-sm text-slate-400 mb-6">
                     <span class="flex items-center">⏱ <span id="modal-duration" class="ml-1"></span></span>
                 </div>
@@ -46,94 +53,110 @@
     </div>
 
     <script>
-        // Ordine specifico delle categorie richiesto
-        const categoryOrder = ["Film", "Horror", "Cartoni", "Serie TV", "Serie TV animate", "MCU", "DCU"];
+        const categoryOrder = ["Horror", "Film", "Cartoni", "Serie TV", "Serie TV animate", "MCU", "DCU"];
 
         async function loadMovies() {
             try {
-                const response = await fetch('movies.json');
+                // Cache busting: aggiungo timestamp per forzare il download del JSON nuovo
+                const response = await fetch('movies.json?v=' + new Date().getTime());
                 const movies = await response.json();
-                renderByCategories(movies);
+                renderAccordion(movies);
+                document.getElementById('total-count').innerText = movies.length;
             } catch (error) {
                 console.error("Errore:", error);
-                document.body.innerHTML = "<h1 class='text-center text-red-500 mt-10'>Errore caricamento database. Controlla la console.</h1>";
+                document.getElementById('main-container').innerHTML = "<div class='text-center text-red-400 p-10'>Errore caricamento. Controlla la console (F12).</div>";
             }
         }
 
-        function renderByCategories(movies) {
+        function renderAccordion(movies) {
             const container = document.getElementById('main-container');
             container.innerHTML = '';
 
-            // Iteriamo sull'array manuale 'categoryOrder' per rispettare il tuo ordine preciso
-            categoryOrder.forEach(catName => {
-                // Filtra i film per questa categoria
+            categoryOrder.forEach((catName, index) => {
                 const catMovies = movies.filter(m => m.category === catName);
-                
-                // Se non ci sono film in questa categoria, saltala (o mostrala vuota se preferisci)
                 if (catMovies.length === 0) return;
 
-                // Crea la sezione HTML
-                const section = document.createElement('section');
-                section.innerHTML = `
-                    <div class="flex items-center mb-6">
-                        <div class="w-1 h-8 bg-sky-500 rounded-full mr-3"></div>
-                        <h2 class="text-2xl font-bold text-white tracking-tight">${catName}</h2>
-                        <span class="ml-3 px-2 py-0.5 bg-slate-800 text-xs text-slate-400 rounded-full border border-slate-700">${catMovies.length}</span>
+                // Creazione sezione Accordion
+                const section = document.createElement('div');
+                section.className = "group border border-slate-700 rounded-xl bg-slate-800/50 overflow-hidden";
+                section.dataset.open = index === 0 ? "true" : "false"; // Apre solo la prima categoria di default
+
+                // Header Cliccabile
+                const header = document.createElement('div');
+                header.className = "p-4 flex items-center justify-between cursor-pointer hover:bg-slate-700/50 transition select-none";
+                header.onclick = () => toggleSection(section);
+                header.innerHTML = `
+                    <div class="flex items-center gap-3">
+                        <span class="w-2 h-2 rounded-full bg-sky-500 shadow-[0_0_10px_rgba(14,165,233,0.5)]"></span>
+                        <h2 class="text-lg font-bold text-slate-100">${catName}</h2>
+                        <span class="text-xs bg-slate-900 text-slate-400 px-2 py-0.5 rounded-full border border-slate-700">${catMovies.length}</span>
                     </div>
-                    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6">
-                        </div>
+                    <svg class="chevron w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
                 `;
 
-                const grid = section.querySelector('.grid');
+                // Content Grid
+                const contentWrapper = document.createElement('div');
+                contentWrapper.className = `accordion-content ${index === 0 ? 'open' : ''}`;
+                
+                const grid = document.createElement('div');
+                grid.className = "grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 p-4 border-t border-slate-700/50";
 
                 catMovies.forEach(movie => {
                     const card = document.createElement('div');
-                    card.className = "group relative bg-slate-800 rounded-lg overflow-hidden cursor-pointer hover:ring-2 hover:ring-sky-500 transition-all duration-300 shadow-lg";
+                    card.className = "group/card relative bg-slate-900 rounded-lg overflow-hidden cursor-pointer hover:ring-2 hover:ring-sky-500 transition-all shadow-lg aspect-[2/3]";
                     card.onclick = () => openModal(movie);
 
                     card.innerHTML = `
-                        <div class="aspect-[2/3] w-full overflow-hidden">
-                            <img src="${movie.cover}" alt="${movie.title}" loading="lazy" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
-                            <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                        </div>
-                        <div class="p-3">
-                            <h3 class="font-semibold text-sm text-white truncate">${movie.title}</h3>
-                            <p class="text-xs text-slate-500 mt-1">${movie.duration}</p>
+                        <img src="${movie.cover}" alt="${movie.title}" loading="lazy" class="w-full h-full object-cover group-hover/card:scale-110 transition-transform duration-500 opacity-90 hover:opacity-100">
+                        <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-60"></div>
+                        <div class="absolute bottom-0 left-0 right-0 p-3">
+                            <h3 class="font-semibold text-xs text-white truncate shadow-black drop-shadow-md">${movie.title}</h3>
                         </div>
                     `;
                     grid.appendChild(card);
                 });
 
+                contentWrapper.appendChild(grid);
+                section.appendChild(header);
+                section.appendChild(contentWrapper);
                 container.appendChild(section);
             });
         }
 
-        // Modale Logic
+        function toggleSection(section) {
+            const content = section.querySelector('.accordion-content');
+            const isOpen = section.dataset.open === "true";
+            
+            if (isOpen) {
+                content.classList.remove('open');
+                section.dataset.open = "false";
+            } else {
+                content.classList.add('open');
+                section.dataset.open = "true";
+            }
+        }
+
         const modal = document.getElementById('movie-modal');
-        const els = {
-            title: document.getElementById('modal-title'),
-            plot: document.getElementById('modal-plot'),
-            cat: document.getElementById('modal-category'),
-            dur: document.getElementById('modal-duration'),
-            video: document.getElementById('modal-trailer')
-        };
+        const els = { title: document.getElementById('modal-title'), plot: document.getElementById('modal-plot'), cat: document.getElementById('modal-category'), dur: document.getElementById('modal-duration'), video: document.getElementById('modal-trailer') };
 
         function openModal(movie) {
             els.title.innerText = movie.title;
-            els.plot.innerText = movie.plot;
+            els.plot.innerText = movie.plot || "Trama non disponibile.";
             els.cat.innerText = movie.category;
             els.dur.innerText = movie.duration;
-            els.video.src = `https://www.youtube.com/embed/${movie.trailer}?autoplay=1&rel=0`;
+            els.video.src = `https://www.youtube.com/embed/${movie.trailer}?autoplay=1`;
             modal.classList.remove('hidden');
             modal.classList.add('flex');
-            document.body.style.overflow = 'hidden'; // Blocca scroll pagina
+            document.body.style.overflow = 'hidden';
         }
 
         function closeModal() {
             modal.classList.add('hidden');
             modal.classList.remove('flex');
             els.video.src = ''; 
-            document.body.style.overflow = ''; // Riabilita scroll
+            document.body.style.overflow = '';
         }
 
         loadMovies();
