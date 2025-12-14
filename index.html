@@ -6,13 +6,21 @@
     <title>La Mia Watchlist</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        ::-webkit-scrollbar { width: 8px; }
+        body { background-color: #0f172a; }
+        
+        /* Custom Scrollbar Styling */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #0f172a; }
         ::-webkit-scrollbar-thumb { background: #38bdf8; border-radius: 4px; }
-        body { background-color: #0f172a; }
-        /* Animazione per l'accordion */
+
+        /* Utility per nascondere scrollbar ma mantenere funzionalità (per il menu orizzontale) */
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+        /* Accordion Animation */
         .accordion-content { transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out; max-height: 0; opacity: 0; overflow: hidden; }
         .accordion-content.open { max-height: 2000px; opacity: 1; }
+        
         .chevron { transition: transform 0.3s; }
         .group[data-open="true"] .chevron { transform: rotate(180deg); }
     </style>
@@ -20,27 +28,29 @@
 <body class="text-slate-200 font-sans antialiased selection:bg-sky-500 selection:text-white pb-20">
 
     <div id="cache-warning" class="bg-yellow-600/20 border-b border-yellow-600/50 text-yellow-200 px-4 py-2 text-center text-sm font-mono cursor-pointer hover:bg-yellow-600/30 transition">
-        ⚠️ Non vedi i film nuovi? Premi <strong>CTRL + SHIFT + R</strong> (o CMD + SHIFT + R su Mac) per forzare l'aggiornamento. <span onclick="this.parentElement.remove()" class="underline ml-2 text-yellow-400">Chiudi</span>
+        ⚠️ Non vedi le modifiche? Premi <strong>CTRL + SHIFT + R</strong> per aggiornare. <span onclick="this.parentElement.remove()" class="underline ml-2 text-yellow-400">Chiudi</span>
     </div>
 
     <nav class="sticky top-0 z-40 bg-slate-900/95 backdrop-blur-md border-b border-slate-700 p-4 shadow-xl">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <h1 class="text-2xl font-bold bg-gradient-to-r from-sky-400 to-indigo-400 bg-clip-text text-transparent">
-                MyWatchlist <span class="text-slate-500 text-sm font-mono ml-2">v2.0</span>
+                MyWatchlist <span class="text-slate-500 text-sm font-mono ml-2">v3.0</span>
             </h1>
             <div class="text-xs text-slate-400 font-mono hidden sm:block">Total items: <span id="total-count">0</span></div>
         </div>
     </nav>
 
-    <main id="main-container" class="max-w-4xl mx-auto p-4 space-y-4 mt-6">
+    <main id="main-container" class="max-w-6xl mx-auto p-4 space-y-4 mt-6">
         </main>
 
     <div id="movie-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/95 backdrop-blur-sm transition-opacity" onclick="if(event.target===this) closeModal()">
         <div class="bg-slate-800 rounded-2xl max-w-5xl w-full overflow-hidden shadow-2xl border border-slate-700 relative flex flex-col md:flex-row max-h-[90vh]">
             <button onclick="closeModal()" class="absolute top-3 right-3 z-10 p-2 bg-black/60 rounded-full text-white hover:bg-red-500 transition">✕</button>
+            
             <div class="w-full md:w-2/3 bg-black aspect-video md:aspect-auto relative">
                 <iframe id="modal-trailer" class="absolute inset-0 w-full h-full" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
+
             <div class="w-full md:w-1/3 p-6 md:p-8 flex flex-col overflow-y-auto bg-slate-800">
                 <span id="modal-category" class="text-xs font-bold text-sky-400 uppercase tracking-widest mb-2"></span>
                 <h2 id="modal-title" class="text-2xl md:text-3xl font-extrabold text-white leading-tight mb-2"></h2>
@@ -55,33 +65,45 @@
     <script>
         const categoryOrder = ["Horror", "Film", "Cartoni", "Serie TV", "Serie TV animate", "MCU", "DCU"];
 
+        // Funzione Smart per estrarre l'ID da qualsiasi link YouTube (Lungo o Corto)
+        function getYouTubeId(url) {
+            if (!url || url === 'placeholder') return null;
+            if (url.length === 11) return url; // È già un ID
+            
+            // Regex universale per YouTube
+            const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
+            const match = url.match(regExp);
+            return (match && match[2].length === 11) ? match[2] : null;
+        }
+
         async function loadMovies() {
             try {
-                // Cache busting: aggiungo timestamp per forzare il download del JSON nuovo
+                // Cache busting
                 const response = await fetch('movies.json?v=' + new Date().getTime());
                 const movies = await response.json();
                 renderAccordion(movies);
                 document.getElementById('total-count').innerText = movies.length;
             } catch (error) {
                 console.error("Errore:", error);
-                document.getElementById('main-container').innerHTML = "<div class='text-center text-red-400 p-10'>Errore caricamento. Controlla la console (F12).</div>";
+                document.getElementById('main-container').innerHTML = "<div class='text-center text-red-400 p-10 border border-red-800 rounded bg-red-900/20'>Errore caricamento dati. Verifica il JSON (virgole mancanti?).</div>";
             }
         }
 
         function renderAccordion(movies) {
             const container = document.getElementById('main-container');
             container.innerHTML = '';
-        
+
             categoryOrder.forEach((catName, index) => {
                 const catMovies = movies.filter(m => m.category === catName);
                 if (catMovies.length === 0) return;
-        
-                // Sezione Principale
+
+                // Sezione
                 const section = document.createElement('div');
-                section.className = "group border border-slate-700 rounded-xl bg-slate-800/50 overflow-hidden mb-6"; // Aggiunto margine basso
+                section.className = "group border border-slate-700 rounded-xl bg-slate-800/50 overflow-hidden mb-6";
+                // Apri solo la prima categoria di default
                 section.dataset.open = index === 0 ? "true" : "false";
-        
-                // Header (Titolo Categoria)
+
+                // Header
                 const header = document.createElement('div');
                 header.className = "p-4 flex items-center justify-between cursor-pointer hover:bg-slate-700/50 transition select-none z-10 relative bg-slate-800";
                 header.onclick = () => toggleSection(section);
@@ -95,29 +117,23 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 `;
-        
-                // Content Wrapper (Per l'animazione apri/chiudi)
+
+                // Wrapper Contenuto
                 const contentWrapper = document.createElement('div');
                 contentWrapper.className = `accordion-content ${index === 0 ? 'open' : ''}`;
                 
-                // --- MODIFICA CORE: Da Grid a Flex Orizzontale ---
+                // Horizontal Scroll Container
                 const scrollContainer = document.createElement('div');
-                // flex = mette in riga
-                // overflow-x-auto = abilita scroll orizzontale
-                // no-scrollbar = classe custom definita nel CSS
-                // snap-x = effetto calamita allo scroll
                 scrollContainer.className = "flex overflow-x-auto gap-4 p-4 pb-6 snap-x no-scrollbar";
                 
                 catMovies.forEach(movie => {
                     const card = document.createElement('div');
-                    // flex-none = impedisce alle card di restringersi
-                    // w-[160px] = larghezza fissa per ogni card
-                    // snap-start = punto di aggancio scroll
+                    // Card fissa width
                     card.className = "flex-none w-[140px] md:w-[180px] group/card relative bg-slate-900 rounded-lg overflow-hidden cursor-pointer hover:scale-105 transition-all duration-300 shadow-lg aspect-[2/3] snap-start border border-slate-700/50";
                     card.onclick = () => openModal(movie);
-        
+
                     card.innerHTML = `
-                        <img src="${movie.cover}" alt="${movie.title}" loading="lazy" class="w-full h-full object-cover opacity-80 group-hover/card:opacity-100 transition-opacity">
+                        <img src="${movie.cover}" alt="${movie.title}" loading="lazy" class="w-full h-full object-cover opacity-90 group-hover/card:opacity-100 transition-opacity">
                         <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-80"></div>
                         <div class="absolute bottom-0 left-0 right-0 p-3">
                             <h3 class="font-semibold text-xs text-white truncate shadow-black drop-shadow-md">${movie.title}</h3>
@@ -126,7 +142,7 @@
                     `;
                     scrollContainer.appendChild(card);
                 });
-        
+
                 contentWrapper.appendChild(scrollContainer);
                 section.appendChild(header);
                 section.appendChild(contentWrapper);
@@ -147,15 +163,28 @@
             }
         }
 
+        // Modal Logic
         const modal = document.getElementById('movie-modal');
         const els = { title: document.getElementById('modal-title'), plot: document.getElementById('modal-plot'), cat: document.getElementById('modal-category'), dur: document.getElementById('modal-duration'), video: document.getElementById('modal-trailer') };
 
         function openModal(movie) {
             els.title.innerText = movie.title;
-            els.plot.innerText = movie.plot || "Trama non disponibile.";
+            els.plot.innerText = movie.plot || "Nessuna trama disponibile.";
             els.cat.innerText = movie.category;
             els.dur.innerText = movie.duration;
-            els.video.src = `https://www.youtube.com/embed/${movie.trailer}?autoplay=1`;
+            
+            // SMART URL PARSER
+            const videoId = getYouTubeId(movie.trailer);
+            
+            if (videoId) {
+                els.video.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+                els.video.parentElement.classList.remove('hidden');
+            } else {
+                els.video.src = '';
+                // Se vuoi nascondere il player se non c'è video, decommenta:
+                // els.video.parentElement.classList.add('hidden');
+            }
+
             modal.classList.remove('hidden');
             modal.classList.add('flex');
             document.body.style.overflow = 'hidden';
@@ -172,4 +201,3 @@
     </script>
 </body>
 </html>
-
