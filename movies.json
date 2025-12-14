@@ -23,16 +23,87 @@
   { "title": "FNAF 2", "category": "Horror", "cover": "https://placehold.co/600x900/000/purple?text=FNAF+2", "duration": "TBA", "trailer": "placeholder", "plot": "Il secondo capitolo basato sul celebre videogioco Five Nights at Freddy's." },
   { "title": "La mano sulla culla", "category": "Horror", "cover": "https://image.tmdb.org/t/p/w500/5.jpg", "duration": "1h 50m", "trailer": "placeholder", "plot": "Una tata in cerca di vendetta si infiltra nella famiglia che ritiene responsabile delle sue sventure." },
 
-  { "title": "Il Robot Selvaggio", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/w9.jpg", "duration": "1h 40m", "trailer": "placeholder", "plot": "Un robot naufraga su un'isola disabitata e deve imparare ad adattarsi all'ambiente circostante." },
-  { "title": "Elio", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/r3.jpg", "duration": "TBA", "trailer": "placeholder", "plot": "Un ragazzo viene scambiato per l'ambasciatore della Terra da una federazione intergalattica." },
-  { "title": "Oceania 2", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/4.jpg", "duration": "TBA", "trailer": "placeholder", "plot": "Vaiana e Maui intraprendono un nuovo viaggio espansivo insieme a un equipaggio di marinai improbabili." },
-  { "title": "Flow", "category": "Cartoni", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=Flow", "duration": "TBA", "trailer": "placeholder", "plot": "Un gatto si risveglia in un mondo sommerso dall'acqua e deve sopravvivere." },
-  { "title": "Mulan", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/aK.jpg", "duration": "1h 28m", "trailer": "placeholder", "plot": "Una giovane donna si traveste da uomo per combattere nell'esercito imperiale e salvare suo padre." },
-  { "title": "Pocahontas", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/kL.jpg", "duration": "1h 21m", "trailer": "placeholder", "plot": "La figlia di un capo nativo americano si innamora di un colono inglese, cercando di evitare la guerra." },
-  { "title": "Alla ricerca di Nemo", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/eH.jpg", "duration": "1h 40m", "trailer": "placeholder", "plot": "Un pesce pagliaccio attraversa l'oceano per ritrovare il figlio rapito." },
-  { "title": "Alla ricerca di Dory", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/3i.jpg", "duration": "1h 37m", "trailer": "placeholder", "plot": "Dory inizia a ricordare la sua famiglia e parte per un'avventura per ritrovarli." },
-  { "title": "Angry Birds 2", "category": "Cartoni", "cover": "https://image.tmdb.org/t/p/w500/pB.jpg", "duration": "1h 37m", "trailer": "placeholder", "plot": "Uccelli e maiali devono allearsi quando una nuova minaccia mette in pericolo entrambe le loro isole." },
-  { "title": "K-Pop: Demon Hunters", "category": "Cartoni", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=KPop+Demon+Hunters", "duration": "TBA", "trailer": "placeholder", "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta." },
+  {
+    "title": "Il Robot Selvaggio",
+    "category": "Cartoni",
+    "cover": "https://www.universalpictures.it/tl_files/content/movies/wild_robot/posters/01.jpg",
+    "duration": "1h 40m",
+    "trailer": "https://www.youtube.com/watch?v=-VaKSnM-7RA",
+    "plot": "Un robot naufraga su un'isola disabitata e deve imparare ad adattarsi all'ambiente circostante."
+  },
+  {
+    "title": "Elio",
+    "category": "Cartoni",
+    "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2025/03/elio-film-pixar-poster-2025-300x429.jpg",
+    "duration": "1h 39min",
+    "trailer": "https://www.youtube.com/watch?v=Rl8sZRuFiNs",
+    "plot": "Un ragazzo viene scambiato per l'ambasciatore della Terra da una federazione intergalattica."
+  },
+  {
+    "title": "Oceania 2",
+    "category": "Cartoni",
+    "cover": "https://pad.mymovies.it/filmclub/2024/02/086/locandina.jpg",
+    "duration": "1h 40min",
+    "trailer": "https://www.youtube.com/watch?v=F9ftHHCxVm4",
+    "plot": "Vaiana e Maui intraprendono un nuovo viaggio espansivo insieme a un equipaggio di marinai improbabili."
+  },
+  {
+    "title": "Flow",
+    "category": "Cartoni",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 24m",
+    "trailer": "https://www.youtube.com/watch?v=AKZaJnmwNpk",
+    "plot": "Un gatto si risveglia in un mondo sommerso dall'acqua e deve sopravvivere."
+  },
+  {
+    "title": "Mulan",
+    "category": "Cartoni",
+    "cover": "https://m.media-amazon.com/images/S/pv-target-images/51a86822bc18d4192d80015e652b6e4c43d472dcd0e3300c98ee15ec53163fbe.jpg",
+    "duration": "1h 28m",
+    "trailer": "https://www.youtube.com/watch?v=HKH7_n425sE",
+    "plot": "Una giovane donna si traveste da uomo per combattere nell'esercito imperiale e salvare suo padre."
+  },
+  {
+    "title": "Pocahontas",
+    "category": "Cartoni",
+    "cover": "https://m.media-amazon.com/images/I/A1psuBi0pIL._AC_UF1000,1000_QL80_.jpg",
+    "duration": "1h 21m",
+    "trailer": "https://www.youtube.com/watch?v=QxYJWKVlXuQ",
+    "plot": "La figlia di un capo nativo americano si innamora di un colono inglese, cercando di evitare la guerra."
+  },
+  {
+    "title": "Alla ricerca di Nemo",
+    "category": "Cartoni",
+    "cover": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg",
+    "duration": "1h 40m",
+    "trailer": "https://www.youtube.com/watch?v=xSnF1fGssRk",
+    "plot": "Un pesce pagliaccio attraversa l'oceano per ritrovare il figlio rapito."
+  },
+  {
+    "title": "Alla ricerca di Dory",
+    "category": "Cartoni",
+    "cover": "https://m.media-amazon.com/images/I/71+dWqh7oVL.jpg",
+    "duration": "1h 37m",
+    "trailer": "https://www.youtube.com/watch?v=Ihiw62xaP7Y",
+    "plot": "Dory inizia a ricordare la sua famiglia e parte per un'avventura per ritrovarli."
+  },
+  {
+    "title": "Angry Birds 2",
+    "category": "Cartoni",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Angry_Birds_Movie_2_%282019_film%29.jpg",
+    "duration": "1h 37m",
+    "trailer": "https://www.youtube.com/watch?v=N_l36q6R1kc",
+    "plot": "Uccelli e maiali devono allearsi quando una nuova minaccia mette in pericolo entrambe le loro isole."
+  },
+  {
+    "title": "K-Pop: Demon Hunters",
+    "category": "Cartoni",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",
+    "duration": "1h 35min",
+    "trailer": "https://www.youtube.com/watch?v=ztkSahuuAPE",
+    "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta."
+  }
+
 
   { "title": "Il Gladiatore", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/r.jpg", "duration": "2h 35m", "trailer": "owK1qxDselE", "plot": "Un ex generale romano cerca vendetta contro l'imperatore corrotto che ha ucciso la sua famiglia." },
   { "title": "Il Gladiatore 2", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/2.jpg", "duration": "TBA", "trailer": "placeholder", "plot": "Il sequel epico che segue le vicende di Lucio, anni dopo la morte di Massimo Decimo Meridio." },
@@ -112,6 +183,7 @@
   { "title": "Peacemaker (serie tv)", "category": "DCU", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s", "duration": "2 Stagioni", "trailer": "https://youtu.be/zkkTbW3HCd8?si=_wXAgf1zeSGcUS6l", "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla." },
   { "title": "The Batman", "category": "DCU", "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg", "duration": "2h 56m", "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs", "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista." }
 ]
+
 
 
 
