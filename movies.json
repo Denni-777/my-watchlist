@@ -102,7 +102,7 @@
     "duration": "1h 35min",
     "trailer": "https://www.youtube.com/watch?v=ztkSahuuAPE",
     "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta."
-  }
+  },
 
 
   { "title": "Il Gladiatore", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/r.jpg", "duration": "2h 35m", "trailer": "owK1qxDselE", "plot": "Un ex generale romano cerca vendetta contro l'imperatore corrotto che ha ucciso la sua famiglia." },
@@ -183,6 +183,7 @@
   { "title": "Peacemaker (serie tv)", "category": "DCU", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s", "duration": "2 Stagioni", "trailer": "https://youtu.be/zkkTbW3HCd8?si=_wXAgf1zeSGcUS6l", "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla." },
   { "title": "The Batman", "category": "DCU", "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg", "duration": "2h 56m", "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs", "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista." }
 ]
+
 
 
 
