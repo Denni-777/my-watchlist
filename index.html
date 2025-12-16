@@ -8,14 +8,11 @@
     <style>
         body { background-color: #0f172a; }
         
-        /* Custom Scrollbar Styling */
+        /* Custom Scrollbar Styling - Ora visibile e funzionante */
         ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #0f172a; }
         ::-webkit-scrollbar-thumb { background: #38bdf8; border-radius: 4px; }
-
-        /* Utility per nascondere scrollbar ma mantenere funzionalità (per il menu orizzontale) */
-        .no-scrollbar::-webkit-scrollbar { display: none; }
-        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        ::-webkit-scrollbar-thumb:hover { background: #0ea5e9; }
 
         /* Accordion Animation */
         .accordion-content { transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out; max-height: 0; opacity: 0; overflow: hidden; }
@@ -34,7 +31,7 @@
     <nav class="sticky top-0 z-40 bg-slate-900/95 backdrop-blur-md border-b border-slate-700 p-4 shadow-xl">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <h1 class="text-2xl font-bold bg-gradient-to-r from-sky-400 to-indigo-400 bg-clip-text text-transparent">
-                MyWatchlist <span class="text-slate-500 text-sm font-mono ml-2">v3.0</span>
+                MyWatchlist <span class="text-slate-500 text-sm font-mono ml-2">v3.1</span>
             </h1>
             <div class="text-xs text-slate-400 font-mono hidden sm:block">Total items: <span id="total-count">0</span></div>
         </div>
@@ -51,13 +48,23 @@
                 <iframe id="modal-trailer" class="absolute inset-0 w-full h-full" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
 
-            <div class="w-full md:w-1/3 p-6 md:p-8 flex flex-col overflow-y-auto bg-slate-800">
+            <div class="w-full md:w-1/3 p-6 md:p-8 flex flex-col bg-slate-800 overflow-y-auto">
                 <span id="modal-category" class="text-xs font-bold text-sky-400 uppercase tracking-widest mb-2"></span>
                 <h2 id="modal-title" class="text-2xl md:text-3xl font-extrabold text-white leading-tight mb-2"></h2>
-                <div class="flex items-center space-x-2 text-sm text-slate-400 mb-6">
-                    <span class="flex items-center">⏱ <span id="modal-duration" class="ml-1"></span></span>
+                
+                <div class="flex items-center space-x-4 text-sm text-slate-400 mb-6 border-b border-slate-700 pb-4">
+                    <span class="flex items-center">⏱ <span id="modal-duration" class="ml-1 text-slate-200"></span></span>
                 </div>
-                <p id="modal-plot" class="text-slate-300 leading-relaxed text-sm"></p>
+                
+                <p id="modal-plot" class="text-slate-300 leading-relaxed text-sm mb-6 flex-grow"></p>
+                
+                <div class="mt-auto pt-4">
+                    <a id="modal-justwatch" href="#" target="_blank" class="flex items-center justify-center w-full gap-2 bg-[#fbc500] hover:bg-[#e0b000] text-black font-bold py-3 px-4 rounded-lg transition-transform hover:scale-[1.02] shadow-lg">
+                        <img src="https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp" alt="JW" class="h-4 w-auto object-contain brightness-0"> 
+                        <span>Trova streaming</span>
+                    </a>
+                    <p class="text-[10px] text-center text-slate-500 mt-2">Verifica su Netflix, Prime, Disney+ etc.</p>
+                </div>
             </div>
         </div>
     </div>
@@ -65,12 +72,10 @@
     <script>
         const categoryOrder = ["Horror", "Film", "Cartoni", "Serie TV", "Serie TV animate", "MCU", "DCU"];
 
-        // Funzione Smart per estrarre l'ID da qualsiasi link YouTube (Lungo o Corto)
+        // Funzione Smart per estrarre l'ID da qualsiasi link YouTube
         function getYouTubeId(url) {
             if (!url || url === 'placeholder') return null;
-            if (url.length === 11) return url; // È già un ID
-            
-            // Regex universale per YouTube
+            if (url.length === 11) return url;
             const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
             const match = url.match(regExp);
             return (match && match[2].length === 11) ? match[2] : null;
@@ -78,14 +83,13 @@
 
         async function loadMovies() {
             try {
-                // Cache busting
                 const response = await fetch('movies.json?v=' + new Date().getTime());
                 const movies = await response.json();
                 renderAccordion(movies);
                 document.getElementById('total-count').innerText = movies.length;
             } catch (error) {
                 console.error("Errore:", error);
-                document.getElementById('main-container').innerHTML = "<div class='text-center text-red-400 p-10 border border-red-800 rounded bg-red-900/20'>Errore caricamento dati. Verifica il JSON (virgole mancanti?).</div>";
+                document.getElementById('main-container').innerHTML = "<div class='text-center text-red-400 p-10 border border-red-800 rounded bg-red-900/20'>Errore caricamento dati. Verifica il JSON.</div>";
             }
         }
 
@@ -97,13 +101,10 @@
                 const catMovies = movies.filter(m => m.category === catName);
                 if (catMovies.length === 0) return;
 
-                // Sezione
                 const section = document.createElement('div');
                 section.className = "group border border-slate-700 rounded-xl bg-slate-800/50 overflow-hidden mb-6";
-                // Apri solo la prima categoria di default
                 section.dataset.open = index === 0 ? "true" : "false";
 
-                // Header
                 const header = document.createElement('div');
                 header.className = "p-4 flex items-center justify-between cursor-pointer hover:bg-slate-700/50 transition select-none z-10 relative bg-slate-800";
                 header.onclick = () => toggleSection(section);
@@ -118,17 +119,15 @@
                     </svg>
                 `;
 
-                // Wrapper Contenuto
                 const contentWrapper = document.createElement('div');
                 contentWrapper.className = `accordion-content ${index === 0 ? 'open' : ''}`;
                 
-                // Horizontal Scroll Container
                 const scrollContainer = document.createElement('div');
+                // NOTA: Ho rimosso 'no-scrollbar' qui sotto come richiesto per far vedere la barra
                 scrollContainer.className = "flex overflow-x-auto gap-4 p-4 pb-6 snap-x";
                 
                 catMovies.forEach(movie => {
                     const card = document.createElement('div');
-                    // Card fissa width
                     card.className = "flex-none w-[140px] md:w-[180px] group/card relative bg-slate-900 rounded-lg overflow-hidden cursor-pointer hover:scale-105 transition-all duration-300 shadow-lg aspect-[2/3] snap-start border border-slate-700/50";
                     card.onclick = () => openModal(movie);
 
@@ -165,7 +164,14 @@
 
         // Modal Logic
         const modal = document.getElementById('movie-modal');
-        const els = { title: document.getElementById('modal-title'), plot: document.getElementById('modal-plot'), cat: document.getElementById('modal-category'), dur: document.getElementById('modal-duration'), video: document.getElementById('modal-trailer') };
+        const els = { 
+            title: document.getElementById('modal-title'), 
+            plot: document.getElementById('modal-plot'), 
+            cat: document.getElementById('modal-category'), 
+            dur: document.getElementById('modal-duration'), 
+            video: document.getElementById('modal-trailer'),
+            jwBtn: document.getElementById('modal-justwatch') // Nuovo riferimento al bottone
+        };
 
         function openModal(movie) {
             els.title.innerText = movie.title;
@@ -173,17 +179,18 @@
             els.cat.innerText = movie.category;
             els.dur.innerText = movie.duration;
             
-            // SMART URL PARSER
+            // 1. GESTIONE VIDEO YOUTUBE
             const videoId = getYouTubeId(movie.trailer);
-            
             if (videoId) {
                 els.video.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-                els.video.parentElement.classList.remove('hidden');
             } else {
                 els.video.src = '';
-                // Se vuoi nascondere il player se non c'è video, decommenta:
-                // els.video.parentElement.classList.add('hidden');
             }
+
+            // 2. GESTIONE JUSTWATCH LINK (Generazione Dinamica)
+            // Crea un link di ricerca: https://www.justwatch.com/it/cerca?q=NomeFilm
+            const searchTitle = encodeURIComponent(movie.title);
+            els.jwBtn.href = `https://www.justwatch.com/it/cerca?q=${searchTitle}`;
 
             modal.classList.remove('hidden');
             modal.classList.add('flex');
@@ -201,4 +208,3 @@
     </script>
 </body>
 </html>
-
