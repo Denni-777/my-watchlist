@@ -576,7 +576,7 @@
   { "title": "The Batman", "category": "DCU", "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg", "duration": "2h 56m", "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs", "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista." },
   {
     "title": "Batman Begins",
-    "category": "Film",
+    "category": "DCU",
     "cover": "https://pad.mymovies.it/filmclub/2004/08/003/locandina.jpg",
     "duration": "2h 20m",
     "trailer": "https://youtu.be/KCq4ES_kq2g?si=IYl4_15Zb_KjVFyW",
@@ -584,7 +584,7 @@
   },
   {
     "title": "Il Cavaliere Oscuro",
-    "category": "Film",
+    "category": "DCU",
     "cover": "https://pad.mymovies.it/filmclub/2007/02/131/locandina.jpg",
     "duration": "2h 32m",
     "trailer": "https://youtu.be/yqcDBdk8wpo?si=nWP9qxNDtna1pqzh",
@@ -592,13 +592,14 @@
   },
   {
     "title": "Il Cavaliere Oscuro - Il Ritorno",
-    "category": "Film",
+    "category": "DCU",
     "cover": "https://www.ibs.it/images/5051891072923_0_0_536_0_75.jpg",
     "duration": "2h 44m",
     "trailer": "https://youtu.be/UwU4WpPRSvA?si=64uadplDeaj63SR3",
     "plot": "Otto anni dopo, Batman torna per difendere Gotham dalla minaccia brutale di Bane."
   }
 ]
+
 
 
 
