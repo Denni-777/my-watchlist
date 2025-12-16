@@ -1,18 +1,18 @@
 [
   { "title": "Passo del diavolo", "category": "Horror", "cover": "data:image/jpeg;base64,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", "duration": "1h 40m", "trailer": "https://youtu.be/Dr7HUKVtKeo?si=Uhi1JqSzvnxJlju_", "plot": "Cinque studenti ripercorrono il tragitto di escursionisti morti misteriosamente negli Urali." },
   { "title": "Get Out", "category": "Horror", "cover": "https://m.media-amazon.com/images/I/81lp-z-Sj4L._AC_UF894,1000_QL80_.jpg", "duration": "1h 44m", "trailer": "https://youtu.be/6A-9yr8j2iE?si=MMRU3t-3Ib8Uv9Nr", "plot": "Un giovane afroamericano visita la famiglia della fidanzata bianca, scoprendo un'inquietante verità." },
-  { "title": "The Substance", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2024/04/166/locandinapg2.jpg", "duration": "2h 20min", "trailer": "https://youtu.be/XbESiU4GDS4?si=fqM3XQSLxWlX6n-c", "plot": "Un horror corporeo che esplora i limiti della carne e della mente." },
+  { "title": "The Substance", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2024/04/166/locandinapg2.jpg", "duration": "2h 20m", "trailer": "https://youtu.be/XbESiU4GDS4?si=fqM3XQSLxWlX6n-c", "plot": "Un horror corporeo che esplora i limiti della carne e della mente." },
   { "title": "Longlegs", "category": "Horror", "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Longlegs_film_poster.jpg/250px-Longlegs_film_poster.jpg", "duration": "1h 41m", "trailer": "https://youtu.be/XCyplAYQrNY?si=E73h9unvpOCsMAPS", "plot": "Un agente dell'FBI segue le tracce di un serial killer occultista." },
-  { "title": "Trap", "category": "Horror", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWmqkQOF6m3Xy-OAni_fgUeoZ_HyXdLVOeA&s", "duration": "1h 45min", "trailer": "https://youtu.be/oqIMrn_GNo8?si=l7rqVod-004MfAzt", "plot": "Un thriller psicologico ambientato durante un concerto pop." },
+  { "title": "Trap", "category": "Horror", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWmqkQOF6m3Xy-OAni_fgUeoZ_HyXdLVOeA&s", "duration": "1h 45m", "trailer": "https://youtu.be/oqIMrn_GNo8?si=l7rqVod-004MfAzt", "plot": "Un thriller psicologico ambientato durante un concerto pop." },
   { "title": "Fantasy Island", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2019/11/056/locandina.jpg", "duration": "1h 49m", "trailer": "https://youtu.be/q8W_0rRRuTw?si=wvhsVankOw7sO9pd", "plot": "Il misterioso Mr. Roarke realizza i sogni segreti dei suoi ospiti in un resort tropicale, ma i sogni diventano incubi." },
-  { "title": "Companion", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2024/05/100/locandinapg1.jpg", "duration": "1h 37min", "trailer": "https://youtu.be/Of2Jhouqy48?si=D2gpOkIiUQ-Pq-GZ", "plot": "Un thriller sci-fi horror dai creatori di Barbarian." },
-  { "title": "I peccatori (Sinners)", "category": "Horror", "cover": "https://resizing.flixster.com/VR3Tfr9zpNllsU6RchvnbhGmPkc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhOTdiZDNjLTlmODQtNGNlYi1iZWYwLWNkYjY2YmI5YzZjYS5qcGc=", "duration": "2h 17min", "trailer": "https://youtu.be/_6T94P6zjEk?si=HurfFm94as3SppAs", "plot": "Ryan Coogler dirige Michael B. Jordan in questo thriller soprannaturale." },
+  { "title": "Companion", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2024/05/100/locandinapg1.jpg", "duration": "1h 37m", "trailer": "https://youtu.be/Of2Jhouqy48?si=D2gpOkIiUQ-Pq-GZ", "plot": "Un thriller sci-fi horror dai creatori di Barbarian." },
+  { "title": "I peccatori (Sinners)", "category": "Horror", "cover": "https://resizing.flixster.com/VR3Tfr9zpNllsU6RchvnbhGmPkc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhOTdiZDNjLTlmODQtNGNlYi1iZWYwLWNkYjY2YmI5YzZjYS5qcGc=", "duration": "2h 17m", "trailer": "https://youtu.be/_6T94P6zjEk?si=HurfFm94as3SppAs", "plot": "Ryan Coogler dirige Michael B. Jordan in questo thriller soprannaturale." },
   { "title": "Don't Worry Darling", "category": "Horror", "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/Dont-Worry-Darling-poster-film-2022.jpg", "duration": "2h 3m", "trailer": "https://youtu.be/62UczCGW-nE?si=Zw0RP1RtH5baK8px", "plot": "Una casalinga degli anni '50 inizia a sospettare che la compagnia del marito nasconda segreti inquietanti." },
   { "title": "Midsommar", "category": "Horror", "cover": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png", "duration": "2h 28m", "trailer": "https://youtu.be/gMnFCl_Bqsk?si=PkDonwrhNDGf6kKv", "plot": "Una coppia viaggia in Svezia per un festival rurale che si trasforma presto in un incubo pagano." },
   { "title": "Scream 7", "category": "Horror", "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241", "duration": "1h 54m", "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg", "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro." },
   { "title": "X - A Sexy Horror Story", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2022/01/145/locandinapg1.jpg", "duration": "1h 45m", "trailer": "https://youtu.be/dDH_dnnDTs8?si=JTjwzHr4J5y4rRdC", "plot": "Una troupe cinematografica arriva in una fattoria isolata del Texas per girare un film per adulti." },
   { "title": "Inheritance", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2020/03/091/locandina.jpg", "duration": "1h 51m", "trailer": "https://youtu.be/u6j-2BuGxmo?si=1tFgdYeUpU8d32Nj", "plot": "Un patriarca muore lasciando alla figlia una scioccante eredità segreta che minaccia di distruggere la famiglia." },
-  { "title": "Him", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2024/12/039/locandinapg1.jpg", "duration": "1h 36min", "trailer": "https://youtu.be/NV3JRmV_CIs?si=yANzlULvJ8q7QgnI", "plot": "Prodotto da Jordan Peele, un nuovo incubo cinematografico." },
+  { "title": "Him", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2024/12/039/locandinapg1.jpg", "duration": "1h 36m", "trailer": "https://youtu.be/NV3JRmV_CIs?si=yANzlULvJ8q7QgnI", "plot": "Prodotto da Jordan Peele, un nuovo incubo cinematografico." },
   { "title": "Hereditary", "category": "Horror", "cover": "https://m.media-amazon.com/images/S/pv-target-images/2be98bed028f1d53e01a860b6bb91c362dc32611c45effbcf2aa2645d590b22a.jpg", "duration": "2h 7m", "trailer": "https://youtu.be/7s67m3DjTR8?si=wxziLkdQdhK_C0a0", "plot": "Dopo la morte della matriarca, una famiglia inizia a svelare segreti terrificanti sulla propria discendenza." },
   { "title": "The Descent", "category": "Horror", "cover": "https://pad.mymovies.it/filmclub/2005/08/036/locandina.jpg", "duration": "1h 39m", "trailer": "https://youtu.be/NALlx9D_1Yo?si=CoXlwsMrudqEUK4f", "plot": "Un gruppo di amiche esplora una grotta non mappata e si ritrova preda di creature umanoidi." },
   { "title": "Us", "category": "Horror", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphSNpqdBQ-6-NVtPXrCs83zAs9dFtkWyoQQ&s", "duration": "1h 56m", "trailer": "https://youtu.be/RBUkkG65EyM?si=kBv8PN5wMPPFiKMe", "plot": "Una famiglia in vacanza viene terrorizzata da un gruppo di doppelgänger assassini." },
@@ -34,7 +34,7 @@
     "title": "Elio",
     "category": "Cartoni",
     "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2025/03/elio-film-pixar-poster-2025-300x429.jpg",
-    "duration": "1h 39min",
+    "duration": "1h 39m",
     "trailer": "https://www.youtube.com/watch?v=Rl8sZRuFiNs",
     "plot": "Un ragazzo viene scambiato per l'ambasciatore della Terra da una federazione intergalattica."
   },
@@ -42,7 +42,7 @@
     "title": "Oceania 2",
     "category": "Cartoni",
     "cover": "https://pad.mymovies.it/filmclub/2024/02/086/locandina.jpg",
-    "duration": "1h 40min",
+    "duration": "1h 40m",
     "trailer": "https://www.youtube.com/watch?v=F9ftHHCxVm4",
     "plot": "Vaiana e Maui intraprendono un nuovo viaggio espansivo insieme a un equipaggio di marinai improbabili."
   },
@@ -98,58 +98,333 @@
     "title": "K-Pop: Demon Hunters",
     "category": "Cartoni",
     "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",
-    "duration": "1h 35min",
+    "duration": "1h 35m",
     "trailer": "https://www.youtube.com/watch?v=ztkSahuuAPE",
     "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta."
   },
 
+  {
+    "title": "Il Gladiatore",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2001/01/022/locandina.jpg",
+    "duration": "2h 35m",
+    "trailer": "https://www.youtube.com/watch?v=l-r8yI3Hw44",
+    "plot": "Un ex generale romano cerca vendetta contro l'imperatore corrotto che ha ucciso la sua famiglia."
+  },
+  {
+    "title": "Il Gladiatore 2",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2023/02/096/locandinapg1.jpg",
+    "duration": "2h 28m",
+    "trailer": "https://www.youtube.com/watch?v=4IEl7gE-d0s",
+    "plot": "Il sequel epico che segue le vicende di Lucio, anni dopo la morte di Massimo Decimo Meridio."
+  },
+  {
+    "title": "Il Giurato Numero 2",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2023/03/214/locandina.jpg",
+    "duration": "1h 54m",
+    "trailer": "https://www.youtube.com/watch?v=A7_v1Tz2o5I",
+    "plot": "Un giurato in un processo per omicidio si rende conto che potrebbe essere lui il responsabile della morte della vittima."
+  },
+  {
+    "title": "Creed - Nato per combattere",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2015/04/113/locandina.jpg",
+    "duration": "2h 13m",
+    "trailer": "https://www.youtube.com/watch?v=J2K4-0JzE0g",
+    "plot": "Il figlio di Apollo Creed viene allenato da Rocky Balboa."
+  },
+  {
+    "title": "Creed II",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2018/04/019/locandina.jpg",
+    "duration": "2h 10m",
+    "trailer": "https://www.youtube.com/watch?v=XY1o5x3i6uM",
+    "plot": "Adonis Creed affronta il figlio di Ivan Drago, l'uomo che ha ucciso suo padre sul ring."
+  },
+  {
+    "title": "Creed III",
+    "category": "Film",
+    "cover": "https://mr.comingsoon.it/imgdb/locandine/big/59937.jpg",
+    "duration": "1h 56m",
+    "trailer": "https://www.youtube.com/watch?v=d6yF6b3-e5c",
+    "plot": "Adonis deve combattere contro un amico d'infanzia ed ex prodigio della boxe tornato dal carcere."
+  },
+  {
+    "title": "Interstellar",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2014/01/001/locandina.jpg",
+    "duration": "2h 49m",
+    "trailer": "https://www.youtube.com/watch?v=l7tU1xC_5g4",
+    "plot": "Un team di esploratori viaggia attraverso un wormhole nello spazio nel tentativo di garantire la sopravvivenza dell'umanità."
+  },
+  {
+    "title": "C'era una volta a... Hollywood",
+    "category": "Film",
+    "cover": "https://images.justwatch.com/poster/309284691/s718/cera-una-volta-a-hollywood.jpg",
+    "duration": "2h 41m",
+    "trailer": "https://www.youtube.com/watch?v=ELeMaP8EPAA",
+    "plot": "Un attore televisivo in declino e la sua controfigura cercano di farsi strada nell'industria cinematografica del 1969."
+  },
+  {
+    "title": "The Gorge",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "2h 7m",
+    "trailer": "https://www.youtube.com/watch?v=br2G8T2T_tU",
+    "plot": "Due giovani molto pericolosi si innamorano nonostante il mondo corrotto che li circonda."
+  },
+  {
+    "title": "Anora",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 19m",
+    "trailer": "https://www.youtube.com/watch?v=7Y4m.jpg",
+    "plot": "Una commedia drammatica di Sean Baker su una sex worker."
+  },
+  {
+    "title": "We Live in Time",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2024/03/084/locandinapg1.jpg",
+    "duration": "1h 47m",
+    "trailer": "https://www.youtube.com/watch?v=E3.jpg",
+    "plot": "Una storia d'amore profonda e commovente con Andrew Garfield e Florence Pugh."
+  },
+  {
+    "title": "Bastille Day",
+    "category": "Film",
+    "cover": "https://images.justwatch.com/poster/53276287/s718/bastille-day-il-colpo-del-secolo.jpg",
+    "duration": "1h 32m",
+    "trailer": "https://www.youtube.com/watch?v=q.jpg",
+    "plot": "Un borseggiatore e un agente della CIA si alleano per sventare un complotto terroristico a Parigi."
+  },
+  {
+    "title": "Ballerina",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2023/03/101/locandinapg1.jpg",
+    "duration": "2h 5m",
+    "trailer": "https://www.youtube.com/watch?v=o.jpg",
+    "plot": "Spin-off di John Wick su una giovane assassina in cerca di vendetta."
+  },
+  {
+    "title": "Eden",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2024/07/036/locandina.jpg",
+    "duration": "2h 9m",
+    "trailer": "placeholder",
+    "plot": "Un thriller di sopravvivenza diretto da Ron Howard ambientato nelle Galapagos."
+  },
+  {
+    "title": "Facciamola finita",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2009/06/139/locandina.jpg",
+    "duration": "1h 47m",
+    "trailer": "https://www.youtube.com/watch?v=h.jpg",
+    "plot": "Attori famosi interpretano se stessi mentre affrontano l'apocalisse durante una festa a casa di James Franco."
+  },
+  {
+    "title": "Fidanzata in affitto",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2023/03/071/locandina.jpg",
+    "duration": "1h 43m",
+    "trailer": "https://www.youtube.com/watch?v=P.jpg",
+    "plot": "Una coppia sull'orlo della bancarotta accetta di uscire col figlio impacciato di una coppia ricca."
+  },
+  {
+    "title": "Il club dei delitti del giovedì",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 58m",
+    "trailer": "placeholder",
+    "plot": "Quattro pensionati si riuniscono per risolvere casi irrisolti, ma si trovano coinvolti in un vero omicidio."
+  },
+  {
+    "title": "The Gray Man",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2011/08/067/locandina.jpg",
+    "duration": "2h 2m",
+    "trailer": "https://www.youtube.com/watch?v=5.jpg",
+    "plot": "L'agente più abile della CIA scopre oscuri segreti dell'agenzia e diventa un bersaglio."
+  },
+  {
+    "title": "Deep Water",
+    "category": "Film",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/37/Deep_Water_%282022_film%29.jpg",
+    "duration": "1h 55m",
+    "trailer": "https://www.youtube.com/watch?v=9.jpg",
+    "plot": "Un marito benestante permette alla moglie di avere relazioni extraconiugali per evitare il divorzio, ma la situazione degenera."
+  },
+  {
+    "title": "Babylon",
+    "category": "Film",
+    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202212/ftv45-63aee4bb92a96-FB_IMG_1672406163617.jpg",
+    "duration": "3h 9m",
+    "trailer": "https://www.youtube.com/watch?v=R.jpg",
+    "plot": "Una storia di ambizioni smisurate ed eccessi oltraggiosi nella Hollywood degli anni '20."
+  },
+  {
+    "title": "Hit Man",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzFhMDZmYTctOTNmZi00MjVjLThkNGItMTJhOTI2NDkzMTFiXkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 55m",
+    "trailer": "https://www.youtube.com/watch?v=F.jpg",
+    "plot": "Un professore lavora sotto copertura come finto sicario e infrange il protocollo per aiutare una donna disperata."
+  },
+  {
+    "title": "Scary Movie",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 28m",
+    "trailer": "https://www.youtube.com/watch?v=d.jpg",
+    "plot": "Una parodia esilarante dei film horror slasher degli anni '90."
+  },
+  {
+    "title": "Bumblebee",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2016/11/156/locandina.jpg",
+    "duration": "1h 54m",
+    "trailer": "https://www.youtube.com/watch?v=l.jpg",
+    "plot": "Nel 1987, l'Autobot Bumblebee trova rifugio in una discarica e stringe amicizia con una ragazza."
+  },
+  {
+    "title": "The Social Network",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 0m",
+    "trailer": "https://www.youtube.com/watch?v=l.jpg",
+    "plot": "La storia della creazione di Facebook e le battaglie legali che ne seguirono."
+  },
+  {
+    "title": "Don't Look Up",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2021/02/052/locandina.jpg",
+    "duration": "2h 18m",
+    "trailer": "https://www.youtube.com/watch?v=R.jpg",
+    "plot": "Due astronomi intraprendono un tour mediatico per avvisare l'umanità di una cometa in rotta di collisione con la Terra."
+  },
+  {
+    "title": "Revenant - Redivivo",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2011/11/053/locandina.jpg",
+    "duration": "2h 36m",
+    "trailer": "https://www.youtube.com/watch?v=L.jpg",
+    "plot": "Un esploratore lotta per la sopravvivenza dopo essere stato sbranato da un orso e tradito dai suoi compagni."
+  },
+  {
+    "title": "Il Grande Gatsby",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2010/11/083/locandina.jpg",
+    "duration": "2h 23m",
+    "trailer": "https://www.youtube.com/watch?v=n.jpg",
+    "plot": "Un aspirante scrittore viene attratto dal mondo sontuoso e misterioso del suo vicino milionario, Jay Gatsby."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2011/08/095/locandina.jpg",
+    "duration": "2h 44m",
+    "trailer": "https://www.youtube.com/watch?v=d.jpg",
+    "plot": "Un nuovo Blade Runner scopre un segreto sepolto da tempo che potrebbe far precipitare la società nel caos."
+  },
+  {
+    "title": "La battaglia di Hacksaw Ridge",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2016/06/042/locandina.jpg",
+    "duration": "2h 19m",
+    "trailer": "https://www.youtube.com/watch?v=s.jpg",
+    "plot": "La storia vera di Desmond Doss, che salvò 75 uomini a Okinawa senza sparare un colpo."
+  },
+  {
+    "title": "Shutter Island",
+    "category": "Film",
+    "cover": "https://www.ibs.it/images/5051891078055_0_0_536_0_75.jpg",
+    "duration": "2h 18m",
+    "trailer": "https://www.youtube.com/watch?v=5.jpg",
+    "plot": "Un maresciallo americano indaga sulla scomparsa di un'assassina da un ospedale psichiatrico su un'isola remota."
+  },
+  {
+    "title": "Inception",
+    "category": "Film",
+    "cover": "https://www.ibs.it/images/5051891020825_0_0_536_0_75.jpg",
+    "duration": "2h 28m",
+    "trailer": "https://www.youtube.com/watch?v=Y.jpg",
+    "plot": "Un ladro che ruba segreti dai sogni deve compiere l'impresa opposta: innestare un'idea nella mente di un CEO."
+  },
+  {
+    "title": "Under the Silver Lake",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2017/06/011/locandina.jpg",
+    "duration": "2h 19m",
+    "trailer": "https://www.youtube.com/watch?v=m.jpg",
+    "plot": "Un uomo ossessionato dalle cospirazioni indaga sulla scomparsa improvvisa della sua vicina di casa."
+  },
+  {
+    "title": "The Prestige",
+    "category": "Film",
+    "cover": "https://cdn.chili.com/images/public/cms/79/70/97/11/79709711-3f9b-4b7c-be75-2cf0b6e80b32.jpg?width=330",
+    "duration": "2h 10m",
+    "trailer": "https://www.youtube.com/watch?v=o.jpg",
+    "plot": "Due maghi rivali si sfidano in una battaglia sempre più pericolosa per creare l'illusione definitiva."
+  },
+  {
+    "title": "Jojo Rabbit",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 48m",
+    "trailer": "https://www.youtube.com/watch?v=t.jpg",
+    "plot": "Un ragazzino nella Germania nazista scopre che sua madre nasconde una ragazza ebrea in soffitta."
+  },
+  {
+    "title": "Frankenstein (Del Toro)",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2025/06/001/locandinapg2.jpg",
+    "duration": "2h 30m",
+    "trailer": "placeholder",
+    "plot": "L'adattamento di Guillermo del Toro del classico racconto gotico."
+  },
+  {
+    "title": "Now You See Me 3",
+    "category": "Film",
+    "cover": "https://images.justwatch.com/poster/334654729/s718/now-you-see-me-3.jpg",
+    "duration": "1h 53m",
+    "trailer": "placeholder",
+    "plot": "Il ritorno dei Quattro Cavalieri per una nuova rapina illusionistica."
+  },
+  {
+    "title": "The Running Man",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "2h 13m",
+    "trailer": "placeholder",
+    "plot": "Remake del classico sci-fi distopico tratto dal romanzo di Stephen King."
+  },
+  {
+    "title": "Share? (2023)",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BY2Y0ZTI1NTktOWQ5OC00YTRjLWIyNzMtNWFhOWNmMGRkMTdlXkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 20m",
+    "trailer": "https://www.youtube.com/watch?v=y.jpg",
+    "plot": "Un uomo si sveglia in una stanza isolata con solo un computer e deve intrattenere un pubblico invisibile per sopravvivere."
+  },
+  {
+    "title": "Mercy",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2024/03/089/locandina.jpg",
+    "duration": "1h 40m",
+    "trailer": "placeholder",
+    "plot": "Thriller sci-fi con Chris Pratt ambientato in un futuro dove i crimini capitali sono aumentati."
+  },
+  {
+    "title": "Donnie Darko",
+    "category": "Film",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 52m",
+    "trailer": "placeholder",
+    "plot": "Un adolescente problematico e schizofrenico sopravvive miracolosamente alla caduta di un motore d'aereo sulla sua casa."
+  }
 
-  { "title": "Il Gladiatore", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/r.jpg", "duration": "2h 35m", "trailer": "owK1qxDselE", "plot": "Un ex generale romano cerca vendetta contro l'imperatore corrotto che ha ucciso la sua famiglia." },
-  { "title": "Il Gladiatore 2", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/2.jpg", "duration": "TBA", "trailer": "placeholder", "plot": "Il sequel epico che segue le vicende di Lucio, anni dopo la morte di Massimo Decimo Meridio." },
-  { "title": "Il Giurato Numero 2", "category": "Film", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=Giurato+Numero+2", "duration": "TBA", "trailer": "placeholder", "plot": "Un giurato in un processo per omicidio si rende conto che potrebbe essere lui il responsabile della morte della vittima." },
-  { "title": "Batman Begins", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/1P.jpg", "duration": "2h 20m", "trailer": "placeholder", "plot": "Le origini di Batman e la sua lotta contro Ra's al Ghul e lo Spaventapasseri." },
-  { "title": "Il Cavaliere Oscuro", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/qJ2.jpg", "duration": "2h 32m", "trailer": "placeholder", "plot": "Batman affronta il Joker, un genio criminale che vuole gettare Gotham nel caos." },
-  { "title": "Il Cavaliere Oscuro - Il Ritorno", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/vzv.jpg", "duration": "2h 44m", "trailer": "placeholder", "plot": "Otto anni dopo, Batman torna per difendere Gotham dalla minaccia brutale di Bane." },
-  { "title": "Creed - Nato per combattere", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/iK.jpg", "duration": "2h 13m", "trailer": "placeholder", "plot": "Il figlio di Apollo Creed viene allenato da Rocky Balboa." },
-  { "title": "Creed II", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/v3.jpg", "duration": "2h 10m", "trailer": "placeholder", "plot": "Adonis Creed affronta il figlio di Ivan Drago, l'uomo che ha ucciso suo padre sul ring." },
-  { "title": "Creed III", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/cvs.jpg", "duration": "1h 56m", "trailer": "placeholder", "plot": "Adonis deve combattere contro un amico d'infanzia ed ex prodigio della boxe tornato dal carcere." },
-  { "title": "Interstellar", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/gEU.jpg", "duration": "2h 49m", "trailer": "placeholder", "plot": "Un team di esploratori viaggia attraverso un wormhole nello spazio nel tentativo di garantire la sopravvivenza dell'umanità." },
-  { "title": "C'era una volta a... Hollywood", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/8j.jpg", "duration": "2h 41m", "trailer": "placeholder", "plot": "Un attore televisivo in declino e la sua controfigura cercano di farsi strada nell'industria cinematografica del 1969." },
-  { "title": "The Gorge", "category": "Film", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=The+Gorge", "duration": "TBA", "trailer": "placeholder", "plot": "Due giovani molto pericolosi si innamorano nonostante il mondo corrotto che li circonda." },
-  { "title": "Anora", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/7.jpg", "duration": "TBA", "trailer": "placeholder", "plot": "Una commedia drammatica di Sean Baker su una sex worker." },
-  { "title": "Angelo Duro (Show)", "category": "Film", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=Angelo+Duro", "duration": "TBA", "trailer": "placeholder", "plot": "Comicità irriverente e politicamente scorretta." },
-  { "title": "We Live in Time", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/6.jpg", "duration": "TBA", "trailer": "placeholder", "plot": "Una storia d'amore profonda e commovente con Andrew Garfield e Florence Pugh." },
-  { "title": "Fuck You, Prof!", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/kR.jpg", "duration": "1h 59m", "trailer": "placeholder", "plot": "Un ex criminale diventa insegnante in una scuola problematica." },
-  { "title": "Bastille Day", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/l.jpg", "duration": "1h 32m", "trailer": "placeholder", "plot": "Un borseggiatore e un agente della CIA si alleano per sventare un complotto terroristico a Parigi." },
-  { "title": "Ballerina", "category": "Film", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=Ballerina", "duration": "TBA", "trailer": "placeholder", "plot": "Spin-off di John Wick su una giovane assassina in cerca di vendetta." },
-  { "title": "Un mondo a parte", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/a.jpg", "duration": "1h 53m", "trailer": "placeholder", "plot": "Un maestro elementare si trasferisce in una scuola di montagna in Abruzzo." },
-  { "title": "Eden", "category": "Film", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=Eden", "duration": "TBA", "trailer": "placeholder", "plot": "Un thriller di sopravvivenza diretto da Ron Howard ambientato nelle Galapagos." },
-  { "title": "Facciamola finita", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/3.jpg", "duration": "1h 47m", "trailer": "placeholder", "plot": "Attori famosi interpretano se stessi mentre affrontano l'apocalisse durante una festa a casa di James Franco." },
-  { "title": "Fidanzata in affitto", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/g.jpg", "duration": "1h 43m", "trailer": "placeholder", "plot": "Una coppia sull'orlo della bancarotta accetta di uscire col figlio impacciato di una coppia ricca." },
-  { "title": "Il club dei delitti del giovedì", "category": "Film", "cover": "https://placehold.co/600x900/0f172a/38bdf8?text=Club+Dei+Delitti", "duration": "TBA", "trailer": "placeholder", "plot": "Quattro pensionati si riuniscono per risolvere casi irrisolti, ma si trovano coinvolti in un vero omicidio." },
-  { "title": "The Gray Man", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/8.jpg", "duration": "2h 2m", "trailer": "BmllggGO4pM", "plot": "L'agente più abile della CIA scopre oscuri segreti dell'agenzia e diventa un bersaglio." },
-  { "title": "Deep Water", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/6.jpg", "duration": "1h 55m", "trailer": "placeholder", "plot": "Un marito benestante permette alla moglie di avere relazioni extraconiugali per evitare il divorzio, ma la situazione degenera." },
-  { "title": "Babylon", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/xj.jpg", "duration": "3h 9m", "trailer": "placeholder", "plot": "Una storia di ambizioni smisurate ed eccessi oltraggiosi nella Hollywood degli anni '20." },
-  { "title": "Hit Man", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/1.jpg", "duration": "1h 55m", "trailer": "placeholder", "plot": "Un professore lavora sotto copertura come finto sicario e infrange il protocollo per aiutare una donna disperata." },
-  { "title": "Scary Movie", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/l.jpg", "duration": "1h 28m", "trailer": "placeholder", "plot": "Una parodia esilarante dei film horror slasher degli anni '90." },
-  { "title": "Bumblebee", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/fw.jpg", "duration": "1h 54m", "trailer": "placeholder", "plot": "Nel 1987, l'Autobot Bumblebee trova rifugio in una discarica e stringe amicizia con una ragazza." },
-  { "title": "The Social Network", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/n.jpg", "duration": "2h 0m", "trailer": "lB95KLmpLR4", "plot": "La storia della creazione di Facebook e le battaglie legali che ne seguirono." },
-  { "title": "Don't Look Up", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/th.jpg", "duration": "2h 18m", "trailer": "RbIxYm3mKzI", "plot": "Due astronomi intraprendono un tour mediatico per avvisare l'umanità di una cometa in rotta di collisione con la Terra." },
-  { "title": "Revenant - Redivivo", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/ji.jpg", "duration": "2h 36m", "trailer": "LoebZZ8K5N0", "plot": "Un esploratore lotta per la sopravvivenza dopo essere stato sbranato da un orso e tradito dai suoi compagni." },
-  { "title": "Il Grande Gatsby", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/nim.jpg", "duration": "2h 23m", "trailer": "placeholder", "plot": "Un aspirante scrittore viene attratto dal mondo sontuoso e misterioso del suo vicino milionario, Jay Gatsby." },
-  { "title": "Blade Runner 2049", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/6.jpg", "duration": "2h 44m", "trailer": "placeholder", "plot": "Un nuovo Blade Runner scopre un segreto sepolto da tempo che potrebbe far precipitare la società nel caos." },
-  { "title": "La battaglia di Hacksaw Ridge", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/b.jpg", "duration": "2h 19m", "trailer": "s2-1hz1juBI", "plot": "La storia vera di Desmond Doss, che salvò 75 uomini a Okinawa senza sparare un colpo." },
-  { "title": "Shutter Island", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/4.jpg", "duration": "2h 18m", "trailer": "5iaYLCiq5RM", "plot": "Un maresciallo americano indaga sulla scomparsa di un'assassina da un ospedale psichiatrico su un'isola remota." },
-  { "title": "Inception", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/9.jpg", "duration": "2h 28m", "trailer": "YoHD9XEInc0", "plot": "Un ladro che ruba segreti dai sogni deve compiere l'impresa opposta: innestare un'idea nella mente di un CEO." },
-  { "title": "Under the Silver Lake", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/p.jpg", "duration": "2h 19m", "trailer": "placeholder", "plot": "Un uomo ossessionato dalle cospirazioni indaga sulla scomparsa improvvisa della sua vicina di casa." },
-  { "title": "The Prestige", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/t.jpg", "duration": "2h 10m", "trailer": "o4gHCMTvGC8", "plot": "Due maghi rivali si sfidano in una battaglia sempre più pericolosa per creare l'illusione definitiva." },
-  { "title": "Jojo Rabbit", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/7.jpg", "duration": "1h 48m", "trailer": "tL4McUzXfFI", "plot": "Un ragazzino nella Germania nazista scopre che sua madre nasconde una ragazza ebrea in soffitta." },
-  { "title": "Frankenstein (Del Toro)", "category": "Film", "cover": "https://placehold.co/600x900/111/444?text=Frankenstein", "duration": "TBA", "trailer": "placeholder", "plot": "L'adattamento di Guillermo del Toro del classico racconto gotico." },
-  { "title": "Now You See Me 3", "category": "Film", "cover": "https://placehold.co/600x900/111/444?text=Now+You+See+Me+3", "duration": "TBA", "trailer": "placeholder", "plot": "Il ritorno dei Quattro Cavalieri per una nuova rapina illusionistica." },
-  { "title": "The Running Man", "category": "Film", "cover": "https://placehold.co/600x900/111/444?text=The+Running+Man", "duration": "TBA", "trailer": "placeholder", "plot": "Remake del classico sci-fi distopico tratto dal romanzo di Stephen King." },
-  { "title": "Share?", "category": "Film", "cover": "https://image.tmdb.org/t/p/w500/a.jpg", "duration": "1h 20m", "trailer": "placeholder", "plot": "Un uomo si sveglia in una stanza isolata con solo un computer e deve intrattenere un pubblico invisibile per sopravvivere." },
-  { "title": "Mercy", "category": "Film", "cover": "https://placehold.co/600x900/111/444?text=Mercy", "duration": "TBA", "trailer": "placeholder", "plot": "Thriller sci-fi con Chris Pratt ambientato in un futuro dove i crimini capitali sono aumentati." },
-
+  
   {
     "title": "True Detective",
     "category": "Serie TV",
@@ -291,16 +566,41 @@
   { "title": "Rick and Morty", "category": "Serie TV animate", "cover": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "duration": "8 Stagioni", "trailer": "https://youtu.be/L-cfz3XvOHQ?si=n2E-gKTcva8_JMWV", "plot": "Le disavventure interdimensionali di uno scienziato pazzo e del suo nipote ansioso." },
   { "title": "Death Note", "category": "Serie TV animate", "cover": "https://www.debaser.it/resize.aspx?path=%2Ffiles%2F2020%2F51021.jpg", "duration": "1 Stagione", "trailer": "https://youtu.be/02nS6Fr0NNo?si=rIKWEsJlsNY8VppC", "plot": "Uno studente trova un quaderno che uccide chiunque il cui nome venga scritto su di esso." },
 
-  { "title": "Kraven - Il Cacciatore", "category": "MCU", "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRffi-oAq_FJa1b-PcCkAEmVnk9wDklEvDPEerHWpKm2Coo5vYW", "duration": "2h 7min", "trailer": "https://youtu.be/zdzC4v3JUF8?si=GuLMnPa3qsrGgJvg", "plot": "Il cacciatore Sergei Kravinoff è in missione per dimostrare di essere il più grande cacciatore al mondo." },
+  { "title": "Kraven - Il Cacciatore", "category": "MCU", "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRffi-oAq_FJa1b-PcCkAEmVnk9wDklEvDPEerHWpKm2Coo5vYW", "duration": "2h 7m", "trailer": "https://youtu.be/zdzC4v3JUF8?si=GuLMnPa3qsrGgJvg", "plot": "Il cacciatore Sergei Kravinoff è in missione per dimostrare di essere il più grande cacciatore al mondo." },
   { "title": "Marvel Zombies", "category": "MCU", "cover": "data:image/jpeg;base64,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", "duration": "1 stagione", "trailer": "https://youtu.be/nj3HKSjV9W0?si=x1Jql4088bYDxDKO", "plot": "Una nuova generazione di eroi combatte contro un'apocalisse zombie in continua espansione." },
   { "title": "Morbius", "category": "MCU", "cover": "https://resizing.flixster.com/QdgkXoEVBbSPngYBIEQorVt3QuY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3OWQyOGE0LThmODItNDczNS04MDhjLThiZjQxYzM0YzYwZS5qcGc=", "duration": "1h 44m", "trailer": "https://youtu.be/6FxUdXgEeVQ?si=8lSxj77FeS5zvFSP", "plot": "Un biochimico tenta di curarsi da una rara malattia del sangue, ma si infetta con una forma di vampirismo." },
 
   { "title": "The Suicide Squad - Missione Suicida", "category": "DCU", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uJVdEhzDLQ0gmXDe857tQsvypl1aecJgGQ&s", "duration": "2h 12m", "trailer": "https://youtu.be/mrFHQtUycio?si=xcfWSPUjCcyHQOKH", "plot": "Supercriminali vengono inviati in una missione segreta sull'isola di Corto Maltese." },
-  { "title": "Superman", "category": "DCU", "cover": "https://pad.mymovies.it/filmclub/2023/03/110/locandinapg2.jpg", "duration": "2h 10min", "trailer": "https://youtu.be/H8n9GndufaQ?si=EMqVhotTHYv1-Wkw", "plot": "Il nuovo film di James Gunn che rilancia l'Uomo d'Acciaio." },
+  { "title": "Superman", "category": "DCU", "cover": "https://pad.mymovies.it/filmclub/2023/03/110/locandinapg2.jpg", "duration": "2h 10m", "trailer": "https://youtu.be/H8n9GndufaQ?si=EMqVhotTHYv1-Wkw", "plot": "Il nuovo film di James Gunn che rilancia l'Uomo d'Acciaio." },
   { "title": "Supergirl: Woman of Tomorrow", "category": "DCU", "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg", "duration": "TBA", "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj", "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo." },
   { "title": "Peacemaker (serie tv)", "category": "DCU", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s", "duration": "2 Stagioni", "trailer": "https://youtu.be/zkkTbW3HCd8?si=_wXAgf1zeSGcUS6l", "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla." },
-  { "title": "The Batman", "category": "DCU", "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg", "duration": "2h 56m", "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs", "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista." }
+  { "title": "The Batman", "category": "DCU", "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg", "duration": "2h 56m", "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs", "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista." },
+  {
+    "title": "Batman Begins",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2004/08/003/locandina.jpg",
+    "duration": "2h 20m",
+    "trailer": "https://youtu.be/KCq4ES_kq2g?si=IYl4_15Zb_KjVFyW",
+    "plot": "Le origini di Batman e la sua lotta contro Ra's al Ghul e lo Spaventapasseri."
+  },
+  {
+    "title": "Il Cavaliere Oscuro",
+    "category": "Film",
+    "cover": "https://pad.mymovies.it/filmclub/2007/02/131/locandina.jpg",
+    "duration": "2h 32m",
+    "trailer": "https://youtu.be/yqcDBdk8wpo?si=nWP9qxNDtna1pqzh",
+    "plot": "Batman affronta il Joker, un genio criminale che vuole gettare Gotham nel caos."
+  },
+  {
+    "title": "Il Cavaliere Oscuro - Il Ritorno",
+    "category": "Film",
+    "cover": "https://www.ibs.it/images/5051891072923_0_0_536_0_75.jpg",
+    "duration": "2h 44m",
+    "trailer": "https://youtu.be/UwU4WpPRSvA?si=64uadplDeaj63SR3",
+    "plot": "Otto anni dopo, Batman torna per difendere Gotham dalla minaccia brutale di Bane."
+  }
 ]
+
 
 
 
