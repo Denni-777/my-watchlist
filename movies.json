@@ -105,7 +105,7 @@
 
   {
     "title": "Il Gladiatore",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2001/01/022/locandina.jpg",
     "duration": "2h 35m",
     "trailer": "https://www.youtube.com/watch?v=xPgZqzxK_PQ",
@@ -113,7 +113,7 @@
   },
   {
     "title": "Il Gladiatore 2",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2023/02/096/locandinapg1.jpg",
     "duration": "2h 28m",
     "trailer": "https://www.youtube.com/watch?v=bGfEJThfmxo",
@@ -129,7 +129,7 @@
   },
   {
     "title": "Creed - Nato per combattere",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2015/04/113/locandina.jpg",
     "duration": "2h 13m",
     "trailer": "https://www.youtube.com/watch?v=k9FPw0Akuhs",
@@ -137,7 +137,7 @@
   },
   {
     "title": "Creed II",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2018/04/019/locandina.jpg",
     "duration": "2h 10m",
     "trailer": "https://www.youtube.com/watch?v=IbQHX3kqNuQ",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Creed III",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://mr.comingsoon.it/imgdb/locandine/big/59937.jpg",
     "duration": "1h 56m",
     "trailer": "https://www.youtube.com/watch?v=glC10RPu7tY",
@@ -153,7 +153,7 @@
   },
   {
     "title": "Interstellar",
-    "category": "Film",
+    "category": "Film - Fantascienza",
     "cover": "https://pad.mymovies.it/filmclub/2014/01/001/locandina.jpg",
     "duration": "2h 49m",
     "trailer": "https://www.youtube.com/watch?v=EIVMVIr3q3Y",
@@ -161,7 +161,7 @@
   },
   {
     "title": "C'era una volta a... Hollywood",
-    "category": "Film",
+    "category": "Film - Commedia",
     "cover": "https://images.justwatch.com/poster/309284691/s718/cera-una-volta-a-hollywood.jpg",
     "duration": "2h 41m",
     "trailer": "https://www.youtube.com/watch?v=ZWoN40hO4rU",
@@ -169,7 +169,7 @@
   },
   {
     "title": "The Gorge",
-    "category": "Film",
+    "category": "Film - Horror",
     "cover": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "2h 7m",
     "trailer": "https://www.youtube.com/watch?v=z75UDmsgdps",
@@ -177,7 +177,7 @@
   },
   {
     "title": "Anora",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
     "duration": "2h 19m",
     "trailer": "https://www.youtube.com/watch?v=LsGvnMLqW1Q",
@@ -185,7 +185,7 @@
   },
   {
     "title": "We Live in Time",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://pad.mymovies.it/filmclub/2024/03/084/locandinapg1.jpg",
     "duration": "1h 47m",
     "trailer": "https://www.youtube.com/watch?v=BFLvSvk5bys",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Bastille Day",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://images.justwatch.com/poster/53276287/s718/bastille-day-il-colpo-del-secolo.jpg",
     "duration": "1h 32m",
     "trailer": "https://www.youtube.com/watch?v=8jcGiXy_BJk",
@@ -201,7 +201,7 @@
   },
   {
     "title": "Ballerina",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2023/03/101/locandinapg1.jpg",
     "duration": "2h 5m",
     "trailer": "https://www.youtube.com/watch?v=6rY_py741-E",
@@ -209,7 +209,7 @@
   },
   {
     "title": "Eden",
-    "category": "Film",
+    "category": "Film - Thriller",
     "cover": "https://pad.mymovies.it/filmclub/2024/07/036/locandina.jpg",
     "duration": "2h 9m",
     "trailer": "https://www.youtube.com/watch?v=RtSKAw371Vw",
@@ -217,7 +217,7 @@
   },
   {
     "title": "Facciamola finita",
-    "category": "Film",
+    "category": "Film - Commedia",
     "cover": "https://pad.mymovies.it/filmclub/2009/06/139/locandina.jpg",
     "duration": "1h 47m",
     "trailer": "https://www.youtube.com/watch?v=I8nt4bAx6Z4",
@@ -225,7 +225,7 @@
   },
   {
     "title": "Fidanzata in affitto",
-    "category": "Film",
+    "category": "Film - Commedia",
     "cover": "https://pad.mymovies.it/filmclub/2023/03/071/locandina.jpg",
     "duration": "1h 43m",
     "trailer": "https://www.youtube.com/watch?v=PBwvSgN29Q0",
@@ -233,7 +233,7 @@
   },
   {
     "title": "Il club dei delitti del giovedì",
-    "category": "Film",
+    "category": "Film - Giallo",
     "cover": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_.jpg",
     "duration": "1h 58m",
     "trailer": "https://www.youtube.com/watch?v=tejQkB4crWk",
@@ -241,7 +241,7 @@
   },
   {
     "title": "The Gray Man",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2011/08/067/locandina.jpg",
     "duration": "2h 2m",
     "trailer": "https://www.youtube.com/watch?v=M7h7ydEjIcM",
@@ -249,7 +249,7 @@
   },
   {
     "title": "Deep Water",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://upload.wikimedia.org/wikipedia/en/3/37/Deep_Water_%282022_film%29.jpg",
     "duration": "1h 55m",
     "trailer": "https://www.youtube.com/watch?v=VT1aAMEhFnE",
@@ -257,7 +257,7 @@
   },
   {
     "title": "Babylon",
-    "category": "Film",
+    "category": "Film - Commedia",
     "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202212/ftv45-63aee4bb92a96-FB_IMG_1672406163617.jpg",
     "duration": "3h 9m",
     "trailer": "https://www.youtube.com/watch?v=idSQmGYWD8Y",
@@ -265,7 +265,7 @@
   },
   {
     "title": "Hit Man",
-    "category": "Film",
+    "category": "Film - Commedia",
     "cover": "https://m.media-amazon.com/images/M/MV5BNzFhMDZmYTctOTNmZi00MjVjLThkNGItMTJhOTI2NDkzMTFiXkEyXkFqcGc@._V1_.jpg",
     "duration": "1h 55m",
     "trailer": "https://www.youtube.com/watch?v=Bj5BpYqQY5k",
@@ -273,7 +273,7 @@
   },
   {
     "title": "Scary Movie",
-    "category": "Film",
+    "category": "Film - Commedia",
     "cover": "https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "1h 28m",
     "trailer": "https://www.youtube.com/watch?v=N7qBn8fHkWg",
@@ -281,7 +281,7 @@
   },
   {
     "title": "Bumblebee",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2016/11/156/locandina.jpg",
     "duration": "1h 54m",
     "trailer": "https://www.youtube.com/watch?v=0qLD524G_X8",
@@ -289,7 +289,7 @@
   },
   {
     "title": "The Social Network",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_.jpg",
     "duration": "2h",
     "trailer": "https://www.youtube.com/watch?v=uctcm8C6x3E",
@@ -297,7 +297,7 @@
   },
   {
     "title": "Don't Look Up",
-    "category": "Film",
+    "category": "Film - Fantascienza",
     "cover": "https://pad.mymovies.it/filmclub/2021/02/052/locandina.jpg",
     "duration": "2h 18m",
     "trailer": "https://www.youtube.com/watch?v=DhYXSqz8H-o",
@@ -305,7 +305,7 @@
   },
   {
     "title": "Revenant - Redivivo",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2011/11/053/locandina.jpg",
     "duration": "2h 36m",
     "trailer": "https://www.youtube.com/watch?v=xrctuMnFDc4",
@@ -313,7 +313,7 @@
   },
   {
     "title": "Il Grande Gatsby",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://pad.mymovies.it/filmclub/2010/11/083/locandina.jpg",
     "duration": "2h 23m",
     "trailer": "https://www.youtube.com/watch?v=Ck56GzJ7d3g",
@@ -321,7 +321,7 @@
   },
   {
     "title": "Blade Runner 2049",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2011/08/095/locandina.jpg",
     "duration": "2h 44m",
     "trailer": "https://www.youtube.com/watch?v=f2jW75Q8EaI",
@@ -329,7 +329,7 @@
   },
   {
     "title": "La battaglia di Hacksaw Ridge",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://pad.mymovies.it/filmclub/2016/06/042/locandina.jpg",
     "duration": "2h 19m",
     "trailer": "https://www.youtube.com/watch?v=kYf3Wxb7-0Y",
@@ -337,7 +337,7 @@
   },
   {
     "title": "Shutter Island",
-    "category": "Film",
+    "category": "Film - Thriller",
     "cover": "https://www.ibs.it/images/5051891078055_0_0_536_0_75.jpg",
     "duration": "2h 18m",
     "trailer": "https://www.youtube.com/watch?v=mzkVNB3FpSQ",
@@ -345,7 +345,7 @@
   },
   {
     "title": "Inception",
-    "category": "Film",
+    "category": "Film - Fantascienza",
     "cover": "https://www.ibs.it/images/5051891020825_0_0_536_0_75.jpg",
     "duration": "2h 28m",
     "trailer": "https://www.youtube.com/watch?v=BV7z0I90MJk",
@@ -353,7 +353,7 @@
   },
   {
     "title": "Under the Silver Lake",
-    "category": "Film",
+    "category": "Film Giallo",
     "cover": "https://pad.mymovies.it/filmclub/2017/06/011/locandina.jpg",
     "duration": "2h 19m",
     "trailer": "https://www.youtube.com/watch?v=LukWTblX8d8",
@@ -361,7 +361,7 @@
   },
   {
     "title": "The Prestige",
-    "category": "Film",
+    "category": "Film - Thriller",
     "cover": "https://cdn.chili.com/images/public/cms/79/70/97/11/79709711-3f9b-4b7c-be75-2cf0b6e80b32.jpg?width=330",
     "duration": "2h 10m",
     "trailer": "https://www.youtube.com/watch?v=R0EX7pO8w50",
@@ -369,7 +369,7 @@
   },
   {
     "title": "Jojo Rabbit",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "1h 48m",
     "trailer": "https://www.youtube.com/watch?v=bv3mzvYh1r0",
@@ -377,7 +377,7 @@
   },
   {
     "title": "Frankenstein (Del Toro)",
-    "category": "Film",
+    "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2025/06/001/locandinapg2.jpg",
     "duration": "2h 30m",
     "trailer": "https://www.youtube.com/watch?v=CwhYNCvli7g",
@@ -385,7 +385,7 @@
   },
   {
     "title": "Now You See Me 3",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://images.justwatch.com/poster/334654729/s718/now-you-see-me-3.jpg",
     "duration": "1h 53m",
     "trailer": "https://www.youtube.com/watch?v=RnW6NhpR8Uc",
@@ -393,7 +393,7 @@
   },
   {
     "title": "The Running Man",
-    "category": "Film",
+    "category": "Film - Azione",
     "cover": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "2h 13m",
     "trailer": "https://www.youtube.com/watch?v=Pfp7NR37BsI",
@@ -417,7 +417,7 @@
   },
   {
     "title": "Donnie Darko",
-    "category": "Film",
+    "category": "Film - Drammatico",
     "cover": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "1h 52m",
     "trailer": "https://www.youtube.com/watch?v=Uab7LYrAiqM",
@@ -509,7 +509,7 @@
     "title": "Italia's Got Talent",
     "category": "Serie TV",
     "cover": "https://faroentertainment.it/app/uploads/2024/01/50x70_Italias_Got_Talent-1.jpg",
-    "duration": "Show",
+    "duration": "1 Stagione",
     "trailer": "https://youtu.be/2NQFi1fEguE?si=CQxtgGo-M4DaE1LE",
     "plot": "Show televisivo dove artisti di ogni tipo si esibiscono per vincere il favore dei giudici."
   },
@@ -600,6 +600,7 @@
     "plot": "Otto anni dopo, Batman torna per difendere Gotham dalla minaccia brutale di Bane."
   }
 ]
+
 
 
 
