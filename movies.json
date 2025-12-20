@@ -208,6 +208,14 @@
     "plot": "Spin-off di John Wick su una giovane assassina in cerca di vendetta."
   },
   {
+    "title": "No Time To Die",
+    "category": "Film - Azione",
+    "cover": "https://static.posters.cz/image/1300/114389.jpg",
+    "duration": "2h 43m",
+    "trailer": "https://youtu.be/DWn09Qk6iTU?si=4yGHb2UfomOSvd5t",
+    "plot": "La giovane Madeleine Swann assiste inerme all'omicidio di sua madre da parte di un misterioso uomo che indossa una maschera bianca."
+  },
+  {
     "title": "Eden",
     "category": "Film - Thriller",
     "cover": "https://pad.mymovies.it/filmclub/2024/07/036/locandina.jpg",
@@ -302,6 +310,14 @@
     "duration": "2h 18m",
     "trailer": "https://www.youtube.com/watch?v=DhYXSqz8H-o",
     "plot": "Due astronomi intraprendono un tour mediatico per avvisare l'umanità di una cometa in rotta di collisione con la Terra."
+  },
+  {
+    "title": "Source Code",
+    "category": "Film - Fantascienza",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 33m",
+    "trailer": "https://youtu.be/EmqcIgdjjjQ?si=qlLf0Pr1Cl0doFPO",
+    "plot": "Colter Stevens partecipa ad un'operazione militare segreta che gli consente di rivivere gli ultimi minuti di vita della vittima di un attentato nella speranza di scoprire l'identità dell'autore della strage."
   },
   {
     "title": "Revenant - Redivivo",
@@ -608,6 +624,7 @@
     "plot": "Otto anni dopo, Batman torna per difendere Gotham dalla minaccia brutale di Bane."
   }
 ]
+
 
 
 
