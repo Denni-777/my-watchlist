@@ -23,6 +23,14 @@
   { "title": "La mano sulla culla", "category": "Film - Horror", "cover": "https://pad.mymovies.it/filmclub/2025/09/142/locandina.jpg", "duration": "1h 50m", "trailer": "https://youtu.be/46K_9viaK-A?si=eeRWNjhDI_0hgVHq", "plot": "Una tata in cerca di vendetta si infiltra nella famiglia che ritiene responsabile delle sue sventure." },
 
   {
+    "title": "Zootropolis 2",
+    "category": "Cartoni",
+    "cover": "https://pad.mymovies.it/filmclub/2024/07/025/locandinapg3.jpg",
+    "duration": "1h 50m",
+    "trailer": "https://www.youtube.com/watch?v=W-0Oa-2P6hY",
+    "plot": "Zootropolis 2 vede i detective Judy Hopps e Nick Wilde affrontare un caso complesso che mette in crisi la loro partnership."
+  },
+  {
     "title": "Il Robot Selvaggio",
     "category": "Cartoni",
     "cover": "https://www.universalpictures.it/tl_files/content/movies/wild_robot/posters/01.jpg",
@@ -248,6 +256,14 @@
     "plot": "Quattro pensionati si riuniscono per risolvere casi irrisolti, ma si trovano coinvolti in un vero omicidio."
   },
   {
+    "title": "I segreti della notte",
+    "category": "Film - Giallo",
+    "cover": "https://m.media-amazon.com/images/M/MV5BM2JhOTRkOTEtN2QzNy00NGZkLTliZTAtODJkYzA0YWFhMDE1XkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 30m",
+    "trailer": "https://www.youtube.com/watch?v=ukE9-F-cLZ0",
+    "plot": "Un giovane portiere d'albergo affetto da sindrome di Asperger usa telecamere nascoste per studiare gli ospiti, ma diventa il principale sospettato quando una donna viene uccisa durante il suo turno."
+  },
+  {
     "title": "The Gray Man",
     "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2011/08/067/locandina.jpg",
@@ -358,6 +374,14 @@
     "duration": "2h 18m",
     "trailer": "https://www.youtube.com/watch?v=mzkVNB3FpSQ",
     "plot": "Un maresciallo americano indaga sulla scomparsa di un'assassina da un ospedale psichiatrico su un'isola remota."
+  },
+  {
+    "title": "Una di famiglia",
+    "category": "Film - Thriller",
+    "cover": "https://pad.mymovies.it/filmclub/2025/07/008/locandina.jpg",
+    "duration": "2h 11m",
+    "trailer": "https://www.youtube.com/watch?v=BfM9ec22FqM",
+    "plot": "Millie, una giovane con un passato misterioso che accetta un lavoro come governante nella lussuosa villa dei Winchester per ricominciare, ma scopre che la casa nasconde segreti oscuri."
   },
   {
     "title": "Inception",
@@ -624,6 +648,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   },
 ]
+
 
 
 
