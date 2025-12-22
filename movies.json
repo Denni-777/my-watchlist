@@ -32,6 +32,14 @@
     "plot": "Un agente dell'FBI segue le tracce di un serial killer occultista."
   },
   {
+    "title": "So cosa hai fatto",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2024/12/046/locandinapg1.jpg",
+    "duration": "1h 41m",
+    "trailer": "https://www.youtube.com/watch?v=S-3UCh0MGKQ",
+    "plot": "Due coppie di studenti in macchina investono un uomo e, per paura delle conseguenze, ne gettano il corpo in un fiume. Qualche anno dopo, qualcuno comincia misteriosamente a ricattarli."
+  },
+  {
     "title": "Trap",
     "category": "Film - Horror",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWmqkQOF6m3Xy-OAni_fgUeoZ_HyXdLVOeA&s",
@@ -887,3 +895,4 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
