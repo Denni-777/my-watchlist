@@ -93,7 +93,8 @@
     "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241",
     "duration": "1h 54m",
     "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
-    "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro."
+    "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro.",
+    "in_arrivo": true
   },
   {
     "title": "X - A Sexy Horror Story",
@@ -900,6 +901,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
