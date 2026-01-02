@@ -127,26 +127,27 @@
                 scrollContainer.className = "flex overflow-x-auto gap-4 p-4 pb-6 snap-x";
                 
                 catMovies.forEach(movie => {
+                    // 1. DEFINIZIONE CLASSI E BADGE (MODIFICATO)
+                    // Impostiamo le classi standard dell'immagine
+                    let imgClasses = "w-full h-full object-cover opacity-90 group-hover/card:opacity-100 transition-opacity";
+                    let badgeHTML = "";
 
-                    let watermarkClass = "";
-                    let badge = "";
-
-                    // Se nel JSON c'è scritto "in_arrivo": true
+                    // Se è in arrivo, cambiamo le classi (bianco e nero) e creiamo il badge
                     if (movie.in_arrivo === true) {
-                        // Applica filtro scala di grigi (bianco e nero) e riduce opacità
-                        watermarkClass = "grayscale opacity-50"; 
-                        // Aggiunge etichetta gialla
-                        badge = `<div class="absolute top-2 right-2 z-30 bg-yellow-500 text-black text-[9px] font-bold px-2 py-1 rounded shadow-md pointer-events-none">IN ARRIVO</div>`;
+                        imgClasses = "w-full h-full object-cover grayscale opacity-40"; 
+                        badgeHTML = `<div class="absolute top-2 right-2 z-30 bg-yellow-500 text-black text-[9px] font-bold px-2 py-1 rounded shadow-md pointer-events-none tracking-tighter">IN ARRIVO</div>`;
                     }
-                    
+
                     const card = document.createElement('div');
                     card.className = "flex-none w-[140px] md:w-[180px] group/card relative bg-slate-900 rounded-lg overflow-hidden cursor-pointer hover:scale-105 transition-all duration-300 shadow-lg aspect-[2/3] snap-start border border-slate-700/50";
                     card.onclick = () => openModal(movie);
 
+                    // 2. USO DELLE VARIABILI NEL TEMPLATE (MODIFICATO)
                     card.innerHTML = `
-                        <img src="${movie.cover}" alt="${movie.title}" loading="lazy" class="w-full h-full object-cover opacity-90 group-hover/card:opacity-100 transition-opacity">
-                        <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-80"></div>
-                        <div class="absolute bottom-0 left-0 right-0 p-3">
+                        <div class="relative w-full h-full">
+                            ${badgeHTML} <img src="${movie.cover}" alt="${movie.title}" loading="lazy" class="${imgClasses}"> </div>
+                        <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-80 z-20 pointer-events-none"></div>
+                        <div class="absolute bottom-0 left-0 right-0 p-3 z-20">
                             <h3 class="font-semibold text-xs text-white truncate shadow-black drop-shadow-md">${movie.title}</h3>
                             <p class="text-[10px] text-sky-400 mt-0.5">${movie.duration}</p>
                         </div>
@@ -220,6 +221,7 @@
     </script>
 </body>
 </html>
+
 
 
 
