@@ -1,59 +1,19 @@
 [
   {
-    "title": "Il Passo del diavolo",
+    "title": "Black Phone",
     "category": "Film - Horror",
-    "cover": "https://m.media-amazon.com/images/M/MV5BNzQ1MTg5N2EtNGY4MS00OTAxLWJkYzYtODNhZDhhNWUxY2Y1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "1h 40m",
-    "trailer": "https://www.youtube.com/watch?v=P9hREa67NLU",
-    "plot": "Il passo del diavolo è un horror mockumentary che segue un gruppo di studenti universitari americani che ripercorrono i luoghi e le tracce della misteriosa morte di nove escursionisti russi nel 1959 sui Monti Urali"
+    "cover": "https://pad.mymovies.it/filmclub/2021/10/136/locandinapg1.jpg",
+    "duration": "1h 43m",
+    "trailer": "https://youtu.be/2GW4BUCFrD0?si=Qis93Q9eF_no9Utq",
+    "plot": "Un ragazzo rapito riesce a comunicare con le vittime precedenti del killer tramite un telefono scollegato."
   },
   {
-    "title": "Get Out",
+    "title": "Black Phone 2",
     "category": "Film - Horror",
-    "cover": "https://m.media-amazon.com/images/I/81lp-z-Sj4L._AC_UF894,1000_QL80_.jpg",
-    "duration": "1h 44m",
-    "trailer": "https://youtu.be/6A-9yr8j2iE?si=MMRU3t-3Ib8Uv9Nr",
-    "plot": "Un giovane afroamericano visita la famiglia della fidanzata bianca, scoprendo un'inquietante verità."
-  },
-  {
-    "title": "The Substance",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2024/04/166/locandinapg2.jpg",
-    "duration": "2h 20m",
-    "trailer": "https://youtu.be/XbESiU4GDS4?si=fqM3XQSLxWlX6n-c",
-    "plot": "Un horror corporeo che esplora i limiti della carne e della mente."
-  },
-  {
-    "title": "Longlegs",
-    "category": "Film - Horror",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Longlegs_film_poster.jpg/250px-Longlegs_film_poster.jpg",
-    "duration": "1h 41m",
-    "trailer": "https://youtu.be/XCyplAYQrNY?si=E73h9unvpOCsMAPS",
-    "plot": "Un agente dell'FBI segue le tracce di un serial killer occultista."
-  },
-  {
-    "title": "So cosa hai fatto",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2024/12/046/locandinapg1.jpg",
-    "duration": "1h 41m",
-    "trailer": "https://www.youtube.com/watch?v=S-3UCh0MGKQ",
-    "plot": "Due coppie di studenti in macchina investono un uomo e, per paura delle conseguenze, ne gettano il corpo in un fiume. Qualche anno dopo, qualcuno comincia misteriosamente a ricattarli."
-  },
-  {
-    "title": "Trap",
-    "category": "Film - Horror",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWmqkQOF6m3Xy-OAni_fgUeoZ_HyXdLVOeA&s",
-    "duration": "1h 45m",
-    "trailer": "https://youtu.be/oqIMrn_GNo8?si=l7rqVod-004MfAzt",
-    "plot": "Un thriller psicologico ambientato durante un concerto pop."
-  },
-  {
-    "title": "Fantasy Island",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2019/11/056/locandina.jpg",
-    "duration": "1h 49m",
-    "trailer": "https://youtu.be/q8W_0rRRuTw?si=wvhsVankOw7sO9pd",
-    "plot": "Il misterioso Mr. Roarke realizza i sogni segreti dei suoi ospiti in un resort tropicale, ma i sogni diventano incubi."
+    "cover": "https://pad.mymovies.it/filmclub/2024/07/042/locandina.jpg",
+    "duration": "1h 54m",
+    "trailer": "https://youtu.be/0WKAOKF5uvc?si=m3_etaZDcrJde9Gk",
+    "plot": "Il sequel dell'acclamato horror soprannaturale."
   },
   {
     "title": "Companion",
@@ -64,12 +24,60 @@
     "plot": "Un thriller sci-fi horror dai creatori di Barbarian."
   },
   {
-    "title": "I peccatori (Sinners)",
+    "title": "I peccatori",
     "category": "Film - Horror",
     "cover": "https://resizing.flixster.com/VR3Tfr9zpNllsU6RchvnbhGmPkc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhOTdiZDNjLTlmODQtNGNlYi1iZWYwLWNkYjY2YmI5YzZjYS5qcGc=",
     "duration": "2h 17m",
     "trailer": "https://youtu.be/_6T94P6zjEk?si=HurfFm94as3SppAs",
     "plot": "Ryan Coogler dirige Michael B. Jordan in questo thriller soprannaturale."
+  },
+  {
+    "title": "The Substance",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2024/04/166/locandinapg2.jpg",
+    "duration": "2h 20m",
+    "trailer": "https://youtu.be/XbESiU4GDS4?si=fqM3XQSLxWlX6n-c",
+    "plot": "Un horror corporeo che esplora i limiti della carne e della mente."
+  },
+  {
+    "title": "Fantasy Island",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2019/11/056/locandina.jpg",
+    "duration": "1h 49m",
+    "trailer": "https://youtu.be/q8W_0rRRuTw?si=wvhsVankOw7sO9pd",
+    "plot": "Il misterioso Mr. Roarke realizza i sogni segreti dei suoi ospiti in un resort tropicale, ma i sogni diventano incubi."
+  },
+  {
+    "title": "Una di famiglia",
+    "category": "Film - Thriller",
+    "cover": "https://pad.mymovies.it/filmclub/2025/07/008/locandina.jpg",
+    "duration": "2h 11m",
+    "trailer": "https://www.youtube.com/watch?v=BfM9ec22FqM",
+    "plot": "Millie, una giovane con un passato misterioso che accetta un lavoro come governante nella lussuosa villa dei Winchester per ricominciare, ma scopre che la casa nasconde segreti oscuri."
+  },
+  {
+    "title": "Him",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2024/12/039/locandinapg1.jpg",
+    "duration": "1h 36m",
+    "trailer": "https://youtu.be/NV3JRmV_CIs?si=yANzlULvJ8q7QgnI",
+    "plot": "Prodotto da Jordan Peele, un nuovo incubo cinematografico."
+  },
+  {
+    "title": "Get Out",
+    "category": "Film - Horror",
+    "cover": "https://m.media-amazon.com/images/I/81lp-z-Sj4L._AC_UF894,1000_QL80_.jpg",
+    "duration": "1h 44m",
+    "trailer": "https://youtu.be/6A-9yr8j2iE?si=MMRU3t-3Ib8Uv9Nr",
+    "plot": "Un giovane afroamericano visita la famiglia della fidanzata bianca, scoprendo un'inquietante verità."
+  },
+  {
+    "title": "Us",
+    "category": "Film - Horror",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphSNpqdBQ-6-NVtPXrCs83zAs9dFtkWyoQQ&s",
+    "duration": "1h 56m",
+    "trailer": "https://youtu.be/RBUkkG65EyM?si=kBv8PN5wMPPFiKMe",
+    "plot": "Una famiglia in vacanza viene terrorizzata da un gruppo di doppelgänger assassini."
   },
   {
     "title": "Don't Worry Darling",
@@ -88,13 +96,20 @@
     "plot": "Una coppia viaggia in Svezia per un festival rurale che si trasforma presto in un incubo pagano."
   },
   {
-    "title": "Scream 7",
+    "title": "FNAF 2",
     "category": "Film - Horror",
-    "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241",
-    "duration": "1h 54m",
-    "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
-    "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro.",
-    "in_arrivo": true
+    "cover": "https://pad.mymovies.it/filmclub/2024/04/151/locandina.jpg",
+    "duration": "1h 44m",
+    "trailer": "https://youtu.be/QLz4PcVUMkE?si=IH4ydTjs8-AGaber",
+    "plot": "Il secondo capitolo basato sul celebre videogioco Five Nights at Freddy's." 
+  },
+  {
+    "title": "Trap",
+    "category": "Film - Horror",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWmqkQOF6m3Xy-OAni_fgUeoZ_HyXdLVOeA&s",
+    "duration": "1h 45m",
+    "trailer": "https://youtu.be/oqIMrn_GNo8?si=l7rqVod-004MfAzt",
+    "plot": "Un thriller psicologico ambientato durante un concerto pop."
   },
   {
     "title": "X - A Sexy Horror Story",
@@ -105,20 +120,28 @@
     "plot": "Una troupe cinematografica arriva in una fattoria isolata del Texas per girare un film per adulti."
   },
   {
+    "title": "So cosa hai fatto",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2024/12/046/locandinapg1.jpg",
+    "duration": "1h 41m",
+    "trailer": "https://www.youtube.com/watch?v=S-3UCh0MGKQ",
+    "plot": "Due coppie di studenti in macchina investono un uomo e, per paura delle conseguenze, ne gettano il corpo in un fiume. Qualche anno dopo, qualcuno comincia misteriosamente a ricattarli."
+  },
+  {
+    "title": "La mano sulla culla",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2025/09/142/locandina.jpg",
+    "duration": "1h 50m",
+    "trailer": "https://youtu.be/46K_9viaK-A?si=eeRWNjhDI_0hgVHq",
+    "plot": "Una tata in cerca di vendetta si infiltra nella famiglia che ritiene responsabile delle sue sventure."
+  },
+  {
     "title": "Inheritance",
     "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2020/03/091/locandina.jpg",
     "duration": "1h 51m",
     "trailer": "https://youtu.be/u6j-2BuGxmo?si=1tFgdYeUpU8d32Nj",
     "plot": "Un patriarca muore lasciando alla figlia una scioccante eredità segreta che minaccia di distruggere la famiglia."
-  },
-  {
-    "title": "Him",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2024/12/039/locandinapg1.jpg",
-    "duration": "1h 36m",
-    "trailer": "https://youtu.be/NV3JRmV_CIs?si=yANzlULvJ8q7QgnI",
-    "plot": "Prodotto da Jordan Peele, un nuovo incubo cinematografico."
   },
   {
     "title": "Hereditary",
@@ -137,12 +160,36 @@
     "plot": "Un gruppo di amiche esplora una grotta non mappata e si ritrova preda di creature umanoidi."
   },
   {
-    "title": "Us",
+    "title": "The Gorge",
     "category": "Film - Horror",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphSNpqdBQ-6-NVtPXrCs83zAs9dFtkWyoQQ&s",
-    "duration": "1h 56m",
-    "trailer": "https://youtu.be/RBUkkG65EyM?si=kBv8PN5wMPPFiKMe",
-    "plot": "Una famiglia in vacanza viene terrorizzata da un gruppo di doppelgänger assassini."
+    "cover": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "2h 7m",
+    "trailer": "https://www.youtube.com/watch?v=z75UDmsgdps",
+    "plot": "Due giovani molto pericolosi si innamorano nonostante il mondo corrotto che li circonda."
+  },
+  {
+    "title": "Frankenstein",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2025/06/001/locandinapg2.jpg",
+    "duration": "2h 30m",
+    "trailer": "https://www.youtube.com/watch?v=CwhYNCvli7g",
+    "plot": "L'adattamento di Guillermo del Toro del classico racconto gotico."
+  },
+  {
+    "title": "Longlegs",
+    "category": "Film - Horror",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Longlegs_film_poster.jpg/250px-Longlegs_film_poster.jpg",
+    "duration": "1h 41m",
+    "trailer": "https://youtu.be/XCyplAYQrNY?si=E73h9unvpOCsMAPS",
+    "plot": "Un agente dell'FBI segue le tracce di un serial killer occultista."
+  },
+  {
+    "title": "Il Passo del diavolo",
+    "category": "Film - Horror",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzQ1MTg5N2EtNGY4MS00OTAxLWJkYzYtODNhZDhhNWUxY2Y1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 40m",
+    "trailer": "https://www.youtube.com/watch?v=P9hREa67NLU",
+    "plot": "Il passo del diavolo è un horror mockumentary che segue un gruppo di studenti universitari americani che ripercorrono i luoghi e le tracce della misteriosa morte di nove escursionisti russi nel 1959 sui Monti Urali"
   },
   {
     "title": "Ben - Rabbia Animale",
@@ -154,51 +201,13 @@
     "in_arrivo": true
   },
   {
-    "title": "Black Phone",
+    "title": "Scream 7",
     "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2021/10/136/locandinapg1.jpg",
-    "duration": "1h 43m",
-    "trailer": "https://youtu.be/2GW4BUCFrD0?si=Qis93Q9eF_no9Utq",
-    "plot": "Un ragazzo rapito riesce a comunicare con le vittime precedenti del killer tramite un telefono scollegato."
-  },
-  {
-    "title": "Black Phone 2",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2024/07/042/locandina.jpg",
+    "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241",
     "duration": "1h 54m",
-    "trailer": "https://youtu.be/0WKAOKF5uvc?si=m3_etaZDcrJde9Gk",
-    "plot": "Il sequel dell'acclamato horror soprannaturale."
-  },
-  {
-    "title": "FNAF 2",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2024/04/151/locandina.jpg",
-    "duration": "1h 44m",
-    "trailer": "https://youtu.be/QLz4PcVUMkE?si=IH4ydTjs8-AGaber",
-    "plot": "Il secondo capitolo basato sul celebre videogioco Five Nights at Freddy's." },
-  {
-    "title": "La mano sulla culla",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2025/09/142/locandina.jpg",
-    "duration": "1h 50m",
-    "trailer": "https://youtu.be/46K_9viaK-A?si=eeRWNjhDI_0hgVHq",
-    "plot": "Una tata in cerca di vendetta si infiltra nella famiglia che ritiene responsabile delle sue sventure."
-  },
-  {
-    "title": "The Gorge",
-    "category": "Film - Horror",
-    "cover": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "2h 7m",
-    "trailer": "https://www.youtube.com/watch?v=z75UDmsgdps",
-    "plot": "Due giovani molto pericolosi si innamorano nonostante il mondo corrotto che li circonda."
-  },
-  {
-    "title": "Frankenstein (Del Toro)",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2025/06/001/locandinapg2.jpg",
-    "duration": "2h 30m",
-    "trailer": "https://www.youtube.com/watch?v=CwhYNCvli7g",
-    "plot": "L'adattamento di Guillermo del Toro del classico racconto gotico."
+    "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
+    "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro.",
+    "in_arrivo": true
   },
   {
     "title": "Il Gladiatore",
@@ -241,14 +250,6 @@
     "plot": "Adonis deve combattere contro un amico d'infanzia ed ex prodigio della boxe tornato dal carcere."
   },
   {
-    "title": "Bastille Day",
-    "category": "Film - Azione",
-    "cover": "https://images.justwatch.com/poster/53276287/s718/bastille-day-il-colpo-del-secolo.jpg",
-    "duration": "1h 32m",
-    "trailer": "https://www.youtube.com/watch?v=8jcGiXy_BJk",
-    "plot": "Un borseggiatore e un agente della CIA si alleano per sventare un complotto terroristico a Parigi."
-  },
-  {
     "title": "Ballerina",
     "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2023/03/101/locandinapg1.jpg",
@@ -273,28 +274,28 @@
     "plot": "L'agente più abile della CIA scopre oscuri segreti dell'agenzia e diventa un bersaglio."
   },
   {
-    "title": "Bumblebee",
-    "category": "Film - Azione",
-    "cover": "https://pad.mymovies.it/filmclub/2016/11/156/locandina.jpg",
-    "duration": "1h 54m",
-    "trailer": "https://www.youtube.com/watch?v=0qLD524G_X8",
-    "plot": "Nel 1987, l'Autobot Bumblebee trova rifugio in una discarica e stringe amicizia con una ragazza."
-  },
-  {
-    "title": "Revenant - Redivivo",
-    "category": "Film - Azione",
-    "cover": "https://pad.mymovies.it/filmclub/2011/11/053/locandina.jpg",
-    "duration": "2h 36m",
-    "trailer": "https://www.youtube.com/watch?v=xrctuMnFDc4",
-    "plot": "Un esploratore lotta per la sopravvivenza dopo essere stato sbranato da un orso e tradito dai suoi compagni."
-  },
-  {
     "title": "Blade Runner 2049",
     "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2011/08/095/locandina.jpg",
     "duration": "2h 44m",
     "trailer": "https://www.youtube.com/watch?v=f2jW75Q8EaI",
     "plot": "Un nuovo Blade Runner scopre un segreto sepolto da tempo che potrebbe far precipitare la società nel caos."
+  },
+  {
+    "title": "The Running Man",
+    "category": "Film - Azione",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "2h 13m",
+    "trailer": "https://www.youtube.com/watch?v=Pfp7NR37BsI",
+    "plot": "Remake del classico sci-fi distopico tratto dal romanzo di Stephen King."
+  },
+  {
+    "title": "Bumblebee",
+    "category": "Film - Azione",
+    "cover": "https://pad.mymovies.it/filmclub/2016/11/156/locandina.jpg",
+    "duration": "1h 54m",
+    "trailer": "https://www.youtube.com/watch?v=0qLD524G_X8",
+    "plot": "Nel 1987, l'Autobot Bumblebee trova rifugio in una discarica e stringe amicizia con una ragazza."
   },
   {
     "title": "Now You See Me 3",
@@ -305,12 +306,20 @@
     "plot": "Il ritorno dei Quattro Cavalieri per una nuova rapina illusionistica."
   },
   {
-    "title": "The Running Man",
+    "title": "Revenant - Redivivo",
     "category": "Film - Azione",
-    "cover": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "2h 13m",
-    "trailer": "https://www.youtube.com/watch?v=Pfp7NR37BsI",
-    "plot": "Remake del classico sci-fi distopico tratto dal romanzo di Stephen King."
+    "cover": "https://pad.mymovies.it/filmclub/2011/11/053/locandina.jpg",
+    "duration": "2h 36m",
+    "trailer": "https://www.youtube.com/watch?v=xrctuMnFDc4",
+    "plot": "Un esploratore lotta per la sopravvivenza dopo essere stato sbranato da un orso e tradito dai suoi compagni."
+  },
+  {
+    "title": "Bastille Day",
+    "category": "Film - Azione",
+    "cover": "https://images.justwatch.com/poster/53276287/s718/bastille-day-il-colpo-del-secolo.jpg",
+    "duration": "1h 32m",
+    "trailer": "https://www.youtube.com/watch?v=8jcGiXy_BJk",
+    "plot": "Un borseggiatore e un agente della CIA si alleano per sventare un complotto terroristico a Parigi."
   },
   {
     "title": "Il Giurato Numero 2",
@@ -329,6 +338,14 @@
     "plot": "Un thriller di sopravvivenza diretto da Ron Howard ambientato nelle Galapagos."
   },
   {
+    "title": "Share? (2023)",
+    "category": "Film - Thriller",
+    "cover": "https://m.media-amazon.com/images/M/MV5BY2Y0ZTI1NTktOWQ5OC00YTRjLWIyNzMtNWFhOWNmMGRkMTdlXkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 20m",
+    "trailer": "https://www.youtube.com/watch?v=tbo1UIDAOXw",
+    "plot": "Un uomo si sveglia in una stanza isolata con solo un computer e deve intrattenere un pubblico invisibile per sopravvivere."
+  },
+  {
     "title": "Shutter Island",
     "category": "Film - Thriller",
     "cover": "https://www.ibs.it/images/5051891078055_0_0_536_0_75.jpg",
@@ -337,28 +354,12 @@
     "plot": "Un maresciallo americano indaga sulla scomparsa di un'assassina da un ospedale psichiatrico su un'isola remota."
   },
   {
-    "title": "Una di famiglia",
-    "category": "Film - Thriller",
-    "cover": "https://pad.mymovies.it/filmclub/2025/07/008/locandina.jpg",
-    "duration": "2h 11m",
-    "trailer": "https://www.youtube.com/watch?v=BfM9ec22FqM",
-    "plot": "Millie, una giovane con un passato misterioso che accetta un lavoro come governante nella lussuosa villa dei Winchester per ricominciare, ma scopre che la casa nasconde segreti oscuri."
-  },
-  {
     "title": "The Prestige",
     "category": "Film - Thriller",
     "cover": "https://cdn.chili.com/images/public/cms/79/70/97/11/79709711-3f9b-4b7c-be75-2cf0b6e80b32.jpg?width=330",
     "duration": "2h 10m",
     "trailer": "https://www.youtube.com/watch?v=R0EX7pO8w50",
     "plot": "Due maghi rivali si sfidano in una battaglia sempre più pericolosa per creare l'illusione definitiva."
-  },
-  {
-    "title": "Share? (2023)",
-    "category": "Film - Thriller",
-    "cover": "https://m.media-amazon.com/images/M/MV5BY2Y0ZTI1NTktOWQ5OC00YTRjLWIyNzMtNWFhOWNmMGRkMTdlXkEyXkFqcGc@._V1_.jpg",
-    "duration": "1h 20m",
-    "trailer": "https://www.youtube.com/watch?v=tbo1UIDAOXw",
-    "plot": "Un uomo si sveglia in una stanza isolata con solo un computer e deve intrattenere un pubblico invisibile per sopravvivere."
   },
   {
     "title": "Mercy",
@@ -370,20 +371,20 @@
     "in_arrivo": true
   },
   {
-    "title": "Interstellar",
-    "category": "Film - Fantascienza",
-    "cover": "https://pad.mymovies.it/filmclub/2014/01/001/locandina.jpg",
-    "duration": "2h 49m",
-    "trailer": "https://www.youtube.com/watch?v=EIVMVIr3q3Y",
-    "plot": "Un team di esploratori viaggia attraverso un wormhole nello spazio nel tentativo di garantire la sopravvivenza dell'umanità."
-  },
-  {
     "title": "Don't Look Up",
     "category": "Film - Fantascienza",
     "cover": "https://pad.mymovies.it/filmclub/2021/02/052/locandina.jpg",
     "duration": "2h 18m",
     "trailer": "https://www.youtube.com/watch?v=DhYXSqz8H-o",
     "plot": "Due astronomi intraprendono un tour mediatico per avvisare l'umanità di una cometa in rotta di collisione con la Terra."
+  },
+  {
+    "title": "Interstellar",
+    "category": "Film - Fantascienza",
+    "cover": "https://pad.mymovies.it/filmclub/2014/01/001/locandina.jpg",
+    "duration": "2h 49m",
+    "trailer": "https://www.youtube.com/watch?v=EIVMVIr3q3Y",
+    "plot": "Un team di esploratori viaggia attraverso un wormhole nello spazio nel tentativo di garantire la sopravvivenza dell'umanità."
   },
   {
     "title": "Source Code",
@@ -402,6 +403,30 @@
     "plot": "Un ladro che ruba segreti dai sogni deve compiere l'impresa opposta: innestare un'idea nella mente di un CEO."
   },
   {
+    "title": "Hit Man",
+    "category": "Film - Commedia",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzFhMDZmYTctOTNmZi00MjVjLThkNGItMTJhOTI2NDkzMTFiXkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 55m",
+    "trailer": "https://www.youtube.com/watch?v=Bj5BpYqQY5k",
+    "plot": "Un professore lavora sotto copertura come finto sicario e infrange il protocollo per aiutare una donna disperata."
+  },
+  {
+    "title": "Babylon",
+    "category": "Film - Commedia",
+    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202212/ftv45-63aee4bb92a96-FB_IMG_1672406163617.jpg",
+    "duration": "3h 9m",
+    "trailer": "https://www.youtube.com/watch?v=idSQmGYWD8Y",
+    "plot": "Una storia di ambizioni smisurate ed eccessi oltraggiosi nella Hollywood degli anni '20."
+  },
+  {
+    "title": "Fidanzata in affitto",
+    "category": "Film - Commedia",
+    "cover": "https://pad.mymovies.it/filmclub/2023/03/071/locandina.jpg",
+    "duration": "1h 43m",
+    "trailer": "https://www.youtube.com/watch?v=PBwvSgN29Q0",
+    "plot": "Una coppia sull'orlo della bancarotta accetta di uscire col figlio impacciato di una coppia ricca."
+  },  
+  {
     "title": "C'era una volta a... Hollywood",
     "category": "Film - Commedia",
     "cover": "https://images.justwatch.com/poster/309284691/s718/cera-una-volta-a-hollywood.jpg",
@@ -416,30 +441,6 @@
     "duration": "1h 47m",
     "trailer": "https://www.youtube.com/watch?v=I8nt4bAx6Z4",
     "plot": "Attori famosi interpretano se stessi mentre affrontano l'apocalisse durante una festa a casa di James Franco."
-  },
-  {
-    "title": "Fidanzata in affitto",
-    "category": "Film - Commedia",
-    "cover": "https://pad.mymovies.it/filmclub/2023/03/071/locandina.jpg",
-    "duration": "1h 43m",
-    "trailer": "https://www.youtube.com/watch?v=PBwvSgN29Q0",
-    "plot": "Una coppia sull'orlo della bancarotta accetta di uscire col figlio impacciato di una coppia ricca."
-  },
-  {
-    "title": "Babylon",
-    "category": "Film - Commedia",
-    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202212/ftv45-63aee4bb92a96-FB_IMG_1672406163617.jpg",
-    "duration": "3h 9m",
-    "trailer": "https://www.youtube.com/watch?v=idSQmGYWD8Y",
-    "plot": "Una storia di ambizioni smisurate ed eccessi oltraggiosi nella Hollywood degli anni '20."
-  },
-  {
-    "title": "Hit Man",
-    "category": "Film - Commedia",
-    "cover": "https://m.media-amazon.com/images/M/MV5BNzFhMDZmYTctOTNmZi00MjVjLThkNGItMTJhOTI2NDkzMTFiXkEyXkFqcGc@._V1_.jpg",
-    "duration": "1h 55m",
-    "trailer": "https://www.youtube.com/watch?v=Bj5BpYqQY5k",
-    "plot": "Un professore lavora sotto copertura come finto sicario e infrange il protocollo per aiutare una donna disperata."
   },
   {
     "title": "Scary Movie 6",
@@ -515,6 +516,14 @@
     "plot": "Un adolescente problematico e schizofrenico sopravvive miracolosamente alla caduta di un motore d'aereo sulla sua casa."
   },
   {
+    "title": "Wake Up Dead Man: Knives Out",
+    "category": "Film - Giallo",
+    "cover": "https://pad.mymovies.it/filmclub/2024/05/140/locandina.jpg",
+    "duration": "2h 24m",
+    "trailer": "https://www.youtube.com/watch?v=FceO9g1QvSM",
+    "plot": "Un uomo viene trovato morto in uno sgabuzzino di cemento solo 30 secondi dopo essere entrato, subito dopo aver tenuto una predica."
+  },
+  {
     "title": "Il club dei delitti del giovedì",
     "category": "Film - Giallo",
     "cover": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_.jpg",
@@ -539,20 +548,20 @@
     "plot": "Un uomo ossessionato dalle cospirazioni indaga sulla scomparsa improvvisa della sua vicina di casa."
   },
   {
-    "title": "Wake Up Dead Man: Knives Out",
-    "category": "Film - Giallo",
-    "cover": "https://pad.mymovies.it/filmclub/2024/05/140/locandina.jpg",
-    "duration": "2h 24m",
-    "trailer": "https://www.youtube.com/watch?v=FceO9g1QvSM",
-    "plot": "Un uomo viene trovato morto in uno sgabuzzino di cemento solo 30 secondi dopo essere entrato, subito dopo aver tenuto una predica."
-  },
-  {
     "title": "Zootropolis 2",
     "category": "Cartoni",
     "cover": "https://pad.mymovies.it/filmclub/2024/07/025/locandinapg3.jpg",
     "duration": "1h 50m",
     "trailer": "https://www.youtube.com/watch?v=W-0Oa-2P6hY",
     "plot": "Zootropolis 2 vede i detective Judy Hopps e Nick Wilde affrontare un caso complesso che mette in crisi la loro partnership."
+  },
+  {
+    "title": "K-Pop: Demon Hunters",
+    "category": "Cartoni",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",
+    "duration": "1h 35m",
+    "trailer": "https://www.youtube.com/watch?v=ztkSahuuAPE",
+    "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta."
   },
   {
     "title": "Il Robot Selvaggio",
@@ -627,85 +636,12 @@
     "plot": "Uccelli e maiali devono allearsi quando una nuova minaccia mette in pericolo entrambe le loro isole."
   },
   {
-    "title": "K-Pop: Demon Hunters",
-    "category": "Cartoni",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",
-    "duration": "1h 35m",
-    "trailer": "https://www.youtube.com/watch?v=ztkSahuuAPE",
-    "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta."
-  },
-  {
-    "title": "One Piece (Stagione 2)",
-    "category": "Serie TV",
-    "cover": "https://www.animeclick.it/immagini/live_action/One_Piece_Season_2/gallery_original/One_Piece_Season_2-667b31a8b2b87.jpg",
-    "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
-    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line",
-    "in_arrivo": true
-  },
-  {
     "title": "Fallout (Stagione 2)",
     "category": "Serie TV",
     "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
     "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
     "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas"
-  },
-  {
-    "title": "True Detective",
-    "category": "Serie TV",
-    "cover": "https://m.media-amazon.com/images/I/713UqamR4uL._AC_UF894,1000_QL80_.jpg",
-    "duration": "4 Stagioni",
-    "trailer": "https://youtu.be/IizEW3BqPwU?si=GUEv5xNkNNqaapNn",
-    "plot": "Serie antologica in cui investigatori della polizia svelano oscuri segreti criminali."
-  },
-  {
-    "title": "Suits",
-    "category": "Serie TV",
-    "cover": "https://m.media-amazon.com/images/I/71ml6HO4ocL._AC_UF1000,1000_QL80_.jpg",
-    "duration": "9 Stagioni",
-    "trailer": "https://youtu.be/nLA_7Xbk8bU?si=Mc0A837RTksb0Ima",
-    "plot": "Un brillante ragazzo che non ha finito il college impressiona un famoso avvocato e viene assunto nel suo studio."
-  },
-  {
-    "title": "Il Gattopardo",
-    "category": "Serie TV",
-    "cover": "https://pad.mymovies.it/filmclub/2022/05/086/locandinapg2.jpg",
-    "duration": "1 Stagione",
-    "trailer": "https://youtu.be/HDdiMrY-SHQ?si=EyKFQ1VQsg3vFsw1",
-    "plot": "Adattamento seriale del classico romanzo italiano ambientato in Sicilia durante il Risorgimento."
-  },
-  {
-    "title": "Reacher",
-    "category": "Serie TV",
-    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202502/ftv45-67bd7f935fe41-re0.jpg",
-    "duration": "2 Stagioni",
-    "trailer": "https://youtu.be/gNLOK0fcJB4?si=ahAOfS1KGVJNM2Ju",
-    "plot": "Jack Reacher, ex ufficiale della polizia militare, viene arrestato per un omicidio che non ha commesso."
-  },
-  {
-    "title": "You",
-    "category": "Serie TV",
-    "cover": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_.jpg",
-    "duration": "4 Stagioni",
-    "trailer": "https://youtu.be/TYeCEXeqa7o?si=hxddGZm8WaKpwkOd",
-    "plot": "Un brillante libraio usa internet e i social media per avvicinarsi alla donna dei suoi sogni, diventando ossessivo."
-  },
-  {
-    "title": "Black Bird",
-    "category": "Serie TV",
-    "cover": "https://pad.mymovies.it/filmclub/2022/04/001/locandina.jpg",
-    "duration": "1 Stagione",
-    "trailer": "https://youtu.be/vavWIdj0KKc?si=w-O042lC7x38Uh_N",
-    "plot": "A un condannato viene offerta la libertà se riesce a ottenere una confessione da un presunto serial killer."
-  },
-  {
-    "title": "Dexter",
-    "category": "Serie TV",
-    "cover": "https://www.antoniogenna.net/doppiaggio/telefilm/dexter.jpg",
-    "duration": "8 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=uNbctGjDnnI&pp=ygUXZGV4dGVyIHRyYWlsZXIgaXRhbGlhbm_SBwkJTwoBhyohjO8%3D",
-    "plot": "Un esperto forense della polizia di Miami conduce una doppia vita come vigilante serial killer."
   },
   {
     "title": "The Last of Us",
@@ -716,20 +652,36 @@
     "plot": "In un mondo post-apocalittico, un contrabbandiere deve scortare una ragazzina immune attraverso gli Stati Uniti."
   },
   {
-    "title": "Italia's Got Talent",
+    "title": "Suits",
     "category": "Serie TV",
-    "cover": "https://faroentertainment.it/app/uploads/2024/01/50x70_Italias_Got_Talent-1.jpg",
-    "duration": "1 Stagione",
-    "trailer": "https://youtu.be/2NQFi1fEguE?si=CQxtgGo-M4DaE1LE",
-    "plot": "Show televisivo dove artisti di ogni tipo si esibiscono per vincere il favore dei giudici."
+    "cover": "https://m.media-amazon.com/images/I/71ml6HO4ocL._AC_UF1000,1000_QL80_.jpg",
+    "duration": "9 Stagioni",
+    "trailer": "https://youtu.be/nLA_7Xbk8bU?si=Mc0A837RTksb0Ima",
+    "plot": "Un brillante ragazzo che non ha finito il college impressiona un famoso avvocato e viene assunto nel suo studio."
   },
   {
-    "title": "Brooklyn Nine-Nine",
+    "title": "Dexter",
     "category": "Serie TV",
-    "cover": "https://m.media-amazon.com/images/I/61HtVcB7oHL._AC_UF1000,1000_QL80_.jpg.jpg",
+    "cover": "https://www.antoniogenna.net/doppiaggio/telefilm/dexter.jpg",
     "duration": "8 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=mApKIM3_YFo&pp=ygUjYnJvb2tseW4gbmluZSBuaW5lIHRyYWlsZXIgaXRhbGlhbm8%3D",
-    "plot": "Le vicende esilaranti di un talentuoso ma immaturo detective della polizia di New York."
+    "trailer": "https://www.youtube.com/watch?v=uNbctGjDnnI&pp=ygUXZGV4dGVyIHRyYWlsZXIgaXRhbGlhbm_SBwkJTwoBhyohjO8%3D",
+    "plot": "Un esperto forense della polizia di Miami conduce una doppia vita come vigilante serial killer."
+  },
+  {
+    "title": "IT: Welcome to Derry",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://youtu.be/oM6sHtKdW7U?si=q5FCGeN6CdWJjraZ",
+    "plot": "Sette ragazzini combattono un mostro mutaforma che terrorizza la loro città, per poi affrontarlo nuovamente da adulti."
+  },
+  {
+    "title": "You",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_.jpg",
+    "duration": "4 Stagioni",
+    "trailer": "https://youtu.be/TYeCEXeqa7o?si=hxddGZm8WaKpwkOd",
+    "plot": "Un brillante libraio usa internet e i social media per avvicinarsi alla donna dei suoi sogni, diventando ossessivo."
   },
   {
     "title": "Narcos",
@@ -748,6 +700,38 @@
     "plot": "Un professore di chimica malato terminale si trasforma in un signore della droga."
   },
   {
+    "title": "Il Gattopardo",
+    "category": "Serie TV",
+    "cover": "https://pad.mymovies.it/filmclub/2022/05/086/locandinapg2.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://youtu.be/HDdiMrY-SHQ?si=EyKFQ1VQsg3vFsw1",
+    "plot": "Adattamento seriale del classico romanzo italiano ambientato in Sicilia durante il Risorgimento."
+  },
+  {
+    "title": "True Detective",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/I/713UqamR4uL._AC_UF894,1000_QL80_.jpg",
+    "duration": "4 Stagioni",
+    "trailer": "https://youtu.be/IizEW3BqPwU?si=GUEv5xNkNNqaapNn",
+    "plot": "Serie antologica in cui investigatori della polizia svelano oscuri segreti criminali."
+  },
+  {
+    "title": "Reacher",
+    "category": "Serie TV",
+    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R202502/ftv45-67bd7f935fe41-re0.jpg",
+    "duration": "2 Stagioni",
+    "trailer": "https://youtu.be/gNLOK0fcJB4?si=ahAOfS1KGVJNM2Ju",
+    "plot": "Jack Reacher, ex ufficiale della polizia militare, viene arrestato per un omicidio che non ha commesso."
+  },
+  {
+    "title": "Black Bird",
+    "category": "Serie TV",
+    "cover": "https://pad.mymovies.it/filmclub/2022/04/001/locandina.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://youtu.be/vavWIdj0KKc?si=w-O042lC7x38Uh_N",
+    "plot": "A un condannato viene offerta la libertà se riesce a ottenere una confessione da un presunto serial killer."
+  },
+  {
     "title": "The Vampire Diaries",
     "category": "Serie TV",
     "cover": "https://m.media-amazon.com/images/M/MV5BMmNjOWQzYmYtNGYxOS00MjVkLTg1MWUtMTkzMGE0MDgwNzQ5XkEyXkFqcGc@._V1_.jpg",
@@ -764,20 +748,37 @@
     "plot": "Due fratelli viaggiano attraverso l'America cacciando mostri, demoni e altre entità soprannaturali."
   },
   {
-    "title": "IT: Welcome to Derry",
-    "category": "Serie TV",
-    "cover": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "1 Stagione",
-    "trailer": "https://youtu.be/oM6sHtKdW7U?si=q5FCGeN6CdWJjraZ",
-    "plot": "Sette ragazzini combattono un mostro mutaforma che terrorizza la loro città, per poi affrontarlo nuovamente da adulti."
-  },
-  {
     "title": "Scream Queens",
     "category": "Serie TV",
     "cover": "https://m.media-amazon.com/images/I/91NeHI+B9hL._AC_UF894,1000_QL80_.jpg",
     "duration": "2 Stagioni",
     "trailer": "https://youtu.be/J5b4zNuLhmI?si=oOLnoC2B4gt7QHxG",
     "plot": "Una serie antologica horror-comedy che ruota attorno a un killer misterioso in un campus universitario."
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/I/61HtVcB7oHL._AC_UF1000,1000_QL80_.jpg.jpg",
+    "duration": "8 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=mApKIM3_YFo&pp=ygUjYnJvb2tseW4gbmluZSBuaW5lIHRyYWlsZXIgaXRhbGlhbm8%3D",
+    "plot": "Le vicende esilaranti di un talentuoso ma immaturo detective della polizia di New York."
+  },
+  {
+    "title": "Italia's Got Talent",
+    "category": "Serie TV",
+    "cover": "https://faroentertainment.it/app/uploads/2024/01/50x70_Italias_Got_Talent-1.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://youtu.be/2NQFi1fEguE?si=CQxtgGo-M4DaE1LE",
+    "plot": "Show televisivo dove artisti di ogni tipo si esibiscono per vincere il favore dei giudici."
+  },
+  {
+    "title": "One Piece (Stagione 2)",
+    "category": "Serie TV",
+    "cover": "https://www.animeclick.it/immagini/live_action/One_Piece_Season_2/gallery_original/One_Piece_Season_2-667b31a8b2b87.jpg",
+    "duration": "2 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
+    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line",
+    "in_arrivo": true
   },
   {
     "title": "Hazbin Hotel",
@@ -812,20 +813,20 @@
     "plot": "Il cacciatore Sergei Kravinoff è in missione per dimostrare di essere il più grande cacciatore al mondo."
   },
   {
-    "title": "Marvel Zombies (serie tv)",
-    "category": "MCU",
-    "cover": "https://mr.comingsoon.it/rsz/serietv/serie/3790/3790.jpg?preset=pstr300",
-    "duration": "1 stagione",
-    "trailer": "https://youtu.be/nj3HKSjV9W0?si=x1Jql4088bYDxDKO",
-    "plot": "Una nuova generazione di eroi combatte contro un'apocalisse zombie in continua espansione."
-  },
-  {
     "title": "Morbius",
     "category": "MCU",
     "cover": "https://resizing.flixster.com/QdgkXoEVBbSPngYBIEQorVt3QuY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3OWQyOGE0LThmODItNDczNS04MDhjLThiZjQxYzM0YzYwZS5qcGc=",
     "duration": "1h 44m",
     "trailer": "https://youtu.be/6FxUdXgEeVQ?si=8lSxj77FeS5zvFSP",
     "plot": "Un biochimico tenta di curarsi da una rara malattia del sangue, ma si infetta con una forma di vampirismo."
+  },
+  {
+    "title": "Marvel Zombies (serie tv)",
+    "category": "MCU",
+    "cover": "https://mr.comingsoon.it/rsz/serietv/serie/3790/3790.jpg?preset=pstr300",
+    "duration": "1 stagione",
+    "trailer": "https://youtu.be/nj3HKSjV9W0?si=x1Jql4088bYDxDKO",
+    "plot": "Una nuova generazione di eroi combatte contro un'apocalisse zombie in continua espansione."
   },
   {
     "title": "The Suicide Squad - Missione Suicida",
@@ -844,6 +845,14 @@
     "plot": "Il nuovo film di James Gunn che rilancia l'Uomo d'Acciaio."
   },
   {
+    "title": "Peacemaker (serie tv)",
+    "category": "DCU",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s",
+    "duration": "2 Stagioni",
+    "trailer": "https://youtu.be/zkkTbW3HCd8?si=_wXAgf1zeSGcUS6l",
+    "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla."
+  },
+  {
     "title": "Supergirl: Woman of Tomorrow",
     "category": "DCU",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg",
@@ -851,14 +860,6 @@
     "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
     "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo.",
     "in_arrivo": true
-  },
-  {
-    "title": "Peacemaker (serie tv)",
-    "category": "DCU",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s",
-    "duration": "2 Stagioni",
-    "trailer": "https://youtu.be/zkkTbW3HCd8?si=_wXAgf1zeSGcUS6l",
-    "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla."
   },
   {
     "title": "The Batman",
@@ -901,6 +902,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
