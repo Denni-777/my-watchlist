@@ -439,12 +439,12 @@
     "plot": "Un professore lavora sotto copertura come finto sicario e infrange il protocollo per aiutare una donna disperata."
   },
   {
-    "title": "Scary Movie",
+    "title": "Scary Movie 6",
     "category": "Film - Commedia",
-    "cover": "https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "1h 28m",
+    "cover": "https://www.corrierenerd.it/wp-content/uploads/2025/08/scary-movie-6.webp",
+    "duration": "TBA",
     "trailer": "https://www.youtube.com/watch?v=N7qBn8fHkWg",
-    "plot": "Una parodia esilarante dei film horror slasher degli anni '90."
+    "plot": "Una parodia esilarante di vari film horror"
   },
   {
     "title": "Anora",
@@ -807,7 +807,7 @@
     "plot": "Il cacciatore Sergei Kravinoff è in missione per dimostrare di essere il più grande cacciatore al mondo."
   },
   {
-    "title": "Marvel Zombies",
+    "title": "Marvel Zombies (serie tv)",
     "category": "MCU",
     "cover": "https://mr.comingsoon.it/rsz/serietv/serie/3790/3790.jpg?preset=pstr300",
     "duration": "1 stagione",
@@ -887,7 +887,7 @@
     "plot": "Otto anni dopo, Batman torna per difendere Gotham dalla minaccia brutale di Bane."
   },
   {
-    "title": "The Penguin",
+    "title": "The Penguin (serie tv)",
     "category": "DCU",
     "cover": "https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_.jpg",
     "duration": "1 Stagione",
@@ -895,4 +895,5 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
