@@ -48,14 +48,6 @@
     "plot": "Il misterioso Mr. Roarke realizza i sogni segreti dei suoi ospiti in un resort tropicale, ma i sogni diventano incubi."
   },
   {
-    "title": "Una di famiglia",
-    "category": "Film - Thriller",
-    "cover": "https://pad.mymovies.it/filmclub/2025/07/008/locandina.jpg",
-    "duration": "2h 11m",
-    "trailer": "https://www.youtube.com/watch?v=BfM9ec22FqM",
-    "plot": "Millie, una giovane con un passato misterioso che accetta un lavoro come governante nella lussuosa villa dei Winchester per ricominciare, ma scopre che la casa nasconde segreti oscuri."
-  },
-  {
     "title": "Him",
     "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2024/12/039/locandinapg1.jpg",
@@ -328,6 +320,14 @@
     "duration": "1h 54m",
     "trailer": "https://www.youtube.com/watch?v=9bkpCa0ZgE8",
     "plot": "Un giurato in un processo per omicidio si rende conto che potrebbe essere lui il responsabile della morte della vittima."
+  },
+  {
+    "title": "Una di famiglia",
+    "category": "Film - Thriller",
+    "cover": "https://pad.mymovies.it/filmclub/2025/07/008/locandina.jpg",
+    "duration": "2h 11m",
+    "trailer": "https://www.youtube.com/watch?v=BfM9ec22FqM",
+    "plot": "Millie, una giovane con un passato misterioso che accetta un lavoro come governante nella lussuosa villa dei Winchester per ricominciare, ma scopre che la casa nasconde segreti oscuri."
   },
   {
     "title": "Eden",
@@ -902,6 +902,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
