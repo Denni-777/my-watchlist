@@ -149,7 +149,8 @@
     "cover": "https://mr.comingsoon.it/imgdb/locandine/big/67860.jpg",
     "duration": "1h 34m",
     "trailer": "https://youtu.be/kgtAzoyvnO8?si=n0308Y4R98mJD9BK",
-    "plot": "Un ragazzo solitario stringe amicizia con un ratto di nome Ben, leader di un branco assassino."
+    "plot": "Un ragazzo solitario stringe amicizia con un ratto di nome Ben, leader di un branco assassino.",
+    "in_arrivo": true
   },
   {
     "title": "Black Phone",
@@ -364,7 +365,8 @@
     "cover": "https://pad.mymovies.it/filmclub/2024/03/089/locandina.jpg",
     "duration": "1h 40m",
     "trailer": "https://www.youtube.com/watch?v=rlHAgDWSmJ8",
-    "plot": "Thriller sci-fi con Chris Pratt ambientato in un futuro dove i crimini capitali sono aumentati."
+    "plot": "Thriller sci-fi con Chris Pratt ambientato in un futuro dove i crimini capitali sono aumentati.",
+    "in_arrivo": true
   },
   {
     "title": "Interstellar",
@@ -444,7 +446,8 @@
     "cover": "https://www.corrierenerd.it/wp-content/uploads/2025/08/scary-movie-6.webp",
     "duration": "TBA",
     "trailer": "https://www.youtube.com/watch?v=N7qBn8fHkWg",
-    "plot": "Una parodia esilarante di vari film horror"
+    "plot": "Una parodia esilarante di vari film horror",
+    "in_arrivo": true
   },
   {
     "title": "Anora",
@@ -636,7 +639,8 @@
     "cover": "https://www.animeclick.it/immagini/live_action/One_Piece_Season_2/gallery_original/One_Piece_Season_2-667b31a8b2b87.jpg",
     "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
-    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line"
+    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line",
+    "in_arrivo": true
   },
   {
     "title": "Fallout (Stagione 2)",
@@ -844,7 +848,8 @@
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg",
     "duration": "TBA",
     "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
-    "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo."
+    "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo.",
+    "in_arrivo": true
   },
   {
     "title": "Peacemaker (serie tv)",
@@ -895,5 +900,6 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
