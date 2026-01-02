@@ -127,6 +127,18 @@
                 scrollContainer.className = "flex overflow-x-auto gap-4 p-4 pb-6 snap-x";
                 
                 catMovies.forEach(movie => {
+
+                    let watermarkClass = "";
+                    let badge = "";
+
+                    // Se nel JSON c'è scritto "in_arrivo": true
+                    if (movie.in_arrivo === true) {
+                        // Applica filtro scala di grigi (bianco e nero) e riduce opacità
+                        watermarkClass = "grayscale opacity-50"; 
+                        // Aggiunge etichetta gialla
+                        badge = `<div class="absolute top-2 right-2 z-30 bg-yellow-500 text-black text-[9px] font-bold px-2 py-1 rounded shadow-md pointer-events-none">IN ARRIVO</div>`;
+                    }
+                    
                     const card = document.createElement('div');
                     card.className = "flex-none w-[140px] md:w-[180px] group/card relative bg-slate-900 rounded-lg overflow-hidden cursor-pointer hover:scale-105 transition-all duration-300 shadow-lg aspect-[2/3] snap-start border border-slate-700/50";
                     card.onclick = () => openModal(movie);
@@ -208,6 +220,7 @@
     </script>
 </body>
 </html>
+
 
 
 
