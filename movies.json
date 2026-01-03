@@ -314,6 +314,15 @@
     "plot": "Un borseggiatore e un agente della CIA si alleano per sventare un complotto terroristico a Parigi."
   },
   {
+    "title": "Odissea",
+    "category": "Film - Azione",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNTI4ODIyMGEtMWRmMS00MDNlLThiMTMtNzYwNTUzMTJiN2ZjXkEyXkFqcGc@._V1_.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/6SbP6gvsrlk?si=Rz98dLfGl5xZSPJb",
+    "plot": "Segue Odisseo nel suo pericoloso viaggio verso casa dopo la guerra di Troia, mostrando i suoi incontri con Polifemo, le Sirene, Circe e finendo con la sua riunione con sua moglie Penelope.",
+    "in_arrivo": true
+  },
+  {
     "title": "Il Giurato Numero 2",
     "category": "Film - Thriller",
     "cover": "https://pad.mymovies.it/filmclub/2023/03/214/locandina.jpg",
@@ -441,6 +450,23 @@
     "duration": "1h 47m",
     "trailer": "https://www.youtube.com/watch?v=I8nt4bAx6Z4",
     "plot": "Attori famosi interpretano se stessi mentre affrontano l'apocalisse durante una festa a casa di James Franco."
+  },
+  {
+    "title": "Il Diavolo veste Prada",
+    "category": "Film - Commedia",
+    "cover": "https://pad.mymovies.it/filmclub/2006/05/380/locandina.jpg",
+    "duration": "1h 49m",
+    "trailer": "https://youtu.be/oGPcSLJTVF4?si=tK2ffVDnYdDI8Z6Q",
+    "plot": "Miranda giunge a New York dopo la laurea e trova lavoro come assistente di Miranda Priestly, direttrice di una delle più conosciute riviste di moda."
+  },
+  {
+    "title": "Il Diavolo veste Prada 2",
+    "category": "Film - Commedia",
+    "cover": "https://pad.mymovies.it/filmclub/2025/05/154/locandina.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/DlVqEdP3DS4?si=ULGBLg1XPh8R7DTl",
+    "plot": "Basato sul romanzo del 2013 La vendetta veste Prada: il ritorno del diavolo di Lauren Weisberger.",
+    "in_arrivo": true
   },
   {
     "title": "Scary Movie 6",
@@ -636,6 +662,33 @@
     "plot": "Uccelli e maiali devono allearsi quando una nuova minaccia mette in pericolo entrambe le loro isole."
   },
   {
+    "title": "Super Mario Galaxy",
+    "category": "Cartoni",
+    "cover": "https://www.imdb.com/it/title/tt28650488/mediaviewer/rm2190779138/?ref_=tt_ov_i",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/bTaytqYtib0?si=-BrjrNgB0YyGYIOa",
+    "plot": "Basato sul videogioco Super Mario Galaxy, è il sequel di Super Mario Bros.",
+    "in_arrivo": true
+  },
+  {
+    "title": "Minions 3",
+    "category": "Cartoni",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTZiOGFlM2MtOTlhYy00NTRmLWFkNWQtOGE5ZDM5M2U3Njc0XkEyXkFqcGc@._V1_.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/o0nk2yY8WMQ?si=xjMjnE9r410lhvvp",
+    "plot": "Dopo gli eventi di Despicable Me 4, i Mega Minions devono dimostrare di essere degni di continui investimenti da parte della Anti-Villain League.",
+    "in_arrivo": true
+  },
+  {
+    "title": "Toy Story 5",
+    "category": "Cartoni",
+    "cover": "https://lumiere-a.akamaihd.net/v1/images/image_bbe90a7a.jpeg?region=0,0,540,810",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/7huS8LDvarw?si=6jYt22TC6bc3XRLn",
+    "plot": "Dopo aver ricevuto un misterioso pacco Bonnie si innamora di un tablet di nome Lilypad.",
+    "in_arrivo": true
+  },
+  {
     "title": "Fallout (Stagione 2)",
     "category": "Serie TV",
     "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
@@ -829,6 +882,15 @@
     "plot": "Una nuova generazione di eroi combatte contro un'apocalisse zombie in continua espansione."
   },
   {
+    "title": "Avengers: Doomsday",
+    "category": "MCU",
+    "cover": "https://movieplayer.net-cdn.it/images/2025/12/24/avengers_doomsday.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/izoe5Qu7Yms?si=J71gn_V_PRD70Z_b",
+    "plot": "Basato sul gruppo dei Vendicatori di Marvel Comics, è il 39º film del Marvel Cinematic Universe e sequel di Avengers: Endgame.",
+    "in_arrivo": true
+  },
+  {
     "title": "The Suicide Squad - Missione Suicida",
     "category": "DCU",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uJVdEhzDLQ0gmXDe857tQsvypl1aecJgGQ&s",
@@ -902,6 +964,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
