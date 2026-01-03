@@ -1,5 +1,10 @@
 [
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - HORROR                 ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Black Phone",
     "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2021/10/136/locandinapg1.jpg",
@@ -202,6 +207,11 @@
     "in_arrivo": true
   },
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - AZIONE                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Il Gladiatore",
     "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2001/01/022/locandina.jpg",
@@ -323,6 +333,11 @@
     "in_arrivo": true
   },
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - THRILLER                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Il Giurato Numero 2",
     "category": "Film - Thriller",
     "cover": "https://pad.mymovies.it/filmclub/2023/03/214/locandina.jpg",
@@ -380,6 +395,11 @@
     "in_arrivo": true
   },
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - FANTASCIENZA                 ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Don't Look Up",
     "category": "Film - Fantascienza",
     "cover": "https://pad.mymovies.it/filmclub/2021/02/052/locandina.jpg",
@@ -410,6 +430,11 @@
     "duration": "2h 28m",
     "trailer": "https://www.youtube.com/watch?v=BV7z0I90MJk",
     "plot": "Un ladro che ruba segreti dai sogni deve compiere l'impresa opposta: innestare un'idea nella mente di un CEO."
+  },
+  {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - COMMEDIA               ",
+    "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
     "title": "Hit Man",
@@ -478,6 +503,11 @@
     "in_arrivo": true
   },
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - DRAMMATICO                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Anora",
     "category": "Film - Drammatico",
     "cover": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
@@ -542,6 +572,11 @@
     "plot": "Un adolescente problematico e schizofrenico sopravvive miracolosamente alla caduta di un motore d'aereo sulla sua casa."
   },
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - GIALLO                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Wake Up Dead Man: Knives Out",
     "category": "Film - Giallo",
     "cover": "https://pad.mymovies.it/filmclub/2024/05/140/locandina.jpg",
@@ -572,6 +607,11 @@
     "duration": "2h 19m",
     "trailer": "https://www.youtube.com/watch?v=LukWTblX8d8",
     "plot": "Un uomo ossessionato dalle cospirazioni indaga sulla scomparsa improvvisa della sua vicina di casa."
+  },
+  {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          FILM - CARTONI                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
     "title": "Zootropolis 2",
@@ -664,7 +704,7 @@
   {
     "title": "Super Mario Galaxy",
     "category": "Cartoni",
-    "cover": "https://www.imdb.com/it/title/tt28650488/mediaviewer/rm2190779138/?ref_=tt_ov_i",
+    "cover": "https://pad.mymovies.it/filmclub/2025/11/106/locandina.jpg",
     "duration": "TBA",
     "trailer": "https://youtu.be/bTaytqYtib0?si=-BrjrNgB0YyGYIOa",
     "plot": "Basato sul videogioco Super Mario Galaxy, è il sequel di Super Mario Bros.",
@@ -687,6 +727,11 @@
     "trailer": "https://youtu.be/7huS8LDvarw?si=6jYt22TC6bc3XRLn",
     "plot": "Dopo aver ricevuto un misterioso pacco Bonnie si innamora di un tablet di nome Lilypad.",
     "in_arrivo": true
+  },
+  {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          SERIE TV                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
     "title": "Fallout (Stagione 2)",
@@ -834,6 +879,11 @@
     "in_arrivo": true
   },
   {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          SERIE TV - ANIMATE               ",
+    "___SEZIONE___": "=============================================================================================================================================================="
+  },
+  {
     "title": "Hazbin Hotel",
     "category": "Serie TV animate",
     "cover": "https://m.media-amazon.com/images/M/MV5BOGMxYWIwMWYtZjY4OC00MzMwLWIyNDEtYWNiZTJlMzg3ODdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -856,6 +906,11 @@
     "duration": "1 Stagione",
     "trailer": "https://youtu.be/02nS6Fr0NNo?si=rIKWEsJlsNY8VppC",
     "plot": "Uno studente trova un quaderno che uccide chiunque il cui nome venga scritto su di esso."
+  },
+  {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          MCU                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
     "title": "Kraven - Il Cacciatore",
@@ -889,6 +944,11 @@
     "trailer": "https://youtu.be/izoe5Qu7Yms?si=J71gn_V_PRD70Z_b",
     "plot": "Basato sul gruppo dei Vendicatori di Marvel Comics, è il 39º film del Marvel Cinematic Universe e sequel di Avengers: Endgame.",
     "in_arrivo": true
+  },
+  {
+    "___SEZIONE___": "==============================================================================================================================================================",
+    "___TITOLO___":  "          DCU                ",
+    "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
     "title": "The Suicide Squad - Missione Suicida",
@@ -964,6 +1024,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
