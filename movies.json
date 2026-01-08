@@ -896,6 +896,15 @@
     "in_arrivo": true
   },
   {
+    "title": "The Boys (Stagione 5)",
+    "category": "Serie TV",
+    "cover": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "duration": "5 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=ok0_QLaC2E4",
+    "plot": "La trama di The Boys 5 vede un mondo dominato da Patriota, con Hughie, MM e Frenchie imprigionati, mentre Annie cerca di organizzare una resistenza",
+    "in_arrivo": true
+  },
+  {
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          SERIE TV - ANIMATE               ",
     "___SEZIONE___": "=============================================================================================================================================================="
@@ -923,6 +932,22 @@
     "duration": "1 Stagione",
     "trailer": "https://youtu.be/02nS6Fr0NNo?si=rIKWEsJlsNY8VppC",
     "plot": "Uno studente trova un quaderno che uccide chiunque il cui nome venga scritto su di esso."
+  },
+  {
+    "title": "Invincible",
+    "category": "Serie TV animate",
+    "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2020/10/invincible-serie-prime-poster-2021.jpg",
+    "duration": "3 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=-bfAVpuko5o",
+    "plot": "Mark Grayson sembra, all'apparenza, un diciassettenne qualunque. In realtà, suo padre è il supereroe più potente del pianeta."
+  },
+  {
+    "title": "Bojack Horseman",
+    "category": "Serie TV animate",
+    "cover": "https://www.filmtv.it/imgbank/GALLERYXL/R201712/bojack-horseman-poster.jpg",
+    "duration": "6 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=7aF1BooIxTU",
+    "plot": "BoJack è un attore dimenticato che ha vissuto i suoi giorni di gloria grazie a una commedia televisiva."
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
@@ -1041,6 +1066,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
