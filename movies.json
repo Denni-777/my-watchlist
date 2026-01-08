@@ -887,6 +887,15 @@
     "in_arrivo": true
   },
   {
+    "title": "Il problema dei 3 corpi (Stagione 2)",
+    "category": "Serie TV",
+    "cover": "https://pad.mymovies.it/filmclub/2020/09/010/locandinapg1.jpg",
+    "duration": "2 Stagioni",
+    "trailer": "https://youtu.be/fZD6L0eoaQA?si=g0sFbecqn-TsBR9U",
+    "plot": "La stagione approfondirà il mistero dell'invasione aliena, introducendo concetti chiave come il Paradosso di Fermi e la teoria della Foresta Oscura",
+    "in_arrivo": true
+  },
+  {
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          SERIE TV - ANIMATE               ",
     "___SEZIONE___": "=============================================================================================================================================================="
@@ -1032,6 +1041,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
