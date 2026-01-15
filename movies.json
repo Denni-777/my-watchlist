@@ -758,6 +758,14 @@
     "plot": "In un mondo post-apocalittico, un contrabbandiere deve scortare una ragazzina immune attraverso gli Stati Uniti."
   },
   {
+    "title": "La sua verità",
+    "category": "Serie TV",
+    "cover": "https://www.ibs.it/images/9788842933168_0_0_0_0_0.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://www.youtube.com/watch?v=cJaSzT73pA0",
+    "plot": "Segue la giornalista Anna Andrews e il detective Jack Harper, una coppia separata, che si ritrovano al centro delle indagini per un omicidio nella loro città natale, con entrambi che diventano sospettati. "
+  },
+  {
     "title": "Suits",
     "category": "Serie TV",
     "cover": "https://m.media-amazon.com/images/I/71ml6HO4ocL._AC_UF1000,1000_QL80_.jpg",
@@ -788,6 +796,14 @@
     "duration": "4 Stagioni",
     "trailer": "https://youtu.be/TYeCEXeqa7o?si=hxddGZm8WaKpwkOd",
     "plot": "Un brillante libraio usa internet e i social media per avvicinarsi alla donna dei suoi sogni, diventando ossessivo."
+  },
+  {
+    "title": "Defending Jacob",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMDdmOTE1YzktOWFmNS00N2U0LWIzZDAtOTRiOWYzODkxMDc3XkEyXkFqcGc@._V1_.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://www.youtube.com/watch?v=2IB6mlRCCUo",
+    "plot": "Dopo un crimine che scuote una piccola città, un assistente del procuratore distrettuale si trova diviso tra il suo dovere di sostenere la legge e l'amore per suo figlio."
   },
   {
     "title": "Narcos",
@@ -1066,6 +1082,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
