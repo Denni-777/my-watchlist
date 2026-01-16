@@ -362,6 +362,14 @@
     "plot": "Millie, una giovane con un passato misterioso che accetta un lavoro come governante nella lussuosa villa dei Winchester per ricominciare, ma scopre che la casa nasconde segreti oscuri."
   },
   {
+    "title": "Deep Water",
+    "category": "Film - Thriller",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/37/Deep_Water_%282022_film%29.jpg",
+    "duration": "1h 55m",
+    "trailer": "https://www.youtube.com/watch?v=VT1aAMEhFnE",
+    "plot": "Un marito benestante permette alla moglie di avere relazioni extraconiugali per evitare il divorzio, ma la situazione degenera."
+  },
+  {
     "title": "Eden",
     "category": "Film - Thriller",
     "cover": "https://pad.mymovies.it/filmclub/2024/07/036/locandina.jpg",
@@ -530,14 +538,6 @@
     "duration": "1h 47m",
     "trailer": "https://www.youtube.com/watch?v=BFLvSvk5bys",
     "plot": "Una storia d'amore profonda e commovente con Andrew Garfield e Florence Pugh."
-  },
-  {
-    "title": "Deep Water",
-    "category": "Film - Drammatico",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/3/37/Deep_Water_%282022_film%29.jpg",
-    "duration": "1h 55m",
-    "trailer": "https://www.youtube.com/watch?v=VT1aAMEhFnE",
-    "plot": "Un marito benestante permette alla moglie di avere relazioni extraconiugali per evitare il divorzio, ma la situazione degenera."
   },
   {
     "title": "The Social Network",
@@ -1082,6 +1082,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
