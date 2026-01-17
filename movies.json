@@ -822,6 +822,14 @@
     "plot": "Un professore di chimica malato terminale si trasforma in un signore della droga."
   },
   {
+    "title": "Dark",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_.jpg",
+    "duration": "3 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=cTvQuB2lheE",
+    "plot": "La scomparsa di due bambini in un piccolo villaggio in Germania mette in pericolo la vita e le relazioni di quattro famiglie"
+  },
+  {
     "title": "Il Gattopardo",
     "category": "Serie TV",
     "cover": "https://pad.mymovies.it/filmclub/2022/05/086/locandinapg2.jpg",
@@ -1082,6 +1090,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
