@@ -370,6 +370,14 @@
     "plot": "Un marito benestante permette alla moglie di avere relazioni extraconiugali per evitare il divorzio, ma la situazione degenera."
   },
   {
+    "title": "Watcher",
+    "category": "Film - Thriller",
+    "cover": "https://pad.mymovies.it/filmclub/2022/01/167/locandinapg1.jpg",
+    "duration": "1h 33m",
+    "trailer": "https://www.youtube.com/watch?v=eqw2GduZ5pE",
+    "plot": "Julia, americana sposata con un expat rumeno, arriva a Bucarest per iniziare una nuova vita. Ma quando in città emerge un serial killer che colpisce solo donne, lei nota un vicino che la fissa dalla finestra dirimpetto."
+  },
+  {
     "title": "Eden",
     "category": "Film - Thriller",
     "cover": "https://pad.mymovies.it/filmclub/2024/07/036/locandina.jpg",
@@ -827,7 +835,7 @@
     "cover": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_.jpg",
     "duration": "3 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=cTvQuB2lheE",
-    "plot": "La scomparsa di due bambini in un piccolo villaggio in Germania mette in pericolo la vita e le relazioni di quattro famiglie"
+    "plot": "La scomparsa di due bambini in un piccolo villaggio in Germania mette in pericolo la vita e le relazioni di quattro famiglie."
   },
   {
     "title": "Il Gattopardo",
@@ -1090,6 +1098,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
