@@ -588,6 +588,15 @@
     "plot": "Un adolescente problematico e schizofrenico sopravvive miracolosamente alla caduta di un motore d'aereo sulla sua casa."
   },
   {
+    "title": "Marty Supreme",
+    "category": "Film - Drammatico",
+    "cover": "https://cdn.18tickets.net/iris/uploads/film/playbill/34697/9d6d1dd4-2eef-4e06-84cc-bfd72f6db30e.jpg",
+    "duration": "2h 29m",
+    "trailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0",
+    "plot": "Ispirato alla vita di Marty Reisman, medaglia di bronzo ai mondiali di tennistavolo.",
+    "in_arrivo": true
+  },
+  {
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          FILM - GIALLO                ",
     "___SEZIONE___": "=============================================================================================================================================================="
@@ -1011,6 +1020,14 @@
     "plot": "Una nuova generazione di eroi combatte contro un'apocalisse zombie in continua espansione."
   },
   {
+    "title": "Wonder Man (serie tv)",
+    "category": "MCU",
+    "cover": "https://pad.mymovies.it/filmclub/2025/10/052/locandina.jpg",
+    "duration": "1 stagione",
+    "trailer": "https://www.youtube.com/watch?v=uKEjWr5sDoY",
+    "plot": "Gli attori in difficoltà Simon Williams e Trevor Slattery cercano di guadagnarsi un ruolo nel remake del film di supereroi Wonder Man."
+  },
+  {
     "title": "Avengers: Doomsday",
     "category": "MCU",
     "cover": "https://movieplayer.net-cdn.it/images/2025/12/24/avengers_doomsday.jpg",
@@ -1098,6 +1115,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
