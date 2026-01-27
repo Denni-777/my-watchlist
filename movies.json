@@ -532,6 +532,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Marty Supreme",
+    "category": "Film - Drammatico",
+    "cover": "https://cdn.18tickets.net/iris/uploads/film/playbill/34697/9d6d1dd4-2eef-4e06-84cc-bfd72f6db30e.jpg",
+    "duration": "2h 29m",
+    "trailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0",
+    "plot": "Ispirato alla vita di Marty Reisman, medaglia di bronzo ai mondiali di tennistavolo."
+  },
+  {
     "title": "Anora",
     "category": "Film - Drammatico",
     "cover": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
@@ -586,15 +594,6 @@
     "duration": "1h 52m",
     "trailer": "https://www.youtube.com/watch?v=Uab7LYrAiqM",
     "plot": "Un adolescente problematico e schizofrenico sopravvive miracolosamente alla caduta di un motore d'aereo sulla sua casa."
-  },
-  {
-    "title": "Marty Supreme",
-    "category": "Film - Drammatico",
-    "cover": "https://cdn.18tickets.net/iris/uploads/film/playbill/34697/9d6d1dd4-2eef-4e06-84cc-bfd72f6db30e.jpg",
-    "duration": "2h 29m",
-    "trailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0",
-    "plot": "Ispirato alla vita di Marty Reisman, medaglia di bronzo ai mondiali di tennistavolo.",
-    "in_arrivo": true
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
@@ -1115,6 +1114,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
