@@ -386,6 +386,14 @@
     "plot": "Un thriller di sopravvivenza diretto da Ron Howard ambientato nelle Galapagos."
   },
   {
+    "title": "Mercy",
+    "category": "Film - Thriller",
+    "cover": "https://pad.mymovies.it/filmclub/2024/03/089/locandina.jpg",
+    "duration": "1h 40m",
+    "trailer": "https://www.youtube.com/watch?v=rlHAgDWSmJ8",
+    "plot": "Thriller sci-fi con Chris Pratt ambientato in un futuro dove i crimini capitali sono aumentati."
+  },
+  {
     "title": "Share? (2023)",
     "category": "Film - Thriller",
     "cover": "https://m.media-amazon.com/images/M/MV5BY2Y0ZTI1NTktOWQ5OC00YTRjLWIyNzMtNWFhOWNmMGRkMTdlXkEyXkFqcGc@._V1_.jpg",
@@ -408,15 +416,6 @@
     "duration": "2h 10m",
     "trailer": "https://www.youtube.com/watch?v=R0EX7pO8w50",
     "plot": "Due maghi rivali si sfidano in una battaglia sempre più pericolosa per creare l'illusione definitiva."
-  },
-  {
-    "title": "Mercy",
-    "category": "Film - Thriller",
-    "cover": "https://pad.mymovies.it/filmclub/2024/03/089/locandina.jpg",
-    "duration": "1h 40m",
-    "trailer": "https://www.youtube.com/watch?v=rlHAgDWSmJ8",
-    "plot": "Thriller sci-fi con Chris Pratt ambientato in un futuro dove i crimini capitali sono aumentati.",
-    "in_arrivo": true
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
@@ -1114,6 +1113,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
