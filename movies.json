@@ -5,6 +5,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Ben - Rabbia Animale",
+    "category": "Film - Horror",
+    "cover": "https://mr.comingsoon.it/imgdb/locandine/big/67860.jpg",
+    "duration": "1h 34m",
+    "trailer": "https://youtu.be/kgtAzoyvnO8?si=n0308Y4R98mJD9BK",
+    "plot": "Un ragazzo solitario stringe amicizia con un ratto di nome Ben, leader di un branco assassino."
+  },
+  {
     "title": "Black Phone",
     "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2021/10/136/locandinapg1.jpg",
@@ -43,6 +51,14 @@
     "duration": "2h 20m",
     "trailer": "https://youtu.be/XbESiU4GDS4?si=fqM3XQSLxWlX6n-c",
     "plot": "Un horror corporeo che esplora i limiti della carne e della mente."
+  },
+  {
+    "title": "Send Help",
+    "category": "Film - Horror",
+    "cover": "https://cinecriticaweb.it/wp-content/uploads/2026/01/Send-Help.jpg",
+    "duration": "1h 54m",
+    "trailer": "https://www.youtube.com/watch?v=3WTjPEAfQls",
+    "plot": "Due colleghi un tempo rivali si ritrovano improvvisamente naufraghi su un'isola deserta dopo essere gli unici sopravvissuti a un disastro aereo."
   },
   {
     "title": "Fantasy Island",
@@ -141,14 +157,6 @@
     "plot": "Un patriarca muore lasciando alla figlia una scioccante eredità segreta che minaccia di distruggere la famiglia."
   },
   {
-    "title": "Hereditary",
-    "category": "Film - Horror",
-    "cover": "https://m.media-amazon.com/images/S/pv-target-images/2be98bed028f1d53e01a860b6bb91c362dc32611c45effbcf2aa2645d590b22a.jpg",
-    "duration": "2h 7m",
-    "trailer": "https://youtu.be/7s67m3DjTR8?si=wxziLkdQdhK_C0a0",
-    "plot": "Dopo la morte della matriarca, una famiglia inizia a svelare segreti terrificanti sulla propria discendenza."
-  },
-  {
     "title": "The Descent",
     "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2005/08/036/locandina.jpg",
@@ -187,15 +195,6 @@
     "duration": "1h 40m",
     "trailer": "https://www.youtube.com/watch?v=P9hREa67NLU",
     "plot": "Il passo del diavolo è un horror mockumentary che segue un gruppo di studenti universitari americani che ripercorrono i luoghi e le tracce della misteriosa morte di nove escursionisti russi nel 1959 sui Monti Urali"
-  },
-  {
-    "title": "Ben - Rabbia Animale",
-    "category": "Film - Horror",
-    "cover": "https://mr.comingsoon.it/imgdb/locandine/big/67860.jpg",
-    "duration": "1h 34m",
-    "trailer": "https://youtu.be/kgtAzoyvnO8?si=n0308Y4R98mJD9BK",
-    "plot": "Un ragazzo solitario stringe amicizia con un ratto di nome Ben, leader di un branco assassino.",
-    "in_arrivo": true
   },
   {
     "title": "Scream 7",
@@ -762,7 +761,23 @@
     "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
     "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
-    "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas"
+    "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas."
+  },
+  {
+    "title": "Stranger Things (Stagione 5)",
+    "category": "Serie TV",
+    "cover": "https://static.wikia.nocookie.net/strangerthings/images/3/31/ST2-Final_poster.webp/revision/latest?cb=20220726162721&path-prefix=it",
+    "duration": "5 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=HytHbk1eneY",
+    "plot": "Scontro finale con Vecna."
+  },
+  {
+    "title": "Bridgerton (Stagione 4)",
+    "category": "Serie TV",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewRwrpB6mDcT9oQ019Ikg5GT7a8fQMOJ0RQ&s",
+    "duration": "4 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=6cxl20MxmOs",
+    "plot": "Si concentra sull'attesa storia d'amore di Benedict Bridgerton."
   },
   {
     "title": "The Last of Us",
@@ -1113,6 +1128,7 @@
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
   }
 ]
+
 
 
 
