@@ -499,14 +499,6 @@
     "plot": "Attori famosi interpretano se stessi mentre affrontano l'apocalisse durante una festa a casa di James Franco."
   },
   {
-    "title": "Il Diavolo veste Prada",
-    "category": "Film - Commedia",
-    "cover": "https://pad.mymovies.it/filmclub/2006/05/380/locandina.jpg",
-    "duration": "1h 49m",
-    "trailer": "https://youtu.be/oGPcSLJTVF4?si=tK2ffVDnYdDI8Z6Q",
-    "plot": "Miranda giunge a New York dopo la laurea e trova lavoro come assistente di Miranda Priestly, direttrice di una delle più conosciute riviste di moda."
-  },
-  {
     "title": "Il Diavolo veste Prada 2",
     "category": "Film - Commedia",
     "cover": "https://pad.mymovies.it/filmclub/2025/05/154/locandina.jpg",
@@ -762,14 +754,6 @@
     "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
     "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas."
-  },
-  {
-    "title": "Stranger Things (Stagione 5)",
-    "category": "Serie TV",
-    "cover": "https://www.orientaserie.it/wp-content/uploads/2025/12/ST5.jpg",
-    "duration": "5 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=HytHbk1eneY",
-    "plot": "Scontro finale con Vecna."
   },
   {
     "title": "Bridgerton (Stagione 4)",
@@ -1079,15 +1063,6 @@
     "plot": "Le origini di un supereroe così dedito alla pace mondiale che è disposto a uccidere per ottenerla."
   },
   {
-    "title": "Supergirl: Woman of Tomorrow",
-    "category": "DCU",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg",
-    "duration": "TBA",
-    "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
-    "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo.",
-    "in_arrivo": true
-  },
-  {
     "title": "The Batman",
     "category": "DCU",
     "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg",
@@ -1126,8 +1101,18 @@
     "duration": "1 Stagione",
     "trailer": "https://youtu.be/wn7y3t5Fc6E?si=b84wcZnBBOraO7Af",
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
+  },
+   {
+    "title": "Supergirl: Woman of Tomorrow",
+    "category": "DCU",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
+    "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo.",
+    "in_arrivo": true
   }
 ]
+
 
 
 
