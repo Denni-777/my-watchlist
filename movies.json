@@ -417,6 +417,14 @@
     "plot": "Due maghi rivali si sfidano in una battaglia sempre più pericolosa per creare l'illusione definitiva."
   },
   {
+    "title": "Eyes Wide Shut",
+    "category": "Film - Thriller",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "2h 39m",
+    "trailer": "https://www.youtube.com/watch?v=QvJkKmPc3MI",
+    "plot": "Dopo una scioccante confessione della moglie su un desiderio tradimento, un medico di New York si avventura in una notte di ossessioni e incontri ambigui, culminando nell'infiltrazione in una pericolosa orgia rituale di una società segreta."
+  },
+  {
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          FILM - FANTASCIENZA                 ",
     "___SEZIONE___": "=============================================================================================================================================================="
@@ -666,6 +674,14 @@
     "duration": "1h 40m",
     "trailer": "https://www.youtube.com/watch?v=F9ftHHCxVm4",
     "plot": "Vaiana e Maui intraprendono un nuovo viaggio espansivo insieme a un equipaggio di marinai improbabili."
+  },
+  {
+    "title": "Goat",
+    "category": "Cartoni",
+    "cover": "https://pad.mymovies.it/filmclub/2025/07/034/locandina.jpg",
+    "duration": "1h 40m",
+    "trailer": "https://www.youtube.com/watch?v=y1op4MAOayA",
+    "plot": "Segue le vicende di Will, una piccola capra con il grande sogno di giocare a pallaruggente, uno sport estremo."
   },
   {
     "title": "Flow",
@@ -1034,6 +1050,15 @@
     "in_arrivo": true
   },
   {
+    "title": "Spider Noir (serie tv)",
+    "category": "MCU",
+    "cover": "https://fumettologica.it/wp-content/uploads/2026/02/spider-noir-poster.webp",
+    "duration": "TBA",
+    "trailer": "https://www.youtube.com/watch?v=Q_-YQWqYiRE",
+    "plot": "La serie segue le vicende di Ben Reilly, un investigatore privato segnato dal tempo e dalla sfortuna.",
+    "in_arrivo": true
+  }
+  {
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          DCU                ",
     "___SEZIONE___": "=============================================================================================================================================================="
@@ -1112,6 +1137,7 @@
     "in_arrivo": true
   }
 ]
+
 
 
 
