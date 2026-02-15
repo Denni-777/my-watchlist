@@ -61,6 +61,14 @@
     "plot": "Due colleghi un tempo rivali si ritrovano improvvisamente naufraghi su un'isola deserta dopo essere gli unici sopravvissuti a un disastro aereo."
   },
   {
+    "title": "Shelby Oaks: Il covo del male",
+    "category": "Film - Horror",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZGJiZTg1YjUtZjBjMC00YzFjLTk1MTQtYTc5NGYyMmFhNGIyXkEyXkFqcGc@._V1_.jpg",
+    "duration": "1h 42m",
+    "trailer": "https://www.youtube.com/watch?v=yQxQO_UAGn4",
+    "plot": "Mia cerca la sorella Riley, scomparsa anni prima mentre girava un documentario sui Paranormal Paranoids."
+  },
+  {
     "title": "Fantasy Island",
     "category": "Film - Horror",
     "cover": "https://pad.mymovies.it/filmclub/2019/11/056/locandina.jpg",
@@ -1137,6 +1145,7 @@
     "in_arrivo": true
   }
 ]
+
 
 
 
