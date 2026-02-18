@@ -652,14 +652,6 @@
     "plot": "Zootropolis 2 vede i detective Judy Hopps e Nick Wilde affrontare un caso complesso che mette in crisi la loro partnership."
   },
   {
-    "title": "K-Pop: Demon Hunters",
-    "category": "Cartoni",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",
-    "duration": "1h 35m",
-    "trailer": "https://www.youtube.com/watch?v=ztkSahuuAPE",
-    "plot": "Un gruppo musicale K-Pop bilancia la vita da star con la caccia ai demoni segreta."
-  },
-  {
     "title": "Il Robot Selvaggio",
     "category": "Cartoni",
     "cover": "https://www.universalpictures.it/tl_files/content/movies/wild_robot/posters/01.jpg",
@@ -1145,6 +1137,7 @@
     "in_arrivo": true
   }
 ]
+
 
 
 
