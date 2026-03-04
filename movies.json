@@ -5,6 +5,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Scream 7",
+    "category": "Film - Horror",
+    "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241",
+    "duration": "1h 54m",
+    "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
+    "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro."
+  },
+  {
     "title": "Ben - Rabbia Animale",
     "category": "Film - Horror",
     "cover": "https://mr.comingsoon.it/imgdb/locandine/big/67860.jpg",
@@ -203,15 +211,6 @@
     "duration": "1h 40m",
     "trailer": "https://www.youtube.com/watch?v=P9hREa67NLU",
     "plot": "Il passo del diavolo è un horror mockumentary che segue un gruppo di studenti universitari americani che ripercorrono i luoghi e le tracce della misteriosa morte di nove escursionisti russi nel 1959 sui Monti Urali"
-  },
-  {
-    "title": "Scream 7",
-    "category": "Film - Horror",
-    "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241",
-    "duration": "1h 54m",
-    "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
-    "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro.",
-    "in_arrivo": true
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
@@ -491,14 +490,6 @@
     "plot": "Una storia di ambizioni smisurate ed eccessi oltraggiosi nella Hollywood degli anni '20."
   },
   {
-    "title": "Fidanzata in affitto",
-    "category": "Film - Commedia",
-    "cover": "https://pad.mymovies.it/filmclub/2023/03/071/locandina.jpg",
-    "duration": "1h 43m",
-    "trailer": "https://www.youtube.com/watch?v=PBwvSgN29Q0",
-    "plot": "Una coppia sull'orlo della bancarotta accetta di uscire col figlio impacciato di una coppia ricca."
-  },  
-  {
     "title": "C'era una volta a... Hollywood",
     "category": "Film - Commedia",
     "cover": "https://images.justwatch.com/poster/309284691/s718/cera-una-volta-a-hollywood.jpg",
@@ -644,14 +635,6 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
-    "title": "Zootropolis 2",
-    "category": "Cartoni",
-    "cover": "https://pad.mymovies.it/filmclub/2024/07/025/locandinapg3.jpg",
-    "duration": "1h 50m",
-    "trailer": "https://www.youtube.com/watch?v=W-0Oa-2P6hY",
-    "plot": "Zootropolis 2 vede i detective Judy Hopps e Nick Wilde affrontare un caso complesso che mette in crisi la loro partnership."
-  },
-  {
     "title": "Il Robot Selvaggio",
     "category": "Cartoni",
     "cover": "https://www.universalpictures.it/tl_files/content/movies/wild_robot/posters/01.jpg",
@@ -680,8 +663,16 @@
     "category": "Cartoni",
     "cover": "https://pad.mymovies.it/filmclub/2025/07/034/locandina.jpg",
     "duration": "1h 40m",
-    "trailer": "https://www.youtube.com/watch?v=y1op4MAOayA",
+    "trailer": "https://www.youtube.com/watch?v=2uY7k1iStq4",
     "plot": "Segue le vicende di Will, una piccola capra con il grande sogno di giocare a pallaruggente, uno sport estremo."
+  },
+  {
+    "title": "Jumpers",
+    "category": "Cartoni",
+    "cover": "https://xtracult.it/wp-content/uploads/2025/09/Jumpers-%E2%80%93-Un-Salto-tra-gli-Animali-film-di-animazione-di-Daniel-Chong-poster-pre-819x1024.webp",
+    "duration": "1h 45m",
+    "trailer": "https://www.youtube.com/watch?v=y1op4MAOayA",
+    "plot": "In un futuro prossimo, una nuova tecnologia permette agli esseri umani di trasferire la propria coscienza in animali robotici iper-realistici per comunicare direttamente con la natura."
   },
   {
     "title": "Flow",
@@ -770,14 +761,6 @@
     "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
     "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas."
-  },
-  {
-    "title": "Bridgerton (Stagione 4)",
-    "category": "Serie TV",
-    "cover": "https://citynews-today.stgy.ovh/~media/original-hi/24859415736008/bridgerton-4-5.jpgs",
-    "duration": "4 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=6cxl20MxmOs",
-    "plot": "Si concentra sull'attesa storia d'amore di Benedict Bridgerton."
   },
   {
     "title": "The Last of Us",
@@ -988,6 +971,14 @@
     "plot": "Uno studente trova un quaderno che uccide chiunque il cui nome venga scritto su di esso."
   },
   {
+    "title": "Attack on Titan",
+    "category": "Serie TV animate",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_.jpg",
+    "duration": "4 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=jm2FUdcDJoc",
+    "plot": "In un mondo dove l'umanità vive rintanata dentro enormi mura per proteggersi da giganti mangia-uomini, il giovane Eren Jaeger si arruola nell'esercito per sterminarli."
+  },
+  {
     "title": "Invincible",
     "category": "Serie TV animate",
     "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2020/10/invincible-serie-prime-poster-2021.jpg",
@@ -1137,6 +1128,7 @@
     "in_arrivo": true
   }
 ]
+
 
 
 
