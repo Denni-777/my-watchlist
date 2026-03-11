@@ -755,6 +755,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "One Piece (Stagione 2)",
+    "category": "Serie TV",
+    "cover": "https://www.animeclick.it/immagini/live_action/One_Piece_Season_2/gallery_original/One_Piece_Season_2-667b31a8b2b87.jpg",
+    "duration": "2 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
+    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line"
+  },
+  {
     "title": "Fallout (Stagione 2)",
     "category": "Serie TV",
     "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
@@ -913,15 +921,6 @@
     "duration": "1 Stagione",
     "trailer": "https://youtu.be/2NQFi1fEguE?si=CQxtgGo-M4DaE1LE",
     "plot": "Show televisivo dove artisti di ogni tipo si esibiscono per vincere il favore dei giudici."
-  },
-  {
-    "title": "One Piece (Stagione 2)",
-    "category": "Serie TV",
-    "cover": "https://www.animeclick.it/immagini/live_action/One_Piece_Season_2/gallery_original/One_Piece_Season_2-667b31a8b2b87.jpg",
-    "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
-    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line",
-    "in_arrivo": true
   },
   {
     "title": "Il problema dei 3 corpi (Stagione 2)",
@@ -1128,6 +1127,7 @@
     "in_arrivo": true
   }
 ]
+
 
 
 
