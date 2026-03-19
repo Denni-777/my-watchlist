@@ -322,6 +322,14 @@
     "plot": "Un esploratore lotta per la sopravvivenza dopo essere stato sbranato da un orso e tradito dai suoi compagni."
   },
   {
+    "title": "Enigma",
+    "category": "Film - Azione",
+    "cover": "https://pad.mymovies.it/filmclub/2002/03/034/locandina.jpg",
+    "duration": "1h 59m",
+    "trailer": "https://www.youtube.com/watch?v=YS_OTd_JwR8",
+    "plot": "Nel marzo del 1943, il matematico inglese Tom Jericho ha il compito di scoprire il nuovo codice adottato dall'esercito tedesco per comunicare con i sottomarini."
+  },
+  {
     "title": "Avatar 3",
     "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2010/10/204/locandinapg2.jpg",
@@ -755,14 +763,6 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
-    "title": "One Piece (Stagione 2)",
-    "category": "Serie TV",
-    "cover": "https://www.animeclick.it/immagini/live_action/One_Piece_Season_2/gallery_original/One_Piece_Season_2-667b31a8b2b87.jpg",
-    "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
-    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line"
-  },
-  {
     "title": "Fallout (Stagione 2)",
     "category": "Serie TV",
     "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
@@ -932,6 +932,24 @@
     "in_arrivo": true
   },
   {
+    "title": "One Piece (Stagione 3)",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_.jpg",
+    "duration": "3 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=NbL4yGVcBMs",
+    "plot": "La trama seguirà la ciurma di Cappello di Paglia mentre entra nella Grand Line",
+    "in_arrivo": true
+  },
+  {
+    "title": "Wednesday (Stagione 3)",
+    "category": "Serie TV",
+    "cover": "https://media.gqitalia.it/photos/699d712713d5ceb78b8579d5/master/w_1600%2Cc_limit/Wednesday-Staffel3-Poster.jpg",
+    "duration": "3 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=3RNB5xrFYlM",
+    "plot": "Vedrà Mercoledì Addams affrontare un misterioso stalker e nuove indagini alla Nevermore Academy, accompagnata dal fratello Pugsley",
+    "in_arrivo": true
+  },
+  {
     "title": "The Boys (Stagione 5)",
     "category": "Serie TV",
     "cover": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
@@ -981,7 +999,7 @@
     "title": "Invincible",
     "category": "Serie TV animate",
     "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2020/10/invincible-serie-prime-poster-2021.jpg",
-    "duration": "3 Stagioni",
+    "duration": "4 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=-bfAVpuko5o",
     "plot": "Mark Grayson sembra, all'apparenza, un diciassettenne qualunque. In realtà, suo padre è il supereroe più potente del pianeta."
   },
@@ -1037,6 +1055,24 @@
     "duration": "TBA",
     "trailer": "https://youtu.be/izoe5Qu7Yms?si=J71gn_V_PRD70Z_b",
     "plot": "Basato sul gruppo dei Vendicatori di Marvel Comics, è il 39º film del Marvel Cinematic Universe e sequel di Avengers: Endgame.",
+    "in_arrivo": true
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "category": "MCU",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "TBA",
+    "trailer": "https://www.youtube.com/watch?v=liLNeEactNk",
+    "plot": "Dopo che il mondo ha dimenticato il suo nome, Peter Parker inizia un nuovo capitolo della sua vita, cercando di conciliare gli studi universitari, il lavoro part-time e le sue responsabilità come Amichevole Spider-Man di quartiere di New York.",
+    "in_arrivo": true
+  },
+  {
+    "title": "Daredevil Rinascita (stagione 2)",
+    "category": "MCU",
+    "cover": "https://pad.mymovies.it/filmclub/2026/01/257/locandina.jpg",
+    "duration": "TBA",
+    "trailer": "https://www.youtube.com/watch?v=oCrL4f0AIR4",
+    "plot": "La trama si preannuncia come un'intensificazione della lotta urbana a New York.",
     "in_arrivo": true
   },
   {
