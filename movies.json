@@ -7,7 +7,7 @@
   {
     "title": "Scream 7",
     "category": "Film - Horror",
-    "cover": "https://www.metropoliscinemas.it/uploads/eventi/thumb_zoom/Scream_7.jpg?1765445241",
+    "cover": "https://www.ingenerecinema.com/wp-content/uploads/2025/10/unnamed-2-scaled.jpg",
     "duration": "1h 54m",
     "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
     "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro."
@@ -445,6 +445,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Project Hail Mary",
+    "category": "Film - Fantascienza",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "2h 37m",
+    "trailer": "https://www.youtube.com/watch?v=lLqQZAGJ72k",
+    "plot": "Un insegnante di scienze si risveglia con amnesia su un'astronave e deve trovare un modo per salvare la Terra da un parassita solare, stringendo un'alleanza inaspettata. "
+  },
+  {
     "title": "Don't Look Up",
     "category": "Film - Fantascienza",
     "cover": "https://pad.mymovies.it/filmclub/2021/02/052/locandina.jpg",
@@ -606,14 +614,6 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
-    "title": "Wake Up Dead Man: Knives Out",
-    "category": "Film - Giallo",
-    "cover": "https://pad.mymovies.it/filmclub/2024/05/140/locandina.jpg",
-    "duration": "2h 24m",
-    "trailer": "https://www.youtube.com/watch?v=FceO9g1QvSM",
-    "plot": "Un uomo viene trovato morto in uno sgabuzzino di cemento solo 30 secondi dopo essere entrato, subito dopo aver tenuto una predica."
-  },
-  {
     "title": "Il club dei delitti del giovedì",
     "category": "Film - Giallo",
     "cover": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_.jpg",
@@ -643,28 +643,20 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Super Mario Galaxy",
+    "category": "Cartoni",
+    "cover": "https://pad.mymovies.it/filmclub/2025/11/106/locandina.jpg",
+    "duration": "1h 39m",
+    "trailer": "https://youtu.be/bTaytqYtib0?si=-BrjrNgB0YyGYIOa",
+    "plot": "Basato sul videogioco Super Mario Galaxy, è il sequel di Super Mario Bros."
+  },
+  {
     "title": "Il Robot Selvaggio",
     "category": "Cartoni",
     "cover": "https://www.universalpictures.it/tl_files/content/movies/wild_robot/posters/01.jpg",
     "duration": "1h 40m",
     "trailer": "https://www.youtube.com/watch?v=-VaKSnM-7RA",
     "plot": "Un robot naufraga su un'isola disabitata e deve imparare ad adattarsi all'ambiente circostante."
-  },
-  {
-    "title": "Elio",
-    "category": "Cartoni",
-    "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2025/03/elio-film-pixar-poster-2025-300x429.jpg",
-    "duration": "1h 39m",
-    "trailer": "https://www.youtube.com/watch?v=Rl8sZRuFiNs",
-    "plot": "Un ragazzo viene scambiato per l'ambasciatore della Terra da una federazione intergalattica."
-  },
-  {
-    "title": "Oceania 2",
-    "category": "Cartoni",
-    "cover": "https://pad.mymovies.it/filmclub/2024/02/086/locandina.jpg",
-    "duration": "1h 40m",
-    "trailer": "https://www.youtube.com/watch?v=F9ftHHCxVm4",
-    "plot": "Vaiana e Maui intraprendono un nuovo viaggio espansivo insieme a un equipaggio di marinai improbabili."
   },
   {
     "title": "Goat",
@@ -731,15 +723,6 @@
     "plot": "Uccelli e maiali devono allearsi quando una nuova minaccia mette in pericolo entrambe le loro isole."
   },
   {
-    "title": "Super Mario Galaxy",
-    "category": "Cartoni",
-    "cover": "https://pad.mymovies.it/filmclub/2025/11/106/locandina.jpg",
-    "duration": "TBA",
-    "trailer": "https://youtu.be/bTaytqYtib0?si=-BrjrNgB0YyGYIOa",
-    "plot": "Basato sul videogioco Super Mario Galaxy, è il sequel di Super Mario Bros.",
-    "in_arrivo": true
-  },
-  {
     "title": "Minions 3",
     "category": "Cartoni",
     "cover": "https://m.media-amazon.com/images/M/MV5BMTZiOGFlM2MtOTlhYy00NTRmLWFkNWQtOGE5ZDM5M2U3Njc0XkEyXkFqcGc@._V1_.jpg",
@@ -769,6 +752,14 @@
     "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
     "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas."
+  },
+  {
+    "title": "The Boys (Stagione 5)",
+    "category": "Serie TV",
+    "cover": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "duration": "5 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=ok0_QLaC2E4",
+    "plot": "La trama di The Boys 5 vede un mondo dominato da Patriota, con Hughie, MM e Frenchie imprigionati, mentre Annie cerca di organizzare una resistenza"
   },
   {
     "title": "The Last of Us",
@@ -950,15 +941,6 @@
     "in_arrivo": true
   },
   {
-    "title": "The Boys (Stagione 5)",
-    "category": "Serie TV",
-    "cover": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-    "duration": "5 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=ok0_QLaC2E4",
-    "plot": "La trama di The Boys 5 vede un mondo dominato da Patriota, con Hughie, MM e Frenchie imprigionati, mentre Annie cerca di organizzare una resistenza",
-    "in_arrivo": true
-  },
-  {
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          SERIE TV - ANIMATE               ",
     "___SEZIONE___": "=============================================================================================================================================================="
@@ -994,14 +976,6 @@
     "duration": "4 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=jm2FUdcDJoc",
     "plot": "In un mondo dove l'umanità vive rintanata dentro enormi mura per proteggersi da giganti mangia-uomini, il giovane Eren Jaeger si arruola nell'esercito per sterminarli."
-  },
-  {
-    "title": "Invincible",
-    "category": "Serie TV animate",
-    "cover": "https://www.ilcineocchio.it/cine/wp-content/uploads/2020/10/invincible-serie-prime-poster-2021.jpg",
-    "duration": "4 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=-bfAVpuko5o",
-    "plot": "Mark Grayson sembra, all'apparenza, un diciassettenne qualunque. In realtà, suo padre è il supereroe più potente del pianeta."
   },
   {
     "title": "Bojack Horseman",
@@ -1044,7 +1018,7 @@
     "title": "Daredevil Rinascita (stagione 2)",
     "category": "MCU",
     "cover": "https://pad.mymovies.it/filmclub/2026/01/257/locandina.jpg",
-    "duration": "TBA",
+    "duration": "2 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=oCrL4f0AIR4",
     "plot": "La trama si preannuncia come un'intensificazione della lotta urbana a New York."
   },
