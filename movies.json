@@ -5,20 +5,20 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Obsession",
+    "category": "Film - Horror",
+    "cover": "https://pad.mymovies.it/filmclub/2026/03/026/locandina.jpg",
+    "duration": "1h 50m",
+    "trailer": "https://www.youtube.com/watch?v=T7bMHs737HQ",
+    "plot": "La trama segue un romantico senza speranza che, dopo aver espresso un desiderio, scatena un oscuro incantesimo su una ragazza."
+  },
+  {
     "title": "Scream 7",
     "category": "Film - Horror",
     "cover": "https://www.ingenerecinema.com/wp-content/uploads/2025/10/unnamed-2-scaled.jpg",
     "duration": "1h 54m",
     "trailer": "https://youtu.be/HSSSntxEtMk?si=mvlec1nY3LRVujvg",
     "plot": "Un nuovo Ghostface prende di mira un gruppo di adolescenti per far risorgere i segreti di Woodsboro."
-  },
-  {
-    "title": "Lee Cronin - La Mummia",
-    "category": "Film - Horror",
-    "cover": "https://m.media-amazon.com/images/M/MV5BYjFiZjQ4MWUtM2Y0NC00NGZkLTllMmUtODllZDI5YTljZmZhXkEyXkFqcGc@._V1_.jpg",
-    "duration": "2h 14m",
-    "trailer": "https://www.youtube.com/watch?v=f47FMs62J8Q",
-    "plot": "Una famiglia incontra un'antica mummia in questa nuova interpretazione. "
   },
   {
     "title": "Ben - Rabbia Animale",
@@ -533,10 +533,9 @@
     "title": "Il Diavolo veste Prada 2",
     "category": "Film - Commedia",
     "cover": "https://pad.mymovies.it/filmclub/2025/05/154/locandina.jpg",
-    "duration": "TBA",
+    "duration": "1h 59m",
     "trailer": "https://youtu.be/DlVqEdP3DS4?si=ULGBLg1XPh8R7DTl",
-    "plot": "Basato sul romanzo del 2013 La vendetta veste Prada: il ritorno del diavolo di Lauren Weisberger.",
-    "in_arrivo": true
+    "plot": "Basato sul romanzo del 2013 La vendetta veste Prada: il ritorno del diavolo di Lauren Weisberger."
   },
   {
     "title": "Scary Movie 6",
@@ -659,14 +658,6 @@
     "plot": "Basato sul videogioco Super Mario Galaxy, è il sequel di Super Mario Bros."
   },
   {
-    "title": "Il Robot Selvaggio",
-    "category": "Cartoni",
-    "cover": "https://www.universalpictures.it/tl_files/content/movies/wild_robot/posters/01.jpg",
-    "duration": "1h 40m",
-    "trailer": "https://www.youtube.com/watch?v=-VaKSnM-7RA",
-    "plot": "Un robot naufraga su un'isola disabitata e deve imparare ad adattarsi all'ambiente circostante."
-  },
-  {
     "title": "Goat",
     "category": "Cartoni",
     "cover": "https://pad.mymovies.it/filmclub/2025/07/034/locandina.jpg",
@@ -752,22 +743,6 @@
     "___SEZIONE___": "==============================================================================================================================================================",
     "___TITOLO___":  "          SERIE TV                ",
     "___SEZIONE___": "=============================================================================================================================================================="
-  },
-  {
-    "title": "Fallout (Stagione 2)",
-    "category": "Serie TV",
-    "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
-    "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
-    "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas."
-  },
-  {
-    "title": "The Boys (Stagione 5)",
-    "category": "Serie TV",
-    "cover": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-    "duration": "5 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=ok0_QLaC2E4",
-    "plot": "La trama di The Boys 5 vede un mondo dominato da Patriota, con Hughie, MM e Frenchie imprigionati, mentre Annie cerca di organizzare una resistenza"
   },
   {
     "title": "The Last of Us",
@@ -914,12 +889,13 @@
     "plot": "Le vicende esilaranti di un talentuoso ma immaturo detective della polizia di New York."
   },
   {
-    "title": "Italia's Got Talent",
+    "title": "Fallout (Stagione 3)",
     "category": "Serie TV",
-    "cover": "https://faroentertainment.it/app/uploads/2024/01/50x70_Italias_Got_Talent-1.jpg",
-    "duration": "1 Stagione",
-    "trailer": "https://youtu.be/2NQFi1fEguE?si=CQxtgGo-M4DaE1LE",
-    "plot": "Show televisivo dove artisti di ogni tipo si esibiscono per vincere il favore dei giudici."
+    "cover": "https://pbs.twimg.com/media/GyU3dkDasAAJ6rB?format=jpg&name=large",
+    "duration": "2 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=mxYOtU8xZNs",
+    "plot": "La trama di Fallout stagione 2 riprende con Lucy e il Ghoul che inseguono Hank verso New Vegas.",
+    "in_arrivo": true
   },
   {
     "title": "Il problema dei 3 corpi (Stagione 2)",
@@ -1141,6 +1117,15 @@
     "duration": "TBA",
     "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
     "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo.",
+    "in_arrivo": true
+  },
+  {
+    "title": "Clayface",
+    "category": "DCU",
+    "cover": "https://mr.comingsoon.it/imgdb/locandine/big/67732.jpg",
+    "duration": "TBA",
+    "trailer": "https://www.youtube.com/watch?v=ouO_48WIkaw",
+    "plot": "Racconta la terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta.",
     "in_arrivo": true
   }
 ]
