@@ -5,14 +5,6 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
-    "title": "Obsession",
-    "category": "Film - Horror",
-    "cover": "https://pad.mymovies.it/filmclub/2026/03/026/locandina.jpg",
-    "duration": "1h 50m",
-    "trailer": "https://www.youtube.com/watch?v=T7bMHs737HQ",
-    "plot": "La trama segue un romantico senza speranza che, dopo aver espresso un desiderio, scatena un oscuro incantesimo su una ragazza."
-  },
-  {
     "title": "Scream 7",
     "category": "Film - Horror",
     "cover": "https://www.ingenerecinema.com/wp-content/uploads/2025/10/unnamed-2-scaled.jpg",
@@ -226,6 +218,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Odissea",
+    "category": "Film - Azione",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNTI4ODIyMGEtMWRmMS00MDNlLThiMTMtNzYwNTUzMTJiN2ZjXkEyXkFqcGc@._V1_.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/6SbP6gvsrlk?si=Rz98dLfGl5xZSPJb",
+    "plot": "Segue Odisseo nel suo pericoloso viaggio verso casa dopo la guerra di Troia, mostrando i suoi incontri con Polifemo, le Sirene, Circe e finendo con la sua riunione con sua moglie Penelope."
+  },
+  {
     "title": "Il Gladiatore",
     "category": "Film - Azione",
     "cover": "https://pad.mymovies.it/filmclub/2001/01/022/locandina.jpg",
@@ -344,15 +344,6 @@
     "duration": "1h 32m",
     "trailer": "https://www.youtube.com/watch?v=8jcGiXy_BJk",
     "plot": "Un borseggiatore e un agente della CIA si alleano per sventare un complotto terroristico a Parigi."
-  },
-  {
-    "title": "Odissea",
-    "category": "Film - Azione",
-    "cover": "https://m.media-amazon.com/images/M/MV5BNTI4ODIyMGEtMWRmMS00MDNlLThiMTMtNzYwNTUzMTJiN2ZjXkEyXkFqcGc@._V1_.jpg",
-    "duration": "TBA",
-    "trailer": "https://youtu.be/6SbP6gvsrlk?si=Rz98dLfGl5xZSPJb",
-    "plot": "Segue Odisseo nel suo pericoloso viaggio verso casa dopo la guerra di Troia, mostrando i suoi incontri con Polifemo, le Sirene, Circe e finendo con la sua riunione con sua moglie Penelope.",
-    "in_arrivo": true
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
@@ -489,6 +480,22 @@
     "___TITOLO___":  "          FILM - COMMEDIA               ",
     "___SEZIONE___": "=============================================================================================================================================================="
   },
+    {
+    "title": "Il Diavolo veste Prada 2",
+    "category": "Film - Commedia",
+    "cover": "https://pad.mymovies.it/filmclub/2025/05/154/locandina.jpg",
+    "duration": "1h 59m",
+    "trailer": "https://youtu.be/DlVqEdP3DS4?si=ULGBLg1XPh8R7DTl",
+    "plot": "Basato sul romanzo del 2013 La vendetta veste Prada: il ritorno del diavolo di Lauren Weisberger."
+  },
+  {
+    "title": "Scary Movie 6",
+    "category": "Film - Commedia",
+    "cover": "https://www.corrierenerd.it/wp-content/uploads/2025/08/scary-movie-6.webp",
+    "duration": "TBA",
+    "trailer": "https://www.youtube.com/watch?v=N7qBn8fHkWg",
+    "plot": "Una parodia esilarante di vari film horror"
+  },
   {
     "title": "Hit Man",
     "category": "Film - Commedia",
@@ -520,23 +527,6 @@
     "duration": "1h 47m",
     "trailer": "https://www.youtube.com/watch?v=I8nt4bAx6Z4",
     "plot": "Attori famosi interpretano se stessi mentre affrontano l'apocalisse durante una festa a casa di James Franco."
-  },
-  {
-    "title": "Il Diavolo veste Prada 2",
-    "category": "Film - Commedia",
-    "cover": "https://pad.mymovies.it/filmclub/2025/05/154/locandina.jpg",
-    "duration": "1h 59m",
-    "trailer": "https://youtu.be/DlVqEdP3DS4?si=ULGBLg1XPh8R7DTl",
-    "plot": "Basato sul romanzo del 2013 La vendetta veste Prada: il ritorno del diavolo di Lauren Weisberger."
-  },
-  {
-    "title": "Scary Movie 6",
-    "category": "Film - Commedia",
-    "cover": "https://www.corrierenerd.it/wp-content/uploads/2025/08/scary-movie-6.webp",
-    "duration": "TBA",
-    "trailer": "https://www.youtube.com/watch?v=N7qBn8fHkWg",
-    "plot": "Una parodia esilarante di vari film horror",
-    "in_arrivo": true
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
@@ -641,6 +631,22 @@
     "___TITOLO___":  "          FILM - CARTONI                ",
     "___SEZIONE___": "=============================================================================================================================================================="
   },
+    {
+    "title": "Minions & Monsters",
+    "category": "Cartoni",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNDBhOGM4ZDgtMWI2MS00MDFjLWE4MWMtMTM0Y2M5ZjY2NWFlXkEyXkFqcGc@._V1_.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/o0nk2yY8WMQ?si=xjMjnE9r410lhvvp",
+    "plot": "Dopo gli eventi di Despicable Me 4, i Mega Minions devono dimostrare di essere degni di continui investimenti da parte della Anti-Villain League."
+  },
+  {
+    "title": "Toy Story 5",
+    "category": "Cartoni",
+    "cover": "https://lumiere-a.akamaihd.net/v1/images/image_bbe90a7a.jpeg?region=0,0,540,810",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/7huS8LDvarw?si=6jYt22TC6bc3XRLn",
+    "plot": "Dopo aver ricevuto un misterioso pacco Bonnie si innamora di un tablet di nome Lilypad."
+  },
   {
     "title": "Super Mario Galaxy",
     "category": "Cartoni",
@@ -712,24 +718,6 @@
     "duration": "1h 37m",
     "trailer": "https://www.youtube.com/watch?v=N_l36q6R1kc",
     "plot": "Uccelli e maiali devono allearsi quando una nuova minaccia mette in pericolo entrambe le loro isole."
-  },
-  {
-    "title": "Minions 3",
-    "category": "Cartoni",
-    "cover": "https://m.media-amazon.com/images/M/MV5BMTZiOGFlM2MtOTlhYy00NTRmLWFkNWQtOGE5ZDM5M2U3Njc0XkEyXkFqcGc@._V1_.jpg",
-    "duration": "TBA",
-    "trailer": "https://youtu.be/o0nk2yY8WMQ?si=xjMjnE9r410lhvvp",
-    "plot": "Dopo gli eventi di Despicable Me 4, i Mega Minions devono dimostrare di essere degni di continui investimenti da parte della Anti-Villain League.",
-    "in_arrivo": true
-  },
-  {
-    "title": "Toy Story 5",
-    "category": "Cartoni",
-    "cover": "https://lumiere-a.akamaihd.net/v1/images/image_bbe90a7a.jpeg?region=0,0,540,810",
-    "duration": "TBA",
-    "trailer": "https://youtu.be/7huS8LDvarw?si=6jYt22TC6bc3XRLn",
-    "plot": "Dopo aver ricevuto un misterioso pacco Bonnie si innamora di un tablet di nome Lilypad.",
-    "in_arrivo": true
   },
   {
     "___SEZIONE___": "==============================================================================================================================================================",
