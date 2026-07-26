@@ -221,7 +221,7 @@
     "title": "Odissea",
     "category": "Film - Azione",
     "cover": "https://m.media-amazon.com/images/M/MV5BNTI4ODIyMGEtMWRmMS00MDNlLThiMTMtNzYwNTUzMTJiN2ZjXkEyXkFqcGc@._V1_.jpg",
-    "duration": "TBA",
+    "duration": "2h 52m",
     "trailer": "https://youtu.be/6SbP6gvsrlk?si=Rz98dLfGl5xZSPJb",
     "plot": "Segue Odisseo nel suo pericoloso viaggio verso casa dopo la guerra di Troia, mostrando i suoi incontri con Polifemo, le Sirene, Circe e finendo con la sua riunione con sua moglie Penelope."
   },
@@ -492,7 +492,7 @@
     "title": "Scary Movie 6",
     "category": "Film - Commedia",
     "cover": "https://www.corrierenerd.it/wp-content/uploads/2025/08/scary-movie-6.webp",
-    "duration": "TBA",
+    "duration": "1h 36m",
     "trailer": "https://www.youtube.com/watch?v=N7qBn8fHkWg",
     "plot": "Una parodia esilarante di vari film horror"
   },
@@ -635,7 +635,7 @@
     "title": "Minions & Monsters",
     "category": "Cartoni",
     "cover": "https://m.media-amazon.com/images/M/MV5BNDBhOGM4ZDgtMWI2MS00MDFjLWE4MWMtMTM0Y2M5ZjY2NWFlXkEyXkFqcGc@._V1_.jpg",
-    "duration": "TBA",
+    "duration": "1h 30m",
     "trailer": "https://youtu.be/o0nk2yY8WMQ?si=xjMjnE9r410lhvvp",
     "plot": "Dopo gli eventi di Despicable Me 4, i Mega Minions devono dimostrare di essere degni di continui investimenti da parte della Anti-Villain League."
   },
@@ -643,7 +643,7 @@
     "title": "Toy Story 5",
     "category": "Cartoni",
     "cover": "https://lumiere-a.akamaihd.net/v1/images/image_bbe90a7a.jpeg?region=0,0,540,810",
-    "duration": "TBA",
+    "duration": "1h 42m",
     "trailer": "https://youtu.be/7huS8LDvarw?si=6jYt22TC6bc3XRLn",
     "plot": "Dopo aver ricevuto un misterioso pacco Bonnie si innamora di un tablet di nome Lilypad."
   },
@@ -971,20 +971,20 @@
     "plot": "Un biochimico tenta di curarsi da una rara malattia del sangue, ma si infetta con una forma di vampirismo."
   },
   {
+    "title": "Daredevil Rinascita (serie tv - stagione 2)",
+    "category": "MCU",
+    "cover": "https://pad.mymovies.it/filmclub/2026/01/257/locandina.jpg",
+    "duration": "2 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=oCrL4f0AIR4",
+    "plot": "La trama si preannuncia come un'intensificazione della lotta urbana a New York."
+  },
+  {
     "title": "Marvel Zombies (serie tv)",
     "category": "MCU",
     "cover": "https://mr.comingsoon.it/rsz/serietv/serie/3790/3790.jpg?preset=pstr300",
     "duration": "1 stagione",
     "trailer": "https://youtu.be/nj3HKSjV9W0?si=x1Jql4088bYDxDKO",
     "plot": "Una nuova generazione di eroi combatte contro un'apocalisse zombie in continua espansione."
-  },
-  {
-    "title": "Daredevil Rinascita (stagione 2)",
-    "category": "MCU",
-    "cover": "https://pad.mymovies.it/filmclub/2026/01/257/locandina.jpg",
-    "duration": "2 Stagioni",
-    "trailer": "https://www.youtube.com/watch?v=oCrL4f0AIR4",
-    "plot": "La trama si preannuncia come un'intensificazione della lotta urbana a New York."
   },
   {
     "title": "Wonder Man (serie tv)",
@@ -994,6 +994,14 @@
     "trailer": "https://www.youtube.com/watch?v=uKEjWr5sDoY",
     "plot": "Gli attori in difficoltà Simon Williams e Trevor Slattery cercano di guadagnarsi un ruolo nel remake del film di supereroi Wonder Man."
   },
+    {
+    "title": "Spider Noir (serie tv)",
+    "category": "MCU",
+    "cover": "https://fumettologica.it/wp-content/uploads/2026/02/spider-noir-poster.webp",
+    "duration": "1 stagione",
+    "trailer": "https://www.youtube.com/watch?v=Q_-YQWqYiRE",
+    "plot": "La serie segue le vicende di Ben Reilly, un investigatore privato segnato dal tempo e dalla sfortuna."
+  },
   {
     "title": "Avengers: Doomsday",
     "category": "MCU",
@@ -1001,24 +1009,6 @@
     "duration": "TBA",
     "trailer": "https://youtu.be/izoe5Qu7Yms?si=J71gn_V_PRD70Z_b",
     "plot": "Basato sul gruppo dei Vendicatori di Marvel Comics, è il 39º film del Marvel Cinematic Universe e sequel di Avengers: Endgame.",
-    "in_arrivo": true
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "category": "MCU",
-    "cover": "https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "TBA",
-    "trailer": "https://www.youtube.com/watch?v=liLNeEactNk",
-    "plot": "Dopo che il mondo ha dimenticato il suo nome, Peter Parker inizia un nuovo capitolo della sua vita, cercando di conciliare gli studi universitari, il lavoro part-time e le sue responsabilità come Amichevole Spider-Man di quartiere di New York.",
-    "in_arrivo": true
-  },
-  {
-    "title": "Spider Noir (serie tv)",
-    "category": "MCU",
-    "cover": "https://fumettologica.it/wp-content/uploads/2026/02/spider-noir-poster.webp",
-    "duration": "TBA",
-    "trailer": "https://www.youtube.com/watch?v=Q_-YQWqYiRE",
-    "plot": "La serie segue le vicende di Ben Reilly, un investigatore privato segnato dal tempo e dalla sfortuna.",
     "in_arrivo": true
   },
   {
@@ -1043,6 +1033,14 @@
     "plot": "Il nuovo film di James Gunn che rilancia l'Uomo d'Acciaio."
   },
   {
+    "title": "Supergirl: Woman of Tomorrow",
+    "category": "DCU",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg",
+    "duration": "TBA",
+    "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
+    "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo."
+  },
+  {
     "title": "Peacemaker (serie tv)",
     "category": "DCU",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OwYNITnyUw2cVifg3KZl3OgDyB_fnv63-A&s",
@@ -1053,7 +1051,7 @@
   {
     "title": "The Batman",
     "category": "DCU",
-    "cover": "https://www.warnerbros.it/wp-content/uploads/2022/01/The-Batman_Poster-Italia.jpg",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "2h 56m",
     "trailer": "https://youtu.be/JKjSqs5czLA?si=ZIDW4AY4Ll7tbtYs",
     "plot": "Un giovane Bruce Wayne indaga sulla corruzione di Gotham mentre insegue l'Enigmista."
@@ -1089,15 +1087,6 @@
     "duration": "1 Stagione",
     "trailer": "https://youtu.be/wn7y3t5Fc6E?si=b84wcZnBBOraO7Af",
     "plot": "L'ascesa di Oswald Cobblepot nel mondo criminale di Gotham City dopo gli eventi di The Batman."
-  },
-  {
-    "title": "Supergirl: Woman of Tomorrow",
-    "category": "DCU",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supergirl_%282026_film%29_poster.jpg/250px-Supergirl_%282026_film%29_poster.jpg",
-    "duration": "TBA",
-    "trailer": "https://youtu.be/R3zGpppV7cQ?si=DXCoOIZMJK1rRtLj",
-    "plot": "Una versione sci-fi e avventurosa di Supergirl che viaggia per il cosmo.",
-    "in_arrivo": true
   },
   {
     "title": "Clayface",
