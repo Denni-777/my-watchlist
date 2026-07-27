@@ -5,6 +5,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Backrooms",
+    "category": "Film - Horror",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOWY0ZmIzZDQtZDM5Yi00ZjE0LWJhMzItNDM2OTAxOWNhZDkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1h 50m",
+    "trailer": "https://www.youtube.com/watch?v=Glc2LWw_S5g",
+    "plot": "Le Backrooms sono una leggenda del web nata nel 2019 che descrive una dimensione parallela, un labirinto infinito di stanze vuote con pareti gialle e luci ronzanti."
+  },
+  {
     "title": "Scream 7",
     "category": "Film - Horror",
     "cover": "https://www.ingenerecinema.com/wp-content/uploads/2025/10/unnamed-2-scaled.jpg",
@@ -441,7 +449,15 @@
     "cover": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "2h 37m",
     "trailer": "https://www.youtube.com/watch?v=lLqQZAGJ72k",
-    "plot": "Un insegnante di scienze si risveglia con amnesia su un'astronave e deve trovare un modo per salvare la Terra da un parassita solare, stringendo un'alleanza inaspettata. "
+    "plot": "Un insegnante di scienze si risveglia con amnesia su un'astronave e deve trovare un modo per salvare la Terra da un parassita solare, stringendo un'alleanza inaspettata."
+  },
+  {
+    "title": "Disclosure Day",
+    "category": "Film - Fantascienza",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULtriRSiwARG63HuL1OEaeNCGb_j1bOqTb_DnzG6Gvg&s=10",
+    "duration": "2h 25m",
+    "trailer": "https://www.youtube.com/watch?v=6Ssxl3hmLWs",
+    "plot": "Racconta di un hacker che ruba file segreti sugli alieni e di una meteorologa che sviluppa inspiegabili capacità empatiche e linguistiche."
   },
   {
     "title": "Don't Look Up",
@@ -664,12 +680,12 @@
     "plot": "Segue le vicende di Will, una piccola capra con il grande sogno di giocare a pallaruggente, uno sport estremo."
   },
   {
-    "title": "Jumpers",
+    "title": "Paprika",
     "category": "Cartoni",
-    "cover": "https://xtracult.it/wp-content/uploads/2025/09/Jumpers-%E2%80%93-Un-Salto-tra-gli-Animali-film-di-animazione-di-Daniel-Chong-poster-pre-819x1024.webp",
-    "duration": "1h 45m",
-    "trailer": "https://www.youtube.com/watch?v=2uY7k1iStq4",
-    "plot": "In un futuro prossimo, una nuova tecnologia permette agli esseri umani di trasferire la propria coscienza in animali robotici iper-realistici per comunicare direttamente con la natura."
+    "cover": "https://pad.mymovies.it/filmclub/2006/08/271/locandinapg1.jpg",
+    "duration": "1h 30m",
+    "trailer": "https://www.youtube.com/watch?v=pVSDNHFFWxk",
+    "plot": "Quando viena rubata una macchina che permette ai terapeuti di entrare nei sogni dei loro pazienti, si scatena l'inferno."
   },
   {
     "title": "Flow",
@@ -773,12 +789,36 @@
     "plot": "Un brillante libraio usa internet e i social media per avvicinarsi alla donna dei suoi sogni, diventando ossessivo."
   },
   {
+    "title": "Pluribus",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://www.youtube.com/watch?v=PjvQtzp_bvw",
+    "plot": "La storia segue Carol Sturka, una scrittrice di Albuquerque che è una delle pochissime persone immuni a un virus alieno capace di unire tutta l'umanità in un'unica e pacifica mente alveare."
+  },
+  {
     "title": "Defending Jacob",
     "category": "Serie TV",
     "cover": "https://m.media-amazon.com/images/M/MV5BMDdmOTE1YzktOWFmNS00N2U0LWIzZDAtOTRiOWYzODkxMDc3XkEyXkFqcGc@._V1_.jpg",
     "duration": "1 Stagione",
     "trailer": "https://www.youtube.com/watch?v=2IB6mlRCCUo",
     "plot": "Dopo un crimine che scuote una piccola città, un assistente del procuratore distrettuale si trova diviso tra il suo dovere di sostenere la legge e l'amore per suo figlio."
+  },
+  {
+    "title": "I will found you",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYWFkOGU5ZTYtZTlhMi00NThiLWI3ZDEtMGQ2Y2UzNjlkZTUxXkEyXkFqcGc@._V1_.jpg",
+    "duration": "1 Stagione",
+    "trailer": "https://www.youtube.com/watch?v=8UQBWoMjGHA",
+    "plot": "Segue David Burroughs, un padre condannato ingiustamente all'ergastolo per l'omicidio del figlioletto Matthew."
+  },
+  {
+    "title": "From",
+    "category": "Serie TV",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNDAwNDljNWEtNWE1Zi00YjFlLWEzM2UtY2E3ZTM1MTcxMTcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "4 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=_Op-C7LmmPk",
+    "plot": "Persone da tutto il paese restano intrappolate lì senza poter più uscire. Di notte, mostri pericolosi escono dai boschi e attaccano chiunque sia all'aperto."
   },
   {
     "title": "Narcos",
@@ -910,6 +950,14 @@
     "___SEZIONE___": "=============================================================================================================================================================="
   },
   {
+    "title": "Undone",
+    "category": "Serie TV animate",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMGU0OGE0Y2EtODA2Ny00MmEyLThiY2QtNWQzNTZhODg1NmIxXkEyXkFqcGc@._V1_.jpg",
+    "duration": "2 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=UA0654BVHZg",
+    "plot": " La storia segue Alma, una giovane donna insoddisfatta della sua routine. Dopo un grave incidente d'auto, inizia a comunicare con il defunto padre per scoprire la verità sulla sua morte, imparando a manipolare il tempo."
+  },
+  {
     "title": "Hazbin Hotel",
     "category": "Serie TV animate",
     "cover": "https://m.media-amazon.com/images/M/MV5BOGMxYWIwMWYtZjY4OC00MzMwLWIyNDEtYWNiZTJlMzg3ODdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -940,6 +988,14 @@
     "duration": "4 Stagioni",
     "trailer": "https://www.youtube.com/watch?v=jm2FUdcDJoc",
     "plot": "In un mondo dove l'umanità vive rintanata dentro enormi mura per proteggersi da giganti mangia-uomini, il giovane Eren Jaeger si arruola nell'esercito per sterminarli."
+  },
+  {
+    "title": "Demon Slayer",
+    "category": "Serie TV animate",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_.jpg",
+    "duration": "4 Stagioni",
+    "trailer": "https://www.youtube.com/watch?v=StOG2axOuf0",
+    "plot": "Segue le vicende di Tanjiro Kamado, un giovane dal cuore gentile che diventa un cacciatore di demoni per vendicare la sua famiglia."
   },
   {
     "title": "Bojack Horseman",
